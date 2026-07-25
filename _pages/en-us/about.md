@@ -2,8 +2,6 @@
 layout: about
 title: 主页
 permalink: /
-lang: zh-CN
-page_language: zh
 nav: false
 subtitle: >
   东北大学秦皇岛分校<br>
