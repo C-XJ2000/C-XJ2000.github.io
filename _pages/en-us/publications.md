@@ -11,17 +11,6 @@ nav_order: 2
 
 ### - **Journal Papers**
 
-<style>
-.journal-papers p {
-  padding-left: 3em;    /* 整段向右移动 */
-  text-indent: -3em;    /* 第一行向左移动，使编号悬挂 */
-  margin-top: 0;
-  margin-bottom: 1.2em; /* 每篇论文之间的距离 */
-  line-height: 1.7;     /* 行距 */
-  text-align: justify;  /* 两端对齐，可删除 */
-}
-</style>
-
 <div class="journal-papers" markdown="1">
 
 [1] **Qian Zhang**, _et al._, "Hierarchical sub-array beam training for flexible intelligent metasurface-enabled hybrid near-far-field multiuser communications," **IEEE Journal on Selected Areas in Communications**, 2026.  (JCR Q1, IF = 16.8, **大修**)
