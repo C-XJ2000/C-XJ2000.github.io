@@ -1,7 +1,7 @@
 ---
 page_id: publications
 layout: page
-title: 
+title: publications
 permalink: /publications/
 title: 
 description: main research achievements in the fields of wireless communication and sensing
