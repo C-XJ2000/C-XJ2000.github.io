@@ -36,8 +36,8 @@ latest_posts:
 ---
 ## 👨‍🏫 基本信息
 张迁，男，2000年4月出生，工学博士，副教授，IEEE Member。
-2021年于山东农业大学获得工学学士学位；同年保送至山东大学直接攻读博士研究生，导师: 刘琚教授（二级）；
-2024年受国家留学基金委资助赴新加坡南洋理工大学EEE学院联合培养，导师：Yong Liang Guan（副校长）、Chau Yuen（IEEE Fellow）；
+2021年于山东农业大学获得工学学士学位；同年保送至山东大学直接攻读博士研究生，师从刘琚教授（二级）；
+2024年受国家留学基金委资助赴新加坡南洋理工大学EEE学院联合培养，师从Prof. Yong Liang Guan（副校长）和Prof. Chau Yuen（IEEE Fellow）；
 2026年6月于山东大学获得工学博士学位。  
 
 目前主要从事智能超表面、凸优化理论、人工智能算法在无线通信和感知领域应用的相关研究。在通信领域顶级期刊IEEE TWC、TCOM和顶级会议IEEE ICC、ICASSP等发表学术论文近30篇，其中第一/共一作者论文15篇。2篇论文入选ESI高被引论文（一作），1篇论文入选IEEE CL年度最受欢迎论文TOP 2（一作），1篇论文连续多月入选IEEE CL最受欢迎论文TOP 50（共一）。授权专利3项。担任2026 PIMRC TPC Chair；多次担任IEEE ICC、Globecom、WCNC等国际会议TPC Member；常年担任IEEE JSAC、TWC、TCOM、WCM、TIFS、TCCN、TVT、TITS、IOTJ、WCL、CL等十余家国际期刊审稿人。 
