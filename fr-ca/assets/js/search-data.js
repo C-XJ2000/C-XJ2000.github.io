@@ -27,13 +27,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/fr-ca/publications/";
           },
-        },{id: "nav-cv",
-          title: "cv",
-          description: "Esta é uma descrição da página. Você pode modificá-la em &#39;_pages/cv.md&#39;. Também pode alterar ou remover o botão no topo de download de pdf.",
-          section: "menu de navigation",
-          handler: () => {
-            window.location.href = "/fr-ca/cv/";
-          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",

@@ -48,13 +48,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/pt-br/repositories/";
           },
-        },{id: "nav-cv",
-          title: "cv",
-          description: "Esta é uma descrição da página. Você pode modificá-la em &#39;_pages/cv.md&#39;. Também pode alterar ou remover o botão no topo de download de pdf.",
-          section: "Menu de navegação",
-          handler: () => {
-            window.location.href = "/pt-br/cv/";
-          },
         },{id: "nav-ensino",
           title: "ensino",
           description: "Materiais de cursos que você ministrou. Substitua esse texto com sua descrição.",
