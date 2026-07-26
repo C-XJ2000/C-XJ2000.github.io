@@ -28,7 +28,7 @@ nav_order: 2
 
 </div>
 
-### -**Journal Papers**
+### - **Journal Papers**
 
 [1] **Qian Zhang**, _et al._, "Hierarchical sub-array beam training for flexible intelligent metasurface-enabled hybrid near-far-field multiuser communications," **IEEE Journal on Selected Areas in Communications**, 2026.  (JCR Q1, IF = 16.8, **大修**)
 
@@ -80,7 +80,7 @@ nav_order: 2
 
 ---
 
-### -**Conference Papers**
+### - **Conference Papers**
 
 [1] **Qian Zhang**, Mingjie Shao, Qiang Li, and Ju Liu, "An efficient algorithm for multiuser sum-rate maximization of large-scale active RIS-aided MIMO system," ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), Seoul, Korea, Republic of, 2024, pp. 9036-9040. (EI, CCF B, IEEE SPS旗舰会议)
 
