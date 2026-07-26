@@ -19,7 +19,7 @@ nav_order: 2
       <span class="venue">IEEE Transactions on Wireless Communications</span>,
       2026.
       <span class="publication-links">
-        <a href="https://doi.org/你的DOI" target="_blank" rel="noopener noreferrer">[DOI]</a>
+        <a href="https://doi.org/10.1109/TWC.2026.3661858" target="_blank" rel="noopener noreferrer">[DOI]</a>
         <a href="https://ieeexplore.ieee.org/document/11395460" target="_blank" rel="noopener noreferrer">[PDF]</a>
         /* <a href="你的代码链接" target="_blank" rel="noopener noreferrer">[Code]</a> */
       </span>
