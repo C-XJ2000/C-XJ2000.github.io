@@ -14,12 +14,12 @@ profile:
   image: Qian_Zhang_GitHub.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>东北大学秦皇岛分校</p>
-    <p>计算机与通信工程学院</p>
-    <p>副教授</p>
-    <p>工学博士</p>
-    <p>毕业院校: 山东大学</p>
-    <p>邮箱: zq869054246@163.com</p>
+    <p>- **东北大学秦皇岛分校**</p>
+    <p>- **计算机与通信工程学院**</p>
+    <p>- **职称: 副教授**</p>
+    <p>- **学历: 工学博士**</p>
+    <p>- **毕业院校: 山东大学**</p>
+    <p>- **邮箱: zq869054246@163.com**</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -50,7 +50,7 @@ latest_posts:
 - 2026—至今  东北大学秦皇岛分校 计算机与通信工程学院 副教授
 - 2024—2025  新加坡南洋理工大学EEE                 联合培养博士   导师：Yong Liang Guan（副校长）、Chau Yuen（IEEE Fellow）
 - 2021—2026  山东大学信息科学与工程学院            工学博士      导师: 刘琚教授（二级）
-- 2017—2021  山东农业大学信息科学与工程学院         工学学士（专业第一、获推荐免试研究生资格）
+- 2017—2021  山东农业大学信息科学与工程学院         工学学士（专业第一、获推荐免试攻读研究生资格）
 
 ---
 
