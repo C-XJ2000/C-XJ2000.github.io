@@ -1,10 +1,8 @@
 ---
 page_id: about
 layout: about
-title: profiles
+title: home page
 permalink: /
-nav: true
-nav_order: 1
 subtitle: >
   <br>
   
