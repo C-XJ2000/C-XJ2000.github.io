@@ -25,7 +25,7 @@ nav_order: 2
 ## 📚 **Publications**  (†共同一作、*通讯作者)
 ---
 
-### - **Journal Papers**
+### 📘 **Journal Papers**
 
 [1] **Qian Zhang**, _et al._, "Hierarchical sub-array beam training for flexible intelligent metasurface-enabled hybrid near-far-field multiuser communications," **IEEE Journal on Selected Areas in Communications**, 2026.  (JCR Q1, IF = 16.8, **大修**)
 
@@ -33,7 +33,7 @@ nav_order: 2
 
 [3] **Qian Zhang**, _et al._, "Joint precoding and phase-shift optimization algorithm for RIS-aided multiple access systems," **IEEE Transactions on Cognitive Communications and Networking**, 2026.  (JCR Q1, IF = 8, **To be submitted**)
 
-[4] **Qian Zhang**, Zheng Dong, _et al._, "Multi-resolution codebook design and multiuser interference management for discrete XL-RIS-aided near-field MIMO systems," **IEEE Transactions on Wireless Communications**, vol. 25, pp. 2826-2842, 2026.  (JCR Q1, IF = 10.7, **ESI高被引**)  [DOI](https://doi.org/10.1109/TWC.2025.3599514)
+[4] **Qian Zhang**, Zheng Dong, _et al._, "Multi-resolution codebook design and multiuser interference management for discrete XL-RIS-aided near-field MIMO systems," **IEEE Transactions on Wireless Communications**, vol. 25, pp. 2826-2842, 2026.  (JCR Q1, IF = 10.7, 🏆 **ESI高被引**)  [DOI](https://doi.org/10.1109/TWC.2025.3599514)
 
 [5] **Qian Zhang**, Ju Liu, _et al._, "Practical RIS-aided multiuser communications with imperfect CSI: Practical model, amplitude feedback, and beamforming optimization," **IEEE Transactions on Wireless Communications**, vol. 23, no. 10, pp. 15245-15260, Oct. 2024.  (JCR Q1, IF = 10.7) [DOI](https://doi.org/10.1109/TWC.2024.3427695)
 
@@ -45,7 +45,7 @@ nav_order: 2
 
 [9] **Qian Zhang**, Yufei Zhao, _et al._, "Crem\'er-Rao bound minimization for flexible intelligent metasurfaces enabled ISAC systems," **IEEE Transactions on Vehicular Technology**, 2025. (JCR Q1, IF = 7.1) [DOI](https://doi.org/10.1109/TVT.2026.3701078)
 
-[10] **Qian Zhang**, Mingjie Shao, _et al._, "An efficient sum-rate maximization algorithm for fluid antenna-assisted ISAC system," **IEEE Communications Letters**, vol. 29, no. 1, pp. 200-204, Jan. 2025. (JCR Q2, IF = 4.4, **ESI高被引**, **年度最受欢迎论文TOP2**) [DOI](https://doi.org/10.1109/TVT.2026.370107810.1109/LCOMM.2024.3510334)
+[10] **Qian Zhang**, Mingjie Shao, _et al._, "An efficient sum-rate maximization algorithm for fluid antenna-assisted ISAC system," **IEEE Communications Letters**, vol. 29, no. 1, pp. 200-204, Jan. 2025. (JCR Q2, IF = 4.4, 🏆 **ESI高被引**, **年度最受欢迎论文TOP2**) [DOI](https://doi.org/10.1109/TVT.2026.370107810.1109/LCOMM.2024.3510334)
 
 [11] **Qian Zhang**†, Guanghui Luo†, _et al._, "Beyond-diagonal reconfigurable intelligent surface enhanced NOMA systems," **IEEE Wireless Communications Letters**, vol. 14, no. 1, pp. 118-122, Jan. 2025. (JCR Q1, IF = 5.5) [DOI](https://doi.org/10.1109/LWC.2024.3489718)
 
@@ -77,7 +77,7 @@ nav_order: 2
 
 ---
 
-### - **Conference Papers**
+### 🎤 **Conference Papers**
 
 [1] **Qian Zhang**, Mingjie Shao, Qiang Li, and Ju Liu, "An efficient algorithm for multiuser sum-rate maximization of large-scale active RIS-aided MIMO system," ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), Seoul, Korea, Republic of, 2024, pp. 9036-9040. (EI, CCF B, IEEE SPS旗舰会议) [DOI](https://doi.org/10.1109/ICASSP48485)
 
