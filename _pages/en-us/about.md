@@ -1,8 +1,10 @@
 ---
+page_id: about
 layout: about
-title: 主页
+title: home page
 permalink: /
-nav: false
+nav: true
+nav_order: 1
 subtitle: >
   东北大学秦皇岛分校<br>
   计算机与通信工程学院
