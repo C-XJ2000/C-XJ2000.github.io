@@ -20,8 +20,8 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/fr-ca/";
     },
-  },{id: "nav-",
-          title: "",
+  },{id: "nav-publications",
+          title: "publications",
           description: "main research achievements in the fields of wireless communication and sensing",
           section: "menu de navigation",
           handler: () => {
