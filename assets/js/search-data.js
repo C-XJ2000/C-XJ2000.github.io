@@ -14,13 +14,20 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-张迁",
-    title: "张迁",
+    id: "nav-home-page",
+    title: "home page",
     section: "Navigation menu",
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-blog",
+  },{id: "nav-home-page",
+          title: "home page",
+          description: "",
+          section: "Navigation menu",
+          handler: () => {
+            window.location.href = "/";
+          },
+        },{id: "nav-blog",
           title: "blog",
           description: "a simple whitespace theme for academics",
           section: "Navigation menu",
