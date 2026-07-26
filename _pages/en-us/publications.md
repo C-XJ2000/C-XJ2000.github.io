@@ -77,7 +77,7 @@ nav_order: 2
 
 ---
 
-### 🏛️ **Conference Papers**
+### 🧑‍🏫 **Conference Papers**
 
 [1] **Qian Zhang**, Mingjie Shao, Qiang Li, and Ju Liu, "An efficient algorithm for multiuser sum-rate maximization of large-scale active RIS-aided MIMO system," ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), Seoul, Korea, Republic of, 2024, pp. 9036-9040. (EI, CCF B, IEEE SPS旗舰会议) [DOI](https://doi.org/10.1109/ICASSP48485)
 
