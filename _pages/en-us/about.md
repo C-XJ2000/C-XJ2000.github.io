@@ -1,7 +1,7 @@
 ---
 page_id: about
 layout: about
-title: home page
+title: profile
 permalink: /
 subtitle: >
   <br>
