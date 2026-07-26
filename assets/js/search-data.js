@@ -14,14 +14,14 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-home-page",
-    title: "home page",
+    id: "nav-profiles",
+    title: "profiles",
     section: "Navigation menu",
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-home-page",
-          title: "home page",
+  },{id: "nav-profiles",
+          title: "profiles",
           description: "",
           section: "Navigation menu",
           handler: () => {
