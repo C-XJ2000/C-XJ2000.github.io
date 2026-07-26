@@ -3,7 +3,7 @@ page_id: publications
 layout: page
 title: publications
 permalink: /publications/
-title: 
+title: publications
 description: main research achievements in the fields of wireless communication and sensing
 nav: true
 nav_order: 2
