@@ -9,7 +9,7 @@ nav: true
 nav_order: 2
 ---
 
-## Publications (^共同一作、*通讯作者)
+## Publications (†共同一作、*通讯作者)
 
 ### Journal Papers
 
