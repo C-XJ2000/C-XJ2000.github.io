@@ -8,6 +8,18 @@ description: publications by categories in reversed chronological order. generat
 nav: true
 nav_order: 2
 ---
+<style>
+.journal-papers p {
+  padding-left: 3em;
+  text-indent: -3em;
+  margin-top: 0;
+  margin-bottom: 1.2em;
+  line-height: 1.7;
+  text-align: justify;
+  font-family: "Times New Roman", "Songti SC", "SimSun", serif;
+  font-size: 17px;
+}
+</style>
 
 ### - **Journal Papers**
 
