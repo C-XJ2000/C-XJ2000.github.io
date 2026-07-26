@@ -1,7 +1,7 @@
 ---
 page_id: about
 layout: about
-title: home page
+title: profiles
 permalink: /
 nav: true
 nav_order: 1
