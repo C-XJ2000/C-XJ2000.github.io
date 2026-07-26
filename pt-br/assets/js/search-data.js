@@ -34,13 +34,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/pt-br/publications/";
           },
-        },{id: "nav-publications",
-          title: "publications",
-          description: "",
-          section: "Menu de navegação",
-          handler: () => {
-            window.location.href = "/pt-br/publications/";
-          },
         },{id: "nav-projetos",
           title: "projetos",
           description: "Uma crescente coleção de seus projetos interessantes.",
