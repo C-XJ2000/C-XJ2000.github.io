@@ -11,7 +11,7 @@ nav_order: 2
 <style>
 .journal-papers p {
   padding-left: 2em;
-  text-indent: -3em;
+  text-indent: -2em;
   margin-top: 0;
   margin-bottom: 1.2em;
   line-height: 1.7;
