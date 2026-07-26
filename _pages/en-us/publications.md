@@ -16,34 +16,8 @@ nav_order: 2
   margin-bottom: 1.2em;
   line-height: 1.7;
   text-align: justify;
-  font-family: "Times New Roman", "Songti SC", "SimSun", serif !important;
+  /*  font-family: "Times New Roman", "Songti SC", "SimSun", serif !important; */
   font-size: 17px;
-}
-
-/* 强制显示加粗 */
-.journal-papers strong,
-.journal-papers b {
-  font-family: "Times New Roman", "Songti SC", "SimSun", serif !important;
-  font-weight: 700 !important;
-}
-
-/* 强制显示斜体 */
-.journal-papers em,
-.journal-papers i {
-  font-family: "Times New Roman", "Songti SC", "SimSun", serif !important;
-  font-style: italic !important;
-}
-
-/* DOI 等链接保持相同字体 */
-.journal-papers a {
-  font-family: "Times New Roman", "Songti SC", "SimSun", serif !important;
-}
-
-/* 标题字体 */
-.journal-papers h2,
-.journal-papers h3 {
-  font-family: "Times New Roman", "Songti SC", "SimSun", serif !important;
-  font-weight: 700 !important;
 }
 </style>
 <div class="journal-papers" markdown="1">
