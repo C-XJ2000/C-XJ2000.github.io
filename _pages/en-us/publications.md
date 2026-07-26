@@ -13,8 +13,7 @@ nav_order: 2
 
   <div class="publication-item">
     <div class="publication-content">
-      <span class="author-me">Qian Zhang</span>,
-      Yong Liang Guan, Chau Yuen, and Jiancheng An,
+      Qian Zhang, Yong Liang Guan, Chau Yuen, and Jiancheng An,
       “Two-Stage Coded-Sliding Beam Training and QoS-Constrained Sum-Rate Maximization for SIM-Assisted Wireless Communications,”
       <span class="venue">IEEE Transactions on Wireless Communications</span>,
       2026.
