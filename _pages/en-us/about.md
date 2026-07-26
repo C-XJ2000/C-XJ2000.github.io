@@ -14,12 +14,12 @@ profile:
   image: Qian_Zhang_GitHub.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>- **东北大学秦皇岛分校**</p>
-    <p>- **计算机与通信工程学院**</p>
-    <p>- **职称: 副教授**</p>
-    <p>- **学历: 工学博士**</p>
-    <p>- **毕业院校: 山东大学**</p>
-    <p>- **邮箱: zq869054246@163.com**</p>
+    <p>- 学校: 东北大学秦皇岛分校</p>
+    <p>- 学院: 计算机与通信工程学院</p>
+    <p>- 职称: 副教授</p>
+    <p>- 学历: 工学博士</p>
+    <p>- 毕业院校: 山东大学</p>
+    <p>- 邮箱: zq869054246@163.com</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -46,7 +46,7 @@ latest_posts:
 
 作为核心成员参与国家重点研发计划项目、国家自然科学基金面上项目、山东省重点研发计划（重大科技示范工程）项目等多项国家级省级重点项目。曾获优秀博士/学士毕业论文、山东省/山东大学优秀毕业生、博士国家奖学金2次、本科国家奖学金、2026年山东大学学术之星（学院唯一）、2026年山东大学研究生优秀成果奖（学院唯一）、一等奖学金（本科4年）、以及国家级省级创新创业类及学科类竞赛奖项十余项。 
 
-## 👨‍🏫 教育背景
+## 🎓 教育背景
 - 2026—至今  东北大学秦皇岛分校 计算机与通信工程学院 副教授
 - 2024—2025  新加坡南洋理工大学EEE                 联合培养博士   导师：Yong Liang Guan（副校长）、Chau Yuen（IEEE Fellow）
 - 2021—2026  山东大学信息科学与工程学院            工学博士      导师: 刘琚教授（二级）
@@ -62,6 +62,14 @@ latest_posts:
 - 近场无线通信
 - 波束训练
 - Deep Unfolding
+
+---
+
+## 🌐 学术服务
+
+- IEEE PIMRC 2026 TPC Chair
+- IEEE ICC、GLOBECOM、WCNC 等国际会议 TPC Member
+- IEEE JSAC、TWC、TCOM、WCM、TIFS、TCCN、TVT、TITS、IOTJ、WCL、CL等十余家国际期刊审稿人
 
 ---
 
