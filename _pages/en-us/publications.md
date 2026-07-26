@@ -9,24 +9,20 @@ nav: true
 nav_order: 2
 ---
 
-<div class="publication-list">
-
-  <div class="publication-item">
-    <div class="publication-content">
-      **Qian Zhang**, Yong Liang Guan, Chau Yuen, and Jiancheng An,
-      “Two-Stage Coded-Sliding Beam Training and QoS-Constrained Sum-Rate Maximization for SIM-Assisted Wireless Communications,”
-      <span class="venue">IEEE Transactions on Wireless Communications</span>,
-      2026.
-      <span class="publication-links">
-        <a href="https://doi.org/10.1109/TWC.2026.3661858" target="_blank" rel="noopener noreferrer">[DOI]</a>
-        <a href="https://ieeexplore.ieee.org/document/11395460" target="_blank" rel="noopener noreferrer">[PDF]</a>
-      </span>
-    </div>
-  </div>
-
-</div>
-
 ### - **Journal Papers**
+
+<style>
+.journal-papers p {
+  padding-left: 3em;    /* 整段向右移动 */
+  text-indent: -3em;    /* 第一行向左移动，使编号悬挂 */
+  margin-top: 0;
+  margin-bottom: 1.2em; /* 每篇论文之间的距离 */
+  line-height: 1.7;     /* 行距 */
+  text-align: justify;  /* 两端对齐，可删除 */
+}
+</style>
+
+<div class="journal-papers" markdown="1">
 
 [1] **Qian Zhang**, _et al._, "Hierarchical sub-array beam training for flexible intelligent metasurface-enabled hybrid near-far-field multiuser communications," **IEEE Journal on Selected Areas in Communications**, 2026.  (JCR Q1, IF = 16.8, **大修**)
 
@@ -34,7 +30,7 @@ nav_order: 2
 
 [3] **Qian Zhang**, _et al._, "Join precoding and phase-shift optimization algorithm for RIS-aided multiple access systems," **IEEE Transactions on Cognitive Communications and Networking**, 2026.  (JCR Q1, IF = 8, **To be submitted**)
 
-[4] **Qian Zhang**, Zheng Dong, _et al._, "Multi-resolution codebook design and multiuser interference management for discrete XL-RIS-aided near-field MIMO systems," **IEEE Transactions on Wireless Communications**, vol. 25, pp. 2826-2842, 2026.  (JCR Q1, IF = 10.7, **ESI高被引**)
+[4] **Qian Zhang**, Zheng Dong, _et al._, "Multi-resolution codebook design and multiuser interference management for discrete XL-RIS-aided near-field MIMO systems," **IEEE Transactions on Wireless Communications**, vol. 25, pp. 2826-2842, 2026.  (JCR Q1, IF = 10.7, **ESI高被引**)  [DOI](https://doi.org/10.1109/TWC.2025.3599514)
 
 [5] **Qian Zhang**, Ju Liu, _et al._, "Practical RIS-aided multiuser communications with imperfect CSI: Practical model, amplitude feedback, and beamforming optimization," **IEEE Transactions on Wireless Communications**, vol. 23, no. 10, pp. 15245-15260, Oct. 2024.  (JCR Q1, IF = 10.7)
 
@@ -76,6 +72,7 @@ nav_order: 2
 
 [24] Xuejun Cheng, **Qian Zhang**, _et al._, "Crem\'er-Rao bound minimization  for discrete SIM-aided ISAC systems," **IEEE Internet of Things Journal**, 2026. (主要指导人, JCR Q1, IF = 8.33, **在修**)
 
+</div>
 ---
 
 ### - **Conference Papers**
