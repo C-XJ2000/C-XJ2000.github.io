@@ -1,9 +1,9 @@
 ---
 page_id: publications
 layout: page
-title: /
+title: 
 permalink: /publications/
-title: publications
+title: 
 description: main research achievements in the fields of wireless communication and sensing
 nav: true
 nav_order: 2
@@ -22,7 +22,7 @@ nav_order: 2
 </style>
 <div class="journal-papers" markdown="1">
   
-## **Publications**  (†共同一作、*通讯作者)
+## 📚 **Publications**  (†共同一作、*通讯作者)
 ---
 
 ### - **Journal Papers**
@@ -31,7 +31,7 @@ nav_order: 2
 
 [2] **Qian Zhang**, _et al._, "RIS-assisted multiuser NOMA networks with imperfect CSI under transceiver hardware impairments,"  **IEEE Internet of Things Journal**, 2026. (JCR Q1, IF = 8.33, **在修**)
 
-[3] **Qian Zhang**, _et al._, "Join precoding and phase-shift optimization algorithm for RIS-aided multiple access systems," **IEEE Transactions on Cognitive Communications and Networking**, 2026.  (JCR Q1, IF = 8, **To be submitted**)
+[3] **Qian Zhang**, _et al._, "Joint precoding and phase-shift optimization algorithm for RIS-aided multiple access systems," **IEEE Transactions on Cognitive Communications and Networking**, 2026.  (JCR Q1, IF = 8, **To be submitted**)
 
 [4] **Qian Zhang**, Zheng Dong, _et al._, "Multi-resolution codebook design and multiuser interference management for discrete XL-RIS-aided near-field MIMO systems," **IEEE Transactions on Wireless Communications**, vol. 25, pp. 2826-2842, 2026.  (JCR Q1, IF = 10.7, **ESI高被引**)  [DOI](https://doi.org/10.1109/TWC.2025.3599514)
 
