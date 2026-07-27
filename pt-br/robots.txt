@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://qianzhangcn.github.io/sitemap.xml
