@@ -15,21 +15,14 @@ const ninja = document.querySelector('ninja-keys');
 // add the home and posts menu items
 ninja.data = [{
     id: "nav-profile",
-    title: "Profile",
+    title: "profile",
     section: "menu de navigation",
     handler: () => {
       window.location.href = "/fr-ca/";
     },
   },{id: "nav-publications",
-          title: "Publications",
+          title: "publications",
           description: "Main research achievements in the fields of wireless communication and sensing",
-          section: "menu de navigation",
-          handler: () => {
-            window.location.href = "/fr-ca/publications/";
-          },
-        },{id: "nav-publicações",
-          title: "publicações",
-          description: "publicações por categoria em ordem cronológica reversa. gerado pelo jekyll-scholar.",
           section: "menu de navigation",
           handler: () => {
             window.location.href = "/fr-ca/publications/";
