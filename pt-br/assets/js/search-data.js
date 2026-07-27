@@ -32,7 +32,7 @@ ninja.data = [{
           description: "main research achievements in the fields of wireless communication and sensing",
           section: "Menu de navegação",
           handler: () => {
-            window.location.href = "/pt-br/Publications/";
+            window.location.href = "/pt-br/publications/";
           },
         },{id: "nav-publicações",
           title: "publicações",
