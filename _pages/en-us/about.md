@@ -7,7 +7,7 @@ subtitle: >
   <br>
   
 
-profile:
+Profile:
   align: left
   image: Qian_Zhang_GitHub.png
   image_circular: false # crops the image to make it circular
