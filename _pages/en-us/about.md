@@ -5,7 +5,7 @@ title: Profile
 permalink: /
 subtitle: >
   <br>
-  
+
 
 Profile:
   align: left
