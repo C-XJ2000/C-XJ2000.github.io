@@ -21,8 +21,15 @@ ninja.data = [{
       window.location.href = "/fr-ca/";
     },
   },{id: "nav-publications",
-          title: "publications",
+          title: "Publications",
           description: "Main research achievements in the fields of wireless communication and sensing",
+          section: "menu de navigation",
+          handler: () => {
+            window.location.href = "/fr-ca/Publications/";
+          },
+        },{id: "nav-publicações",
+          title: "publicações",
+          description: "publicações por categoria em ordem cronológica reversa. gerado pelo jekyll-scholar.",
           section: "menu de navigation",
           handler: () => {
             window.location.href = "/fr-ca/publications/";
