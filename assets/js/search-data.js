@@ -494,6 +494,13 @@ ninja.data = [{
           window.open("https://www.alberteinstein.com/", "_blank");
         },
       },{
+          id: 'lang-zh-cn',
+          title: 'zh-cn',
+          section: 'Languages',
+          handler: () => {
+            window.location.href = "/zh-cn" + updatedUrl;
+          },
+        },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
