@@ -1,13 +1,13 @@
 ---
 page_id: about
 layout: about
-title: profile
+title: Profile
 permalink: /
 subtitle: >
   <br>
 
 
-Profile:
+profile:
   align: left
   image: Qian_Zhang_GitHub.png
   image_circular: false # crops the image to make it circular
