@@ -1,9 +1,9 @@
 ---
-page_id: publications
+page_id: Publications
 layout: page
-title: publications
-permalink: /publications/
-title: publications
+title: Publications
+permalink: /Publications/
+title: Publications
 description: Main research achievements in the fields of wireless communication and sensing
 nav: true
 nav_order: 2
