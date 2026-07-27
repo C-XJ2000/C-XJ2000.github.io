@@ -4,7 +4,7 @@ layout: page
 title: Publications
 permalink: /publications/
 title: Publications
-description: main research achievements in the fields of wireless communication and sensing
+description: Main research achievements in the fields of wireless communication and sensing
 nav: true
 nav_order: 2
 ---
