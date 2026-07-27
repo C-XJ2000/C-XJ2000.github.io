@@ -27,13 +27,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/Publications/";
           },
-        },{id: "nav-publicações",
-          title: "publicações",
-          description: "publicações por categoria em ordem cronológica reversa. gerado pelo jekyll-scholar.",
-          section: "Navigation menu",
-          handler: () => {
-            window.location.href = "/publications/";
-          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",

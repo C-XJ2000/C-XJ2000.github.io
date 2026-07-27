@@ -34,13 +34,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/pt-br/Publications/";
           },
-        },{id: "nav-publicações",
-          title: "publicações",
-          description: "publicações por categoria em ordem cronológica reversa. gerado pelo jekyll-scholar.",
-          section: "Menu de navegação",
-          handler: () => {
-            window.location.href = "/pt-br/publications/";
-          },
         },{id: "nav-projetos",
           title: "projetos",
           description: "Uma crescente coleção de seus projetos interessantes.",
