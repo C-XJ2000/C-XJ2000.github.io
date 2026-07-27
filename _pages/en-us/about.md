@@ -72,7 +72,7 @@ latest_posts:
 ---
 
 ## 📖 代表性成果
-**-** **详情见顶部publications页面**
+**-** **详情见顶部Publications页面**
 
 **-** **以第一作者完成论文11篇**：已发表10篇 (3篇IEEE TWC、1篇IEEE TCOM、2篇IEEE TVT、1篇IEEE WCL、1篇IEEE CL、1篇ICASSP、1篇VTC)；在审1篇 (1篇IEEE JSAC大修)；其中2篇论文获得ESI高被引论文、1篇论文位列IEEE CL年度最受欢迎论文TOP 2、1篇论文位列IEEE CL最受欢迎论文TOP 50
 
