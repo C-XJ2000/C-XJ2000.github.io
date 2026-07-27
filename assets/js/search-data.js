@@ -22,7 +22,7 @@ ninja.data = [{
     },
   },{id: "nav-publications",
           title: "Publications",
-          description: "main research achievements in the fields of wireless communication and sensing",
+          description: "Main research achievements in the fields of wireless communication and sensing",
           section: "Navigation menu",
           handler: () => {
             window.location.href = "/publications/";
