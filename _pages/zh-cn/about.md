@@ -12,12 +12,12 @@ profile:
   image: Qian_Zhang_GitHub.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>- **学校**: 东北大学秦皇岛分校</p>
-    <p>- **学院**: 计算机与通信工程学院</p>
-    <p>- **职称**: 副教授</p>
-    <p>- **学历**: 工学博士</p>
-    <p>- **毕业院校**: 山东大学</p>
-    <p>- **邮箱**: zq869054246@163.com</p>
+    <p>- 学校: 东北大学秦皇岛分校</p>
+    <p>- 学院: 计算机与通信工程学院</p>
+    <p>- 职称: 副教授</p>
+    <p>- 学历: 工学博士</p>
+    <p>- 毕业院校: 山东大学</p>
+    <p>- 邮箱: zq869054246@163.com</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
