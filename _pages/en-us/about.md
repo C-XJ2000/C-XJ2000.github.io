@@ -12,7 +12,7 @@ profile:
   image: Qian_Zhang_GitHub.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p><strong>Institution:</strong> Northeastern University at Qinhuangdao</p>
+  <p><strong>Institution:</strong> Northeastern University at Qinhuangdao</p>
   <p><strong>School:</strong> School of Computer and Communication Engineering</p>
   <p><strong>Academic Rank:</strong> Associate Professor</p>
   <p><strong>Degree:</strong> Ph.D. in Engineering</p>
