@@ -34,6 +34,7 @@ latest_posts:
 Welcome to my personal homepage!
 
 ---
+
 ## 👨‍🏫 **Basic Information**
 **Qian Zhang**, male, Ph.D. in Engineering, **Associate Professor**, and IEEE Member.
 He received the B.Eng. degree from Shandong Agricultural University in 2021. In the same year, he was recommended for admission to the direct Ph.D. program at Shandong University, under the supervision of Prof. Ju Liu (Level-II Professor).
@@ -48,6 +49,8 @@ He has been granted three patents. He serves as a **TPC Chair for IEEE PIMRC 202
 
 As a core member, he has participated in several major national- and provincial-level projects, including the National Key Research and Development Program of China, the General Program of the National Natural Science Foundation of China, and the Key Research and Development Program of Shandong Province (Major Science and Technology Demonstration Project). 
 He has received the Outstanding Doctoral/Bachelor’s Thesis Award, the Outstanding Graduate Awards of Shandong Province and Shandong University, two National Scholarships for Doctoral Students, the National Scholarship for Undergraduate Students, the 2026 Academic Star Award of Shandong University as the sole recipient from his school, the 2026 Outstanding Graduate Research Achievement Award of Shandong University as the sole recipient from his school, First-Class Scholarships throughout his four undergraduate years, and more than ten awards in national- and provincial-level innovation, entrepreneurship, and disciplinary competitions.
+
+---
 
 ## 🎓 **Education Background**
 - 2026.07—Present  School of Computer and Communication Engineering, Northeastern University at Qinhuangdao,  Associate Professor
