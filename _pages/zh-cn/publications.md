@@ -79,20 +79,20 @@ nav_order: 2
 
 ### 🧑‍🏫 **Conference Papers**
 
-[1] **Qian Zhang**, Mingjie Shao, Qiang Li, and Ju Liu, "An efficient algorithm for multiuser sum-rate maximization of large-scale active RIS-aided MIMO system," ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), Seoul, Korea, Republic of, 2024, pp. 9036-9040. (EI, CCF B, IEEE SPS旗舰会议) [DOI](https://doi.org/10.1109/ICASSP48485)
+[1] **Qian Zhang**, Mingjie Shao, Qiang Li, and Ju Liu, "An efficient algorithm for multiuser sum-rate maximization of large-scale active RIS-aided MIMO system," ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), Seoul, Korea, Republic of, 2024, pp. 9036-9040. (EI, CCF B, IEEE SPS旗舰会议) [DOI](https://ieeexplore.ieee.org/document/10446199)
 
-[2] **Qian Zhang**, Guanghui Luo, _et al._, "RIS-aided MU-NOMA systems with imperfect CSI and generalized hardware impairments," 2024 IEEE 99th Vehicular Technology Conference (**VTC2024-Spring**), Singapore, Singapore, 2024, pp. 1-6. (EI, IEEE VTS旗舰会议) [DOI](https://doi.org/10.1109/VTC2024-Spring62846)
+[2] **Qian Zhang**, Guanghui Luo, _et al._, "RIS-aided MU-NOMA systems with imperfect CSI and generalized hardware impairments," 2024 IEEE 99th Vehicular Technology Conference (**VTC2024-Spring**), Singapore, Singapore, 2024, pp. 1-6. (EI, IEEE VTS旗舰会议) [DOI](https://ieeexplore.ieee.org/abstract/document/10683637)
 
-[3] Yuhui Jiao†, **Qian Zhang**†, _et al._, "Efficient beamforming for discrete SIM-aided multiuser systems under statistical CSI," **WCNC2026** - IEEE Wireless Communications and Networking Conference (WCNC). (共一，主要指导人, IEEE通信协会旗舰会议) [DOI](https://doi.org/10.1109/WCNC65185)
+[3] Yuhui Jiao†, **Qian Zhang**†, _et al._, "Efficient beamforming for discrete SIM-aided multiuser systems under statistical CSI," **WCNC2026** - IEEE Wireless Communications and Networking Conference (WCNC). (共一，主要指导人, IEEE通信协会旗舰会议) [DOI](Efficient beamforming for discrete SIM-aided multiuser systems under statistical CSI)
 
-[4] Xuejun Cheng†, **Qian Zhang**†, _et al._, "Joint precoding and phase shift optimization for beyond-diagonal RIS-aided ISAC system," **ICC2026** - IEEE International Conference on Communications (ICC). (共一, 主要指导人, IEEE通信协会旗舰会议) [DOI](https://doi.org/10.1109/ICCWorkshops63917)
+[4] Xuejun Cheng†, **Qian Zhang**†, _et al._, "Joint precoding and phase shift optimization for beyond-diagonal RIS-aided ISAC system," **ICC2026** - IEEE International Conference on Communications (ICC). (共一, 主要指导人, IEEE通信协会旗舰会议) [DOI](https://ieeexplore.ieee.org/abstract/document/11586512)
 
-[5] Xuejun Cheng, **Qian Zhang**, _et al._, "Robust Beamforming for Discrete RIS Enhanced RSMA-ISAC Systems," 2025 IEEE/CIC International Conference on Communications in China (**ICCC**), Shanghai, China, 2025, pp. 1-6. (主要指导人) [DOI](https://doi.org/10.1109/ICCC65529)
+[5] Xuejun Cheng, **Qian Zhang**, _et al._, "Robust Beamforming for Discrete RIS Enhanced RSMA-ISAC Systems," 2025 IEEE/CIC International Conference on Communications in China (**ICCC**), Shanghai, China, 2025, pp. 1-6. (主要指导人) [DOI](https://ieeexplore.ieee.org/document/11148732)
 
-[6] Yunxiao Li, **Qian Zhang**, Guanghui Luo, _et al._, "Robust max-min SINR for active RIS aided multiuser MISO system with outage constraints," 2024 IEEE/CIC International Conference on Communications in China (**ICCC Workshops**), Hangzhou, China, 2024, pp. 401-406. (主要指导人) [DOI](https://doi.org/10.1109/ICCCWorkshops62562)
+[6] Yunxiao Li, **Qian Zhang**, Guanghui Luo, _et al._, "Robust max-min SINR for active RIS aided multiuser MISO system with outage constraints," 2024 IEEE/CIC International Conference on Communications in China (**ICCC Workshops**), Hangzhou, China, 2024, pp. 401-406. (主要指导人) [DOI](https://ieeexplore.ieee.org/document/10693724)
 
-[7] Zhiying Peng, Ju Liu, Zheng Dong, Zhichao Gao, and **Qian Zhang**, "Time and Energy optimization Scheme of Task Offloading for Single-Cell MEC-D2D Networks," 2022 3rd Information Communication Technologies Conference (**ICTC**), Nanjing, China, 2022. [DOI](https://doi.org/10.1109/ICTC55111)
+[7] Zhiying Peng, Ju Liu, Zheng Dong, Zhichao Gao, and **Qian Zhang**, "Time and Energy optimization Scheme of Task Offloading for Single-Cell MEC-D2D Networks," 2022 3rd Information Communication Technologies Conference (**ICTC**), Nanjing, China, 2022. [DOI](https://ieeexplore.ieee.org/document/9778638)
 
-[8] Xiangcheng Wang, Ju Liu, Zheng Dong, Ziyu Li, **Qian Zhang**, et al., "Link State Based Routing and Scheduling Co-Design of Time-Triggered Traffic in Time-Sensitive Networking," 2023 IEEE/CIC International Conference on Communications in China (**ICCC**), Dalian, China, 2023, pp. 1-6. [DOI](https://doi.org/10.1109/ICCC57788)
+[8] Xiangcheng Wang, Ju Liu, Zheng Dong, Ziyu Li, **Qian Zhang**, et al., "Link State Based Routing and Scheduling Co-Design of Time-Triggered Traffic in Time-Sensitive Networking," 2023 IEEE/CIC International Conference on Communications in China (**ICCC**), Dalian, China, 2023, pp. 1-6. [DOI](https://ieeexplore.ieee.org/document/10233623)
 
 </div>
