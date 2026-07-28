@@ -12,12 +12,13 @@ profile:
   image: Qian_Zhang_GitHub.png
   image_circular: false # crops the image to make it circular
   more_info: >
-  <p>- Institution: Northeastern University at Qinhuangdao</p>
-  <p>- School: School of Computer and Communication Engineering</p>
-  <p>- Academic Rank: Associate Professor</p>
-  <p>- Degree: Ph.D. in Engineering</p>
-  <p>- Alma Mater: Shandong University</p>
-  <p>- Email: zq869054246@163.com</p>
+    <p>- Institution: Northeastern University at Qinhuangdao</p>
+    <p>- School: School of Computer and Communication Engineering</p>
+    <p>- Academic Rank: Associate Professor</p>
+    <p>- Degree: Ph.D. in Engineering</p>
+    <p>- Alma Mater: Shandong University</p>
+    <p>- Email: zq869054246@163.com</p>
+
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
