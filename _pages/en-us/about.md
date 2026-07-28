@@ -76,46 +76,46 @@ He has received the Outstanding Doctoral/Bachelor’s Thesis Award, the Outstand
 
 ---
 
-## 📖 代表性成果
+## 📖 **Representative Achievements**
 
-**-** **详情见顶部Publications页面**
+**-** **For details, please refer to the Publications page at the top**
 
-**-** **以第一作者完成论文11篇**：已发表10篇 (3篇IEEE TWC、1篇IEEE TCOM、2篇IEEE TVT、1篇IEEE WCL、1篇IEEE CL、1篇ICASSP、1篇VTC)；在审1篇 (1篇IEEE JSAC大修)；其中2篇论文获得ESI高被引论文、1篇论文位列IEEE CL年度最受欢迎论文TOP 2、1篇论文位列IEEE CL最受欢迎论文TOP 50
+**-** **Authored 11 papers as the first author**：10 published papers (3 in IEEE TWC, 1 in IEEE TCOM, 2 in IEEE TVT, 1 in IEEE WCL, 1 in IEEE CL, 1 in ICASSP, and 1 in VTC); 1 paper under review (1 IEEE JSAC paper under major revision). Among them, 2 papers were recognized as ESI Highly Cited Papers, 1 paper was ranked among the Top 2 Most Popular Papers of the Year in IEEE CL, and 1 paper was ranked among the Top 50 Most Popular Papers in IEEE CL.
 
-**-** **以共同第一作者完成论文6篇**：已发表5篇 (1篇IEEE TVT、1篇IEEE WCL、1篇IEEE CL、1篇ICC、1篇WCNC)；在审1篇 (1篇IEEE WCL在审)
+**-** **Authored 6 papers as a co-first author**：5 published papers (1 in IEEE TVT, 1 in IEEE WCL, 1 in IEEE CL, 1 in ICC, and 1 in WCNC); 1 paper under review (1 IEEE WCL paper under review).
 
 
-**- 申请专利**
+**-** **Patent Applications**
 
-[1] 孙福辉; 张迁; 王晓燕; 邵明杰; 刘琚; RIS辅助的MIMO系统的和速率优化方法及装置. (发明专利，授权号：CN117176214B)
+[1] Fuhui Sun; Qian Zhang; Xiaoyan Wang; Mingjie Shao; Ju Liu; Sum-Rate Optimization Method and Apparatus for RIS-Assisted MIMO Systems. (Invention Patent, Grant No.: CN117176214B)
 
-[2] 刘琚; 程学军; 张迁; 罗广惠; 焦钰辉; 一种实际智能超表面辅助RSMA系统波束成形方法. (发明专利，公开号：CN120110450A)
+[2] Ju Liu; Xuejun Cheng; Qian Zhang; Guanghui Luo; Yuhui Jiao; A Beamforming Method for Practical Intelligent Metasurface-Assisted RSMA Systems. (Invention Patent, Publication No.: CN120110450A)
 
-[3] 刘琚; 程学军; 罗广惠; 张迁; 董郑; 一种超对角智能超表面辅助NOMA系统波束成形方法. (发明专利，公开号：CN119051703A)
+[3] Ju Liu; Xuejun Cheng; Guanghui Luo; Qian Zhang; Zheng Dong; A Beamforming Method for Beyond-Diagonal Intelligent Metasurface-Assisted NOMA Systems. (Invention Patent, Publication No.: CN119051703A)
 
-[4] 刘琚; 彭志颖; 王祥丞; 张迁; 高智超; 李紫宇; 一种多服务器MEC-D2D系统联合任务卸载与资源分配方法. (发明专利, 公开号：CN116456497A)
-
----
-
-## 🏆 荣誉奖励
-
-- 推荐免试攻读研究生资格（2020）
-- 本科国家奖学金（2020、学院排名第一）
-- 国家励志奖学金（2018、2019）
-- 博士国家奖学金（2024、2025）
-- 山东省优秀毕业生（2021）
-- 山东大学优秀毕业生（2026）
-- 山东大学学术之星（2026、学院唯一）
-- 山东大学研究生优秀成果奖（2026、学院唯一）
-- 博士中期考核优秀奖（排名第一）
-- 本科一等学业奖学金（四年专业唯一）
-- 博士优秀生源奖学金、新生一等奖学金
+[4] Ju Liu; Zhiying Peng; Xiangcheng Wang; Qian Zhang; Zhichao Gao; Ziyu Li; A Joint Task Offloading and Resource Allocation Method for Multi-Server MEC-D2D Systems. (Invention Patent, Publication No.: CN116456497A)
 
 ---
 
-## 🤝 招生与合作
+## 🏆 **Honors and Awards**
 
-欢迎对无线通信、智能超表面、通感一体化、人工智能通信优化等方向感兴趣的本科生、硕士生及博士生联系交流。个人邮箱：zhangqian@neuq.edu.cn; zq869054246@163.com。
+- Recommended Admission to Graduate Study without Entrance Examination (2020)
+- National Scholarship for Undergraduate Students (2020, ranked first in the school)
+- National Encouragement Scholarship (2018, 2019)
+- National Scholarship for Doctoral Students (2024, 2025)
+- Outstanding Graduate of Shandong Province (2021)
+- Outstanding Graduate of Shandong University (2026)
+- Academic Star of Shandong University (2026, the sole recipient from the school)
+- Outstanding Graduate Research Achievement Award of Shandong University (2026, the sole recipient from the school)
+- Excellence Award in the Ph.D. Midterm Assessment (ranked first)
+- First-Class Undergraduate Academic Scholarship (the sole recipient in the major throughout all four years)
+- Outstanding Ph.D. Student Source Scholarship and First-Class Scholarship for New Graduate Students
+
+---
+
+## 🤝 tudent Recruitment and Collaboration
+
+Undergraduate, master’s, and doctoral students interested in wireless communications, intelligent metasurfaces, integrated sensing and communication, and AI-enabled communication optimization are welcome to contact me for academic exchange and collaboration. Email: zhangqian@neuq.edu.cn; zq869054246@163.com.
 
 ---
 
