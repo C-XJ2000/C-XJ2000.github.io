@@ -12,12 +12,12 @@ profile:
   image: Qian_Zhang_GitHub.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>- 学校: 东北大学秦皇岛分校</p>
-    <p>- 学院: 计算机与通信工程学院</p>
-    <p>- 职称: 副教授</p>
-    <p>- 学历: 工学博士</p>
-    <p>- 毕业院校: 山东大学</p>
-    <p>- 邮箱: zq869054246@163.com</p>
+    <p>- **学校**: 东北大学秦皇岛分校</p>
+    <p>- **学院**: 计算机与通信工程学院</p>
+    <p>- **职称**: 副教授</p>
+    <p>- **学历**: 工学博士</p>
+    <p>- **毕业院校**: 山东大学</p>
+    <p>- **邮箱**: zq869054246@163.com</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -35,7 +35,7 @@ latest_posts:
 
 ---
 ## 👨‍🏫 **基本信息**
-**张迁**，男，**工学博士**，**副教授**，IEEE Member。
+**张迁**，**工学博士**，**副教授**，IEEE Member。
 2021年于山东农业大学获得工学学士学位；同年保送至山东大学直接攻读博士研究生，师从刘琚教授（二级）；
 2024年受**国家留学基金委资助**赴新加坡南洋理工大学EEE学院联合培养，师从Prof. Yong Liang Guan（副校长）和Prof. Chau Yuen（IEEE Fellow）；
 2026年6月于山东大学获得工学博士学位。  
