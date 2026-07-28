@@ -37,7 +37,7 @@ Welcome to my personal homepage!
 ---
 
 ## 👨‍🏫 **Basic Information**
-**Qian Zhang**, male, Ph.D. in Engineering, **Associate Professor**, and IEEE Member.
+**Qian Zhang**, male, **Ph.D. in Engineering**, **Associate Professor**, and IEEE Member.
 He received the B.Eng. degree from Shandong Agricultural University in 2021. In the same year, he was recommended for admission to the direct Ph.D. program at Shandong University, under the supervision of Prof. Ju Liu (Level-II Professor).
 In 2024, supported by the **China Scholarship Council**, he joined the School of Electrical and Electronic Engineering at Nanyang Technological University (NTU), Singapore, as a visiting Ph.D. student, under the joint supervision of Prof. Yong Liang Guan (Vice President of NTU), and Prof. Chau Yuen (IEEE Fellow).
 He received the Ph.D. degree in Engineering from Shandong University in June 2026.
@@ -49,15 +49,15 @@ One of his first-authored papers was selected as one of the **Top 2 Most Popular
 He has been granted three patents. He serves as a **TPC Chair for IEEE PIMRC 2026** and has served multiple times as a TPC Member for international conferences, including IEEE ICC, IEEE GLOBECOM, and IEEE WCNC. He also regularly serves as a reviewer for more than ten international journals, including IEEE JSAC, TWC, TCOM, WCM, TIFS, TCCN, TVT, TITS, IOTJ, WCL, and CL.
 
 As a core member, he has participated in several major national- and provincial-level projects, including the National Key Research and Development Program of China, the General Program of the National Natural Science Foundation of China, and the Key Research and Development Program of Shandong Province (Major Science and Technology Demonstration Project). 
-He has received the Outstanding Doctoral/Bachelor’s Thesis Award, the Outstanding Graduate Awards of Shandong Province and Shandong University, two National Scholarships for Doctoral Students, the National Scholarship for Undergraduate Students, the 2026 Academic Star Award of Shandong University as the sole recipient from his school, the 2026 Outstanding Graduate Research Achievement Award of Shandong University as the sole recipient from his school, First-Class Scholarships throughout his four undergraduate years, and more than ten awards in national- and provincial-level innovation, entrepreneurship, and disciplinary competitions.
+He has received the Outstanding Doctoral/Bachelor’s Thesis Award, the Outstanding Graduate Awards of Shandong Province and Shandong University, **two National Scholarships for Doctoral Students**, **the National Scholarship for Undergraduate Students**, the **2026 Academic Star Award of Shandong University as the sole recipient from his school**, the **2026 Outstanding Graduate Research Achievement Award of Shandong University as the sole recipient from his school**, First-Class Scholarships throughout his four undergraduate years, and more than ten awards in national- and provincial-level innovation, entrepreneurship, and disciplinary competitions.
 
 ---
 
 ## 🎓 **Education Background**
-- 2026.07—Present  School of Computer and Communication Engineering, Northeastern University at Qinhuangdao,  Associate Professor
-- 2024.11—2025.11  School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore Visiting Ph.D. Student  Supervisors: Yong Liang Guan (Vice President) and Chau Yuen (IEEE Fellow)
-- 2021.09—2026.06  School of Information Science and Engineering, Shandong University Ph.D. in Engineering  Supervisor: Prof. Ju Liu (Level-II Professor)
-- 2017.09—2021.06  School of Information Science and Engineering, Shandong Agricultural University B.Eng. degree (ranked first in the major and recommended for graduate study without taking the entrance examination)
+- 2026.07—Present  School of Computer and Communication Engineering, Northeastern University at Qinhuangdao,  **Associate Professor**
+- 2024.11—2025.11  School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore, **Visiting Ph.D. Student**,  Supervisors: Yong Liang Guan (Vice President) and Chau Yuen (IEEE Fellow)
+- 2021.09—2026.06  School of Information Science and Engineering, Shandong University, **Ph.D. in Engineering**,  Supervisor: Prof. Ju Liu (Level-II Professor)
+- 2017.09—2021.06  School of Information Science and Engineering, Shandong Agricultural University, **B.Eng. degree**, (ranked first in the major and recommended for graduate study without taking the entrance examination)
 
 ---
 
