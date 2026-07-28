@@ -12,12 +12,12 @@ profile:
   image: Qian_Zhang_GitHub.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>- 学校: 东北大学秦皇岛分校</p>
-    <p>- 学院: 计算机与通信工程学院</p>
-    <p>- 职称: 副教授</p>
-    <p>- 学历: 工学博士</p>
-    <p>- 毕业院校: 山东大学</p>
-    <p>- 邮箱: zq869054246@163.com</p>
+    <p><strong>Institution:</strong> Northeastern University at Qinhuangdao</p>
+  <p><strong>School:</strong> School of Computer and Communication Engineering</p>
+  <p><strong>Academic Rank:</strong> Associate Professor</p>
+  <p><strong>Degree:</strong> Ph.D. in Engineering</p>
+  <p><strong>Alma Mater:</strong> Shandong University</p>
+  <p><strong>Email:</strong> <a href="mailto:zq869054246@163.com">zq869054246@163.com</a></p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -29,45 +29,50 @@ latest_posts:
   enabled: false
 ---
 
-# 张迁
+# **Qian Zhang**
 
-欢迎访问我的个人主页！
-
----
-## 👨‍🏫 基本信息
-张迁，男，工学博士，副教授，IEEE Member。
-2021年于山东农业大学获得工学学士学位；同年保送至山东大学直接攻读博士研究生，师从刘琚教授（二级）；
-2024年受国家留学基金委资助赴新加坡南洋理工大学EEE学院联合培养，师从Prof. Yong Liang Guan（副校长）和Prof. Chau Yuen（IEEE Fellow）；
-2026年6月于山东大学获得工学博士学位。  
-
-目前主要从事智能超表面、凸优化理论、人工智能算法在无线通信和感知领域应用的相关研究。在通信领域顶级期刊IEEE TWC、TCOM和顶级会议IEEE ICC、ICASSP等发表学术论文近30篇，其中第一/共一作者论文15篇。2篇论文入选ESI高被引论文（一作），1篇论文入选IEEE CL年度最受欢迎论文TOP 2（一作），1篇论文连续多月入选IEEE CL最受欢迎论文TOP 50（共一）。授权专利3项。担任2026 PIMRC TPC Chair；多次担任IEEE ICC、Globecom、WCNC等国际会议TPC Member；常年担任IEEE JSAC、TWC、TCOM、WCM、TIFS、TCCN、TVT、TITS、IOTJ、WCL、CL等十余家国际期刊审稿人。 
-
-作为核心成员参与国家重点研发计划项目、国家自然科学基金面上项目、山东省重点研发计划（重大科技示范工程）项目等多项国家级省级重点项目。曾获优秀博士/学士毕业论文、山东省/山东大学优秀毕业生、博士国家奖学金2次、本科国家奖学金、2026年山东大学学术之星（学院唯一）、2026年山东大学研究生优秀成果奖（学院唯一）、一等奖学金（本科4年）、以及国家级省级创新创业类及学科类竞赛奖项十余项。 
-
-## 🎓 教育背景
-- 2026.07—至今     东北大学秦皇岛分校 计算机与通信工程学院 副教授
-- 2024.11—2025.11  新加坡南洋理工大学EEE            联合培养博士   导师：Yong Liang Guan（副校长）、Chau Yuen（IEEE Fellow）
-- 2021.09—2026.06  山东大学信息科学与工程学院        工学博士      导师: 刘琚教授（二级）
-- 2017.09—2021.06  山东农业大学信息科学与工程学院    工学学士（专业第一、获推荐免试攻读研究生资格）
+Welcome to my personal homepage!
 
 ---
+## 👨‍🏫 **Basic Information**
+**Qian Zhang**, male,**Ph.D. in Engineering**, **Associate Professor**, and IEEE Member.
+He received the B.Eng. degree from Shandong Agricultural University in 2021. In the same year, he was recommended for admission to the direct Ph.D. program at Shandong University, under the supervision of Prof. Ju Liu (Level-II Professor).
+In 2024, supported by the **China Scholarship Council**, he joined the School of Electrical and Electronic Engineering at Nanyang Technological University (NTU), Singapore, as a visiting Ph.D. student, under the joint supervision of Prof. Yong Liang Guan (Vice President of NTU), and Prof. Chau Yuen (IEEE Fellow).
+He received the Ph.D. degree in Engineering from Shandong University in June 2026.
 
-## 🔬 研究方向
+His current research interests include intelligent metasurfaces, convex optimization theory, and artificial intelligence algorithms for wireless communications and sensing. 
+He has published nearly 30 academic papers in top-tier journals and conferences in wireless communications, including IEEE TWC, IEEE TCOM, IEEE ICC, and IEEE ICASSP, among which 15 papers were published as the first or co-first author. 
+Two of his first-authored papers were recognized as **🏆ESI Highly Cited Papers**. 
+One of his first-authored papers was selected as one of the **Top 2 Most Popular Papers of the Year in IEEE CL**, and one of his co-first-authored papers was ranked among the **Top 50 Most Popular Papers in IEEE CL** for several consecutive months. 
+He has been granted three patents. He serves as a **TPC Chair for IEEE PIMRC 2026** and has served multiple times as a TPC Member for international conferences, including IEEE ICC, IEEE GLOBECOM, and IEEE WCNC. He also regularly serves as a reviewer for more than ten international journals, including IEEE JSAC, TWC, TCOM, WCM, TIFS, TCCN, TVT, TITS, IOTJ, WCL, and CL.
 
-- 超大规模阵列通信（XL-MIMO）
-- 智能超表面（IMS）
-- 通感一体化（ISAC）
-- 近场无线通信
-- 波束训练
+As a core member, he has participated in several major national- and provincial-level projects, including the National Key Research and Development Program of China, the General Program of the National Natural Science Foundation of China, and the Key Research and Development Program of Shandong Province (Major Science and Technology Demonstration Project). 
+He has received the Outstanding Doctoral/Bachelor’s Thesis Award, the Outstanding Graduate Awards of Shandong Province and Shandong University, two National Scholarships for Doctoral Students, the National Scholarship for Undergraduate Students, the 2026 Academic Star Award of Shandong University as the sole recipient from his school, the 2026 Outstanding Graduate Research Achievement Award of Shandong University as the sole recipient from his school, First-Class Scholarships throughout his four undergraduate years, and more than ten awards in national- and provincial-level innovation, entrepreneurship, and disciplinary competitions.
+
+## 🎓 **Education Background**
+- 2026.07—Present  School of Computer and Communication Engineering, Northeastern University at Qinhuangdao,  Associate Professor
+- 2024.11—2025.11  School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore Visiting Ph.D. Student  Supervisors: Yong Liang Guan (Vice President) and Chau Yuen (IEEE Fellow)
+- 2021.09—2026.06  School of Information Science and Engineering, Shandong University Ph.D. in Engineering  Supervisor: Prof. Ju Liu (Level-II Professor)
+- 2017.09—2021.06  School of Information Science and Engineering, Shandong Agricultural University B.Eng. degree (ranked first in the major and recommended for graduate study without taking the entrance examination)
+
+---
+
+## 🔬 **Research Interests**
+
+- Extremely Large-Scale MIMO Communications (XL-MIMO)
+- Intelligent Metasurfaces (IMS)
+- Integrated Sensing and Communication (ISAC)
+- Near-Field Wireless Communications
+- Beam Training
 - Deep Unfolding
 
 ---
 
-## 🌐 学术服务
+## 🌐 Academic Services
 
-- IEEE PIMRC 2026 TPC Chair
-- IEEE ICC、GLOBECOM、WCNC 等国际会议 TPC Member
-- IEEE JSAC、TWC、TCOM、WCM、TIFS、TCCN、TVT、TITS、IOTJ、WCL、CL等十余家国际期刊审稿人
+- TPC Chair, IEEE PIMRC 2026
+- TPC Member for international conferences, including IEEE ICC, GLOBECOM, and WCNC
+- Reviewer for more than ten international journals, including IEEE JSAC, TWC, TCOM, WCM, TIFS, TCCN, TVT, TITS, IOTJ, WCL, and CL
 
 ---
 
