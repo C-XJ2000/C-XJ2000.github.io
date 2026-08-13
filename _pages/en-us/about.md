@@ -57,7 +57,6 @@ He has received the Outstanding Doctoral/Bachelor’s Thesis Award, the Outstand
 - 2026.07—Present  School of Computer and Communication Engineering, Northeastern University at Qinhuangdao,  **Associate Professor**
 - 2024.11—2025.11  School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore, **Visiting Ph.D. Student**,  Supervisors: Yong Liang Guan (Vice President) and Chau Yuen (IEEE Fellow)
 - 2021.09—2026.06  School of Information Science and Engineering, Shandong University, **Ph.D. in Engineering**,  Supervisor: Prof. Ju Liu (Level-II Professor)
-- 2017.09—2021.06  School of Information Science and Engineering, Shandong Agricultural University, **B.Eng. degree**, (ranked first in the major and recommended for graduate study without taking the entrance examination)
 
 ---
 
