@@ -37,7 +37,7 @@ Welcome to my personal homepage!
 ---
 
 ## 👨‍🏫 **Basic Information**
-**Qian Zhang**, male, **Ph.D. in Engineering**, **Associate Professor**, IEEE Member, Member of the China Institute of Communications, Committee Member of the CSIG Traffic Video Special Committee.
+**Qian Zhang**, **Ph.D. in Engineering**, **Associate Professor**, IEEE Member, Member of the China Institute of Communications, Committee Member of the CSIG Traffic Video Special Committee.
 In 2021, he was recommended for admission to the direct Ph.D. program at Shandong University, under the supervision of Prof. Ju Liu (Level-II Professor) and of Prof. Zheng Dong.
 In 2024, supported by the **China Scholarship Council**, he joined the School of Electrical and Electronic Engineering at Nanyang Technological University (NTU), Singapore, as a visiting Ph.D. student, under the joint supervision of Prof. Yong Liang Guan (Vice President of NTU), and Prof. Chau Yuen (IEEE Fellow).
 He received the Ph.D. degree in Engineering from Shandong University in June 2026.
@@ -53,7 +53,7 @@ He has received the Outstanding Doctoral/Bachelor’s Thesis Award, the Outstand
 
 ---
 
-## 🎓 **Education Background**
+## 🎓 **Academic Background**
 - 2026.07—Present  School of Computer and Communication Engineering, Northeastern University at Qinhuangdao,  **Associate Professor**
 - 2024.11—2025.11  School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore, **Visiting Ph.D. Student**,  Supervisors: Yong Liang Guan (Vice President) and Chau Yuen (IEEE Fellow)
 - 2021.09—2026.06  School of Information Science and Engineering, Shandong University, **Ph.D. in Engineering**,  Supervisor: Prof. Ju Liu (Level-II Professor)
