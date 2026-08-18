@@ -44,8 +44,8 @@ He received the Ph.D. degree in Engineering from Shandong University in June 202
 
 His current research interests include intelligent metasurfaces, convex optimization theory, and artificial intelligence algorithms for wireless communications and sensing. 
 He has published nearly 30 academic papers in top-tier journals and conferences in wireless communications, including IEEE TWC, IEEE TCOM, IEEE ICC, and IEEE ICASSP, among which 15 papers were published as the first or co-first author. 
-Two of his first-authored papers were recognized as **🏆ESI Highly Cited Papers**. 
-One of his first-authored papers was selected as one of the **Top 2 Most Popular Papers of the Year in IEEE CL**, and one of his co-first-authored papers was ranked among the **Top 50 Most Popular Papers in IEEE CL** for several consecutive months. 
+Two of his first-authored papers were recognized as **🏆ESI Highly Cited Papers**.
+One of his first-authored papers was selected as one of the **Top 2 Most Popular Papers of the Year in IEEE CL**, and four papers were ranked in the **Top 50 most popular papers of the month by IEEE TVT, WCL, and CL** respectively (1 first author, 2 papers in total, and 1 second author). 
 He has been granted three patents. He serves as a **TPC Chair for IEEE PIMRC 2026** and has served multiple times as a TPC Member for international conferences, including IEEE ICC, IEEE GLOBECOM, and IEEE WCNC. He also regularly serves as a reviewer for more than ten international journals, including IEEE JSAC, TWC, TCOM, WCM, TIFS, TCCN, TVT, TITS, IOTJ, WCL, and CL.
 
 As a core member, he has participated in several major national- and provincial-level projects, including the National Key Research and Development Program of China, the General Program of the National Natural Science Foundation of China, and the Key Research and Development Program of Shandong Province (Major Science and Technology Demonstration Project). 
