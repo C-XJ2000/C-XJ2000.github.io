@@ -187,3 +187,94 @@
 {% if page.tikzjax %}
   <link defer rel="stylesheet" type="text/css" href="https://tikzjax.com/v1/fonts.css">
 {% endif %}
+
+<style>
+
+/* =========================
+   Mobile Responsive Fix
+   ========================= */
+
+@media screen and (max-width: 768px) {
+
+    /* 页面左右边距 */
+    .container {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+
+    /* 头像区域 */
+    .profile {
+        width: 100% !important;
+        float: none !important;
+        text-align: center;
+    }
+
+
+    .profile img {
+        max-width: 200px;
+        height: auto;
+        margin: auto;
+    }
+
+
+    /* 右侧文字区域 */
+    .more-info {
+        width: 100% !important;
+        float: none !important;
+    }
+
+
+    /* 正文自动换行 */
+    body {
+        overflow-x: hidden;
+        word-wrap: break-word;
+        overflow-wrap: break-word;
+    }
+
+
+    p {
+        text-align: justify;
+        word-break: normal;
+    }
+
+
+    /* 标题自动缩放 */
+    h1 {
+        font-size: 36px;
+    }
+
+    h2 {
+        font-size: 28px;
+    }
+
+
+    /* 导航栏适配 */
+    .navbar-nav {
+        text-align: center;
+    }
+
+}
+
+
+/* 超小屏幕 */
+@media screen and (max-width: 480px) {
+
+
+    h1 {
+        font-size: 30px;
+    }
+
+
+    .profile img {
+        max-width: 160px;
+    }
+
+
+    body {
+        font-size: 15px;
+    }
+
+}
+
+</style>
