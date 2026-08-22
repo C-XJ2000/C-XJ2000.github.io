@@ -44,7 +44,10 @@ latest_posts:
 
 <style>
 
-/* 正文排版 */
+/* =========================
+   正文排版（保持不变）
+========================= */
+
 .bio-justify p {
 
   text-align: justify;
@@ -58,48 +61,46 @@ latest_posts:
 }
 
 
-/* ICS Logo */
+/* =========================
+   ICS Logo
+========================= */
 
 .ics-logo {
 
-    float:right;
+    position: absolute;
 
-    width:160px;
+    top: 80px;
 
-    margin-left:25px;
-    margin-bottom:10px;
+    right: 0px;
+
+    z-index: 10;
 
 }
 
 
 .ics-logo img {
 
-    width:100%;
+    width:160px;
 
     height:auto;
 
 }
 
 
-/* 图片自适应 */
-
-img {
-
-    max-width:100%;
-
-    height:auto;
-
-}
-
-
-/* 手机端 */
+/* =========================
+   手机端适配
+   只调整Logo，不影响正文
+========================= */
 
 @media screen and (max-width:768px){
 
-
     .ics-logo {
 
-        float:none;
+        position: relative;
+
+        top:auto;
+
+        right:auto;
 
         width:90px;
 
@@ -114,33 +115,22 @@ img {
     }
 
 
-    body {
+    .ics-logo img {
 
-        overflow-x:hidden;
+        width:90px;
 
-        font-size:15px;
-
-        line-height:1.7;
-
-    }
-
-
-    h1 {
-
-        font-size:32px;
-
-    }
-
-
-    h2 {
-
-        font-size:24px;
+        height:auto;
 
     }
 
 }
 
 </style>
+
+
+<div class="ics-logo">
+    <img src="/assets/img/ICS_LOGO.png">
+</div>
 
 <div class="ics-logo">
     <img src="/assets/img/ICS_LOGO.png">
