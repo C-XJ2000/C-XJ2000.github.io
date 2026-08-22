@@ -50,18 +50,29 @@ latest_posts:
 
 
 /* =========================
-   ICS Logo
+   让 Logo 相对于正文区域定位
+========================= */
+
+.bio-justify {
+
+    position: relative;
+
+}
+
+
+/* =========================
+   ICS Logo（PC端）
 ========================= */
 
 .ics-logo {
 
     position: absolute;
 
-    top: 80px;
+    top: 40px;
 
-    right: 0px;
+    right: 20px;
 
-    z-index: 10;
+    z-index:10;
 
 }
 
@@ -75,12 +86,15 @@ latest_posts:
 }
 
 
+
 /* =========================
    手机端适配
-   只调整Logo，不影响正文
 ========================= */
 
 @media screen and (max-width:768px){
+
+
+    /* Logo恢复正常布局 */
 
     .ics-logo {
 
@@ -92,11 +106,7 @@ latest_posts:
 
         width:90px;
 
-        margin-left:auto;
-
-        margin-right:auto;
-
-        margin-bottom:20px;
+        margin:0 auto 20px auto;
 
         text-align:center;
 
@@ -111,6 +121,40 @@ latest_posts:
 
     }
 
+
+    /* 手机端取消左右挤压 */
+
+    .profile {
+
+        width:100% !important;
+
+        float:none !important;
+
+    }
+
+
+    .profile img {
+
+        max-width:220px;
+
+        height:auto;
+
+    }
+
+
+    .post-content {
+
+        width:100% !important;
+
+    }
+
+
+    body {
+
+        overflow-x:hidden;
+
+    }
+
 }
 
 </style>
@@ -119,11 +163,6 @@ latest_posts:
 <div class="ics-logo">
     <img src="/assets/img/ICS_LOGO.png">
 </div>
-
-<div class="ics-logo">
-    <img src="/assets/img/ICS_LOGO.png">
-</div>
-
 
 
 # **Qian Zhang**
