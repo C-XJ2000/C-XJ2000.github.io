@@ -58,9 +58,9 @@ PC端 Logo
 
     position:absolute;
 
-    top:10px;
+    top:15px;
 
-    right:50px;
+    right:80px;
 
     z-index:20;
 
@@ -69,7 +69,7 @@ PC端 Logo
 
 .ics-logo img {
 
-    width:140px;
+    width:180px;
 
     height:auto;
 
