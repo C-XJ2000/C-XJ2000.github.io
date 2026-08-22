@@ -42,6 +42,11 @@ latest_posts:
 
 <div class="bio-justify" markdown="1">
 
+<div style="text-align:right;">
+<img src="/assets/img/favicon.png" 
+     width="180px">
+</div>
+
 # 张迁
 
 欢迎访问我的个人主页！
