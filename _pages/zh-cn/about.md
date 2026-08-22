@@ -42,9 +42,22 @@ latest_posts:
 
 <div class="bio-justify" markdown="1">
 
-<div style="text-align:right;">
-<img src="/assets/img/favicon.png" 
-     width="180px">
+<style>
+.ics-logo {
+    position: absolute;
+    top: 40px;
+    right: 50px;
+    z-index: 10;
+}
+
+.ics-logo img {
+    width: 180px;
+    height: auto;
+}
+</style>
+
+<div class="ics-logo">
+    <img src="/assets/img/favicon.png" width="180">
 </div>
 
 # 张迁
