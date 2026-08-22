@@ -77,67 +77,37 @@ PC端 Logo
 
 
 /* =========================
-手机端
+   Mobile responsive fix
+   for al-folio about page
 ========================= */
-
 
 @media screen and (max-width:768px){
 
 
-    /* 取消Logo悬浮 */
+    /* 强制about页面单列布局 */
 
-    .ics-logo {
-
-        position:relative;
-
-        top:auto;
-
-        right:auto;
-
-        width:100%;
-
-        text-align:center;
-
-        margin-bottom:20px;
-
-    }
-
-
-    .ics-logo img {
-
-        width:90px;
-
-    }
-
-
-
-    /* =====================
-       al-folio 手机单列布局
-    ===================== */
-
-
-    .row {
+    .about .row {
 
         display:block !important;
 
     }
 
 
-    .col-md-4,
-    .col-md-8,
-    .col-sm-4,
-    .col-sm-8 {
+    .about .row > div {
 
         width:100% !important;
 
         max-width:100% !important;
 
-        flex:none !important;
+        flex:0 0 100% !important;
 
     }
 
 
-    .profile {
+
+    /* profile区域 */
+
+    .about .profile {
 
         width:100% !important;
 
@@ -146,7 +116,24 @@ PC端 Logo
     }
 
 
-    .profile .more-info {
+
+    .about .profile img {
+
+        max-width:220px !important;
+
+        width:220px !important;
+
+        height:auto;
+
+        margin:auto;
+
+    }
+
+
+
+    /* profile文字 */
+
+    .about .profile .more-info {
 
         text-align:left;
 
@@ -154,12 +141,25 @@ PC端 Logo
 
 
 
-    body {
+    /* 正文 */
 
-        overflow-x:hidden;
+    .about .post-content {
+
+        width:100% !important;
+
+        max-width:100% !important;
 
     }
 
+
+
+    /* 防止横向滚动 */
+
+    html,body {
+
+        overflow-x:hidden !important;
+
+    }
 
 }
 
