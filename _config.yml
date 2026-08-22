@@ -7,7 +7,7 @@ first_name: Qian
 middle_name:
 last_name: Zhang
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: favicon.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://qianzhangcn.github.io # the base hostname & protocol for your site
 baseurl:
