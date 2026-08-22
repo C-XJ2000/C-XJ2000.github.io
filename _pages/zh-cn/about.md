@@ -45,19 +45,19 @@ latest_posts:
 <style>
 .ics-logo {
     position: absolute;
-    top: 40px;
-    right: 50px;
+    top: 90px;
+    right: 180px;
     z-index: 10;
 }
 
 .ics-logo img {
-    width: 180px;
+    width: 150px;
     height: auto;
 }
 </style>
 
 <div class="ics-logo">
-    <img src="/assets/img/favicon.png" width="180">
+    <img src="/assets/img/favicon.png">
 </div>
 
 # 张迁
