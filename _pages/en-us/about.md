@@ -34,7 +34,7 @@ latest_posts:
 .ics-logo {
     position: absolute;
     top: 90px;
-    right: 380px;
+    right: 350px;
     z-index: 10;
 }
 
