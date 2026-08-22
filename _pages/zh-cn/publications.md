@@ -21,34 +21,50 @@ nav_order: 2
 .pub-list > li {
   counter-increment: pub-counter;
   position: relative;
-
-  /* 给 [1]、[2] 等编号预留空间 */
   padding-left: 3.2em;
 
-  /* 每篇论文之间的距离 */
+  /* 每篇论文之间的间距 */
   margin-bottom: 1.8em;
 
-  /* 每篇论文内部的行距 */
-  line-height: 1.85;
+  /* 同一篇论文内部的行距 */
+  line-height: 1.8;
 
   text-align: justify;
   font-family: "Times New Roman", "Songti SC", "SimSun", serif;
   font-size: 17px;
+  font-weight: 400;
 }
 
-/* 自动生成 [1] [2] [3] ... */
+/* 自动生成 [1]、[2]、[3] ... */
 .pub-list > li::before {
   content: "[" counter(pub-counter) "]";
   position: absolute;
   left: 0;
   top: 0;
-
   width: 2.5em;
   text-align: right;
 
   font-family: "Times New Roman", serif;
   font-size: 17px;
-  font-weight: normal;
+  font-weight: 400;
+}
+
+/* Qian Zhang：粗体正体 */
+.pub-list .author-name {
+  font-weight: 700 !important;
+  font-style: normal !important;
+}
+
+/* 期刊名称：粗体 + 斜体 */
+.pub-list .journal-name {
+  font-weight: 700 !important;
+  font-style: italic !important;
+}
+
+/* et al.：斜体 */
+.pub-list .etal {
+  font-style: italic !important;
+  font-weight: 400 !important;
 }
 </style>
   
@@ -60,186 +76,260 @@ nav_order: 2
 <ol class="pub-list">
 
 <li>
-<strong>Qian Zhang</strong>, <em>et al.</em>, 
+<span class="author-name">Qian Zhang</span>, 
+<span class="etal">et al.</span>, 
 "Hierarchical sub-array beam training for flexible intelligent metasurface-enabled hybrid near-far-field multiuser communications," 
-<strong>IEEE Journal on Selected Areas in Communications</strong>, 2026. 
-(JCR Q1, IF = 16.8, <strong>大修</strong>)
+<span class="journal-name">IEEE Journal on Selected Areas in Communications</span>, 
+2026. (JCR Q1, IF = 16.8, <strong>大修</strong>)
 </li>
 
 <li>
-<strong>Qian Zhang</strong>, <em>et al.</em>, 
+<span class="author-name">Qian Zhang</span>, 
+<span class="etal">et al.</span>, 
 "RIS-assisted multiuser NOMA networks with imperfect CSI under transceiver hardware impairments," 
-<strong>IEEE Internet of Things Journal</strong>, 2026. 
-(JCR Q1, IF = 8.33, <strong>在修</strong>)
+<span class="journal-name">IEEE Internet of Things Journal</span>, 
+2026. (JCR Q1, IF = 8.33, <strong>在修</strong>)
 </li>
 
 <li>
-<strong>Qian Zhang</strong>, <em>et al.</em>, 
+<span class="author-name">Qian Zhang</span>, 
+<span class="etal">et al.</span>, 
 "Joint precoding and phase-shift optimization algorithm for RIS-aided multiple access systems," 
-<strong>IEEE Transactions on Cognitive Communications and Networking</strong>, 2026. 
-(JCR Q1, IF = 8, <strong>To be submitted</strong>)
+<span class="journal-name">IEEE Transactions on Cognitive Communications and Networking</span>, 
+2026. (JCR Q1, IF = 8, <strong>To be submitted</strong>)
 </li>
 
 <li>
-<strong>Qian Zhang</strong>, Zheng Dong, <em>et al.</em>, 
+<span class="author-name">Qian Zhang</span>, 
+Zheng Dong, 
+<span class="etal">et al.</span>, 
 "Multi-resolution codebook design and multiuser interference management for discrete XL-RIS-aided near-field MIMO systems," 
-<strong>IEEE Transactions on Wireless Communications</strong>, vol. 25, pp. 2826-2842, 2026. 
+<span class="journal-name">IEEE Transactions on Wireless Communications</span>, 
+vol. 25, pp. 2826-2842, 2026. 
 (JCR Q1, IF = 10.7, 🏆 <strong>ESI高被引</strong>) 
 <a href="https://doi.org/10.1109/TWC.2025.3599514">DOI</a>
 </li>
 
 <li>
-<strong>Qian Zhang</strong>, Ju Liu, <em>et al.</em>, 
+<span class="author-name">Qian Zhang</span>, 
+Ju Liu, 
+<span class="etal">et al.</span>, 
 "Practical RIS-aided multiuser communications with imperfect CSI: Practical model, amplitude feedback, and beamforming optimization," 
-<strong>IEEE Transactions on Wireless Communications</strong>, vol. 23, no. 10, pp. 15245-15260, Oct. 2024. 
+<span class="journal-name">IEEE Transactions on Wireless Communications</span>, 
+vol. 23, no. 10, pp. 15245-15260, Oct. 2024. 
 (JCR Q1, IF = 10.7) 
 <a href="https://doi.org/10.1109/TWC.2024.3427695">DOI</a>
 </li>
 
 <li>
-<strong>Qian Zhang</strong>, Ju Liu, <em>et al.</em>, 
+<span class="author-name">Qian Zhang</span>, 
+Ju Liu, 
+<span class="etal">et al.</span>, 
 "Two-Stage Coded-Sliding Beam Training and QoS-constrained sum-rate maximization for SIM-assisted wireless communications," 
-<strong>IEEE Transactions on Wireless Communications</strong>, vol. 25, pp. 12162-12179, 2026. 
+<span class="journal-name">IEEE Transactions on Wireless Communications</span>, 
+vol. 25, pp. 12162-12179, 2026. 
 (JCR Q1, IF = 10.7) 
 <a href="https://doi.org/10.1109/TWC.2026.3661858">DOI</a>
 </li>
 
 <li>
-<strong>Qian Zhang</strong>, Ju Liu, <em>et al.</em>, 
+<span class="author-name">Qian Zhang</span>, 
+Ju Liu, 
+<span class="etal">et al.</span>, 
 "Robust beamforming design for RIS-aided NOMA secure networks with transceiver hardware impairments," 
-<strong>IEEE Transactions on Communications</strong>, vol. 71, no. 6, pp. 3637-3649, Jun. 2023. 
+<span class="journal-name">IEEE Transactions on Communications</span>, 
+vol. 71, no. 6, pp. 3637-3649, Jun. 2023. 
 (JCR Q1, IF = 8.3) 
 <a href="https://doi.org/10.1109/TCOMM.2023.3251345">DOI</a>
 </li>
 
 <li>
-<strong>Qian Zhang</strong>, Zhengfeng Du, <em>et al.</em>, 
+<span class="author-name">Qian Zhang</span>, 
+Zhengfeng Du, 
+<span class="etal">et al.</span>, 
 "Joint power allocation and discrete phase-shift optimization for SIM-aided ISAC systems," 
-<strong>IEEE Transactions on Vehicular Technology</strong>, vol. 74, no. 12, pp. 19795-19800, Dec. 2025. 
+<span class="journal-name">IEEE Transactions on Vehicular Technology</span>, 
+vol. 74, no. 12, pp. 19795-19800, Dec. 2025. 
 (JCR Q1, IF = 7.1) 
 <a href="https://doi.org/10.1109/TVT.2025.3584064">DOI</a>
 </li>
 
 <li>
-<strong>Qian Zhang</strong>, Yufei Zhao, <em>et al.</em>, 
-"Crem\'er-Rao bound minimization for flexible intelligent metasurfaces enabled ISAC systems," 
-<strong>IEEE Transactions on Vehicular Technology</strong>, 2025. 
+<span class="author-name">Qian Zhang</span>, 
+Yufei Zhao, 
+<span class="etal">et al.</span>, 
+"Crem'er-Rao bound minimization for flexible intelligent metasurfaces enabled ISAC systems," 
+<span class="journal-name">IEEE Transactions on Vehicular Technology</span>, 
+2025. 
 (JCR Q1, IF = 7.1) 
 <a href="https://doi.org/10.1109/TVT.2026.3701078">DOI</a>
 </li>
 
 <li>
-<strong>Qian Zhang</strong>, Mingjie Shao, <em>et al.</em>, 
+<span class="author-name">Qian Zhang</span>, 
+Mingjie Shao, 
+<span class="etal">et al.</span>, 
 "An efficient sum-rate maximization algorithm for fluid antenna-assisted ISAC system," 
-<strong>IEEE Communications Letters</strong>, vol. 29, no. 1, pp. 200-204, Jan. 2025. 
+<span class="journal-name">IEEE Communications Letters</span>, 
+vol. 29, no. 1, pp. 200-204, Jan. 2025. 
 (JCR Q2, IF = 4.4, 🏆 <strong>ESI高被引</strong>, <strong>年度最受欢迎论文TOP2</strong>) 
-<a href="https://doi.org/10.1109/TVT.2026.370107810.1109/LCOMM.2024.3510334">DOI</a>
+<a href="https://doi.org/10.1109/LCOMM.2024.3510334">DOI</a>
 </li>
 
 <li>
-<strong>Qian Zhang</strong>†, Guanghui Luo†, <em>et al.</em>, 
+<span class="author-name">Qian Zhang</span>†, 
+Guanghui Luo†, 
+<span class="etal">et al.</span>, 
 "Beyond-diagonal reconfigurable intelligent surface enhanced NOMA systems," 
-<strong>IEEE Wireless Communications Letters</strong>, vol. 14, no. 1, pp. 118-122, Jan. 2025. 
+<span class="journal-name">IEEE Wireless Communications Letters</span>, 
+vol. 14, no. 1, pp. 118-122, Jan. 2025. 
 (JCR Q1, IF = 5.5) 
 <a href="https://doi.org/10.1109/LWC.2024.3489718">DOI</a>
 </li>
 
 <li>
-Xuejun Cheng†, <strong>Qian Zhang</strong>†, Yunnuo Xu, <em>et al.</em>, 
+Xuejun Cheng†, 
+<span class="author-name">Qian Zhang</span>†, 
+Yunnuo Xu, 
+<span class="etal">et al.</span>, 
 "Robust beamforming for non-ideal RIS enabled rate-splitting multiple access systems," 
-<strong>IEEE Transactions on Vehicular Technology</strong>, 2025. 
+<span class="journal-name">IEEE Transactions on Vehicular Technology</span>, 
+2025. 
 (共一, 主要指导人, JCR Q1, IF = 7.1) 
 <a href="https://doi.org/10.1109/TVT.2026.3677351">DOI</a>
 </li>
 
 <li>
-Maoyuan Wang†, <strong>Qian Zhang</strong>†, <em>et al.</em>, 
+Maoyuan Wang†, 
+<span class="author-name">Qian Zhang</span>†, 
+<span class="etal">et al.</span>, 
 "DRL-Based Antenna Position Optimization for MA-Assisted OTFS System Under Imperfect CSI," 
-<strong>IEEE Communications Letters</strong>, vol. 30, pp. 1905-1909, 2026. 
+<span class="journal-name">IEEE Communications Letters</span>, 
+vol. 30, pp. 1905-1909, 2026. 
 (共一, 主要指导人, JCR Q2, IF = 4.4, <strong>最受欢迎论文TOP 50</strong>) 
 <a href="https://doi.org/10.1109/LCOMM.2026.3688633">DOI</a>
 </li>
 
 <li>
-Yunxiao Li†, <strong>Qian Zhang</strong>†, <em>et al.</em>, 
+Yunxiao Li†, 
+<span class="author-name">Qian Zhang</span>†, 
+<span class="etal">et al.</span>, 
 "Secure transmission for fluid antenna-aided ISAC systems," 
-<strong>IEEE Wireless Communications Letters</strong>, 2026. 
+<span class="journal-name">IEEE Wireless Communications Letters</span>, 
+2026. 
 (共一，主要指导人, JCR Q1, IF = 5.5) 
 <a href="https://doi.org/10.1109/LWC.2026.3672225">DOI</a>
 </li>
 
 <li>
-Yuhui Jiao†, <strong>Qian Zhang</strong>†, <em>et al.</em>, 
+Yuhui Jiao†, 
+<span class="author-name">Qian Zhang</span>†, 
+<span class="etal">et al.</span>, 
 "Joint Power Allocation and Phase-Shift Design for Beyond-Diagonal Stacked Intelligent Metasurfaces-Aided ISAC Systems," 
-<strong>IEEE Wireless Communications Letters</strong>, 2026. 
+<span class="journal-name">IEEE Wireless Communications Letters</span>, 
+2026. 
 (共一, 主要指导人, JCR Q1, IF = 5.5, <strong>在修</strong>)
 </li>
 
 <li>
-Xuejun Cheng, <strong>Qian Zhang</strong>, <em>et al.</em>, 
+Xuejun Cheng, 
+<span class="author-name">Qian Zhang</span>, 
+<span class="etal">et al.</span>, 
 "Joint Beamforming and Phase Shifts Design for RIS-Enabled RSMA-ISAC Systems," 
-<strong>IEEE Wireless Communications Letters</strong>, 2026. 
+<span class="journal-name">IEEE Wireless Communications Letters</span>, 
+2026. 
 (主要指导人, JCR Q1, IF = 5.5, <strong>在修</strong>)
 </li>
 
 <li>
-Maoyuan Wang, <strong>Qian Zhang</strong>, Jiancheng An, <em>et al.</em>, 
+Maoyuan Wang, 
+<span class="author-name">Qian Zhang</span>, 
+Jiancheng An, 
+<span class="etal">et al.</span>, 
 "DRL-Based Joint Beamforming and Surface Shape Optimization for Flexible Intelligent Metasurface-Aided ISAC Systems," 
-<strong>IEEE Wireless Communications Letters</strong>. 
+<span class="journal-name">IEEE Wireless Communications Letters</span>. 
 (主要指导人, JCR Q1, IF = 5.5) 
 <a href="https://doi.org/10.1109/LWC.2026.3709756">DOI</a>
 </li>
 
 <li>
-Zhichao Gao, <strong>Qian Zhang</strong>, Ju Liu, <em>et al.</em>, 
+Zhichao Gao, 
+<span class="author-name">Qian Zhang</span>, 
+Ju Liu, 
+<span class="etal">et al.</span>, 
 "DRL-based AP selection in downlink cell-free massive MIMO network with pilot contamination," 
-<strong>IEEE Communications Letters</strong>, vol. 28, no. 6, pp. 1432-1436, Jun. 2024. 
+<span class="journal-name">IEEE Communications Letters</span>, 
+vol. 28, no. 6, pp. 1432-1436, Jun. 2024. 
 (JCR Q2, IF = 4.4) 
 <a href="https://doi.org/10.1109/LCOMM.2024.3387095">DOI</a>
 </li>
 
 <li>
-Ziyu Li, Lina Zheng, <strong>Qian Zhang</strong>, <em>et al.</em>, 
+Ziyu Li, 
+Lina Zheng, 
+<span class="author-name">Qian Zhang</span>, 
+<span class="etal">et al.</span>, 
 "GNSS Jamming Attacks Recognition Based on Dual GCN With Adaptive Weight Learning," 
-<strong>IEEE Sensors Journal</strong>, vol. 25, no. 13, pp. 26152-26168, 1 Jul., 2025. 
+<span class="journal-name">IEEE Sensors Journal</span>, 
+vol. 25, no. 13, pp. 26152-26168, 1 Jul., 2025. 
 (JCR Q1, IF = 4.5) 
 <a href="https://doi.org/10.1109/JSEN.2025.3571189">DOI</a>
 </li>
 
 <li>
-Ziyu Li, Ju Liu, Hui Wang, <strong>Qian Zhang</strong>, <em>et al.</em>, 
-“Angle-Optimized Aided Dual Stream Harmonized Network for GNSS Jamming Recognition,” 
-<strong>IEEE Transaction on Instrumentation and Measurement</strong>, 2025. 
+Ziyu Li, 
+Ju Liu, 
+Hui Wang, 
+<span class="author-name">Qian Zhang</span>, 
+<span class="etal">et al.</span>, 
+"Angle-Optimized Aided Dual Stream Harmonized Network for GNSS Jamming Recognition," 
+<span class="journal-name">IEEE Transaction on Instrumentation and Measurement</span>, 
+2025. 
 (JCR Q1, IF = 5.9) 
 <a href="https://doi.org/10.1109/TIM.2025.3644543">DOI</a>
 </li>
 
 <li>
-Jinyuan Liu, Yong Liang Guan, Hong Niu, <strong>Qian Zhang</strong>, <em>et al.</em>, 
+Jinyuan Liu, 
+Yong Liang Guan, 
+Hong Niu, 
+<span class="author-name">Qian Zhang</span>, 
+<span class="etal">et al.</span>, 
 "Fluid antennas meet rate-splitting multiple access: A new path forward for 6G networks," 
-<strong>IEEE Network</strong>, 2025. 
+<span class="journal-name">IEEE Network</span>, 
+2025. 
 (JCR Q1, IF = 6.3) 
 <a href="https://doi.org/10.1109/MNET.2026.3685501">DOI</a>
 </li>
 
 <li>
-Yufei Zhao, Deyu Lin, <strong>Qian Zhang</strong>, <em>et al.</em>, 
+Yufei Zhao, 
+Deyu Lin, 
+<span class="author-name">Qian Zhang</span>, 
+<span class="etal">et al.</span>, 
 "Enhanced information security via wave-field selectivity and structured wavefront manipulation," 
-<strong>IEEE Transactions on Wireless Communications</strong>, 2025. 
+<span class="journal-name">IEEE Transactions on Wireless Communications</span>, 
+2025. 
 (JCR Q1, IF = 10.7, <strong>大修</strong>)
 </li>
 
 <li>
-Yufei Zhao, Haoyang Shi, <strong>Qian Zhang</strong>, <em>et al.</em>, 
+Yufei Zhao, 
+Haoyang Shi, 
+<span class="author-name">Qian Zhang</span>, 
+<span class="etal">et al.</span>, 
 "Skin-inspired minimalist stacked intelligent meta-surfaces: from concept to prototype," 
-<strong>IEEE Wireless Communications</strong>. 
+<span class="journal-name">IEEE Wireless Communications</span>. 
 (JCR Q1, IF = 11.6, <strong>大修</strong>)
 </li>
 
 <li>
-Xuejun Cheng, <strong>Qian Zhang</strong>, <em>et al.</em>, 
-"Crem\'er-Rao bound minimization for discrete SIM-aided ISAC systems," 
-<strong>IEEE Internet of Things Journal</strong>, 2026. 
+Xuejun Cheng, 
+<span class="author-name">Qian Zhang</span>, 
+<span class="etal">et al.</span>, 
+"Crem'er-Rao bound minimization for discrete SIM-aided ISAC systems," 
+<span class="journal-name">IEEE Internet of Things Journal</span>, 
+2026. 
 (主要指导人, JCR Q1, IF = 8.33, <strong>在修</strong>)
 </li>
 
