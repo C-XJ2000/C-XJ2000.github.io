@@ -12,7 +12,7 @@ nav_order: 2
 <style>
 
 /* =========================
-   正文排版（保持不变）
+正文排版（保持不变）
 ========================= */
 
 .bio-justify p {
@@ -25,112 +25,119 @@ nav_order: 2
 
   margin-top:0;
   margin-bottom:1.3em;
-}
-
-
-/* =========================
-   让 Logo 相对于正文区域定位
-========================= */
-
-.bio-justify {
-
-    position: relative;
 
 }
 
 
 /* =========================
-   ICS Logo（PC端）
+PC端 Logo
 ========================= */
+
 
 .ics-logo {
 
-    position: absolute;
+    position:absolute;
 
-    top: 40px;
+    top:90px;
 
-    right: 20px;
+    right:260px;
 
-    z-index:10;
+    z-index:20;
 
 }
 
 
 .ics-logo img {
 
-    width:160px;
+    width:180px;
 
     height:auto;
 
 }
 
 
-
 /* =========================
-   手机端适配
+   Mobile responsive fix
+   for al-folio about page
 ========================= */
 
 @media screen and (max-width:768px){
 
 
-    /* Logo恢复正常布局 */
+    /* 强制about页面单列布局 */
 
-    .ics-logo {
+    .about .row {
 
-        position: relative;
+        display:block !important;
 
-        top:auto;
+    }
 
-        right:auto;
 
-        width:90px;
+    .about .row > div {
 
-        margin:0 auto 20px auto;
+        width:100% !important;
+
+        max-width:100% !important;
+
+        flex:0 0 100% !important;
+
+    }
+
+
+
+    /* profile区域 */
+
+    .about .profile {
+
+        width:100% !important;
 
         text-align:center;
 
     }
 
 
-    .ics-logo img {
 
-        width:90px;
+    .about .profile img {
 
-        height:auto;
+        max-width:220px !important;
 
-    }
-
-
-    /* 手机端取消左右挤压 */
-
-    .profile {
-
-        width:100% !important;
-
-        float:none !important;
-
-    }
-
-
-    .profile img {
-
-        max-width:220px;
+        width:220px !important;
 
         height:auto;
 
+        margin:auto;
+
     }
 
 
-    .post-content {
+
+    /* profile文字 */
+
+    .about .profile .more-info {
+
+        text-align:left;
+
+    }
+
+
+
+    /* 正文 */
+
+    .about .post-content {
 
         width:100% !important;
 
+        max-width:100% !important;
+
     }
 
 
-    body {
 
-        overflow-x:hidden;
+    /* 防止横向滚动 */
+
+    html,body {
+
+        overflow-x:hidden !important;
 
     }
 
