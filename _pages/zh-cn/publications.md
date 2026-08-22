@@ -71,6 +71,12 @@ nav_order: 2
   font-weight: 800 !important;
   font-style: normal !important;
 }
+
+  /* 会议简称：加粗 */
+.pub-list .conference-name {
+  font-weight: 800 !important;
+  font-style: normal !important;
+}
 </style>
   
 ## 📚 **Publications**  (†共同一作、*通讯作者)
@@ -348,6 +354,101 @@ Xuejun Cheng,
 ---
 
 ### 🧑‍🏫 **Conference Papers**
+
+### 🧑‍🏫 **Conference Papers**
+
+<ol class="pub-list">
+
+<li>
+<span class="author-name">Qian Zhang</span>, 
+Mingjie Shao, Qiang Li, and Ju Liu, 
+"An efficient algorithm for multiuser sum-rate maximization of large-scale active RIS-aided MIMO system," 
+ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing 
+(<span class="conference-name">ICASSP</span>), 
+Seoul, Korea, Republic of, 2024, pp. 9036-9040. 
+<span class="paper-info">(EI, CCF B, IEEE SPS旗舰会议)</span> 
+<a href="https://ieeexplore.ieee.org/document/10446199">DOI</a>
+</li>
+
+<li>
+<span class="author-name">Qian Zhang</span>, 
+Guanghui Luo, 
+<span class="etal">et al.</span>, 
+"RIS-aided MU-NOMA systems with imperfect CSI and generalized hardware impairments," 
+2024 IEEE 99th Vehicular Technology Conference 
+(<span class="conference-name">VTC2024-Spring</span>), 
+Singapore, Singapore, 2024, pp. 1-6. 
+<span class="paper-info">(EI, IEEE VTS旗舰会议)</span> 
+<a href="https://ieeexplore.ieee.org/abstract/document/10683637">DOI</a>
+</li>
+
+<li>
+Yuhui Jiao†, 
+<span class="author-name">Qian Zhang</span>†, 
+<span class="etal">et al.</span>, 
+"Efficient beamforming for discrete SIM-aided multiuser systems under statistical CSI," 
+<span class="conference-name">WCNC2026</span> - IEEE Wireless Communications and Networking Conference (WCNC). 
+<span class="paper-info">(共一，主要指导人, IEEE通信协会旗舰会议)</span>
+</li>
+
+<li>
+Xuejun Cheng†, 
+<span class="author-name">Qian Zhang</span>†, 
+<span class="etal">et al.</span>, 
+"Joint precoding and phase shift optimization for beyond-diagonal RIS-aided ISAC system," 
+<span class="conference-name">ICC2026</span> - IEEE International Conference on Communications (ICC). 
+<span class="paper-info">(共一, 主要指导人, IEEE通信协会旗舰会议)</span> 
+<a href="https://ieeexplore.ieee.org/abstract/document/11586512">DOI</a>
+</li>
+
+<li>
+Xuejun Cheng, 
+<span class="author-name">Qian Zhang</span>, 
+<span class="etal">et al.</span>, 
+"Robust Beamforming for Discrete RIS Enhanced RSMA-ISAC Systems," 
+2025 IEEE/CIC International Conference on Communications in China 
+(<span class="conference-name">ICCC</span>), 
+Shanghai, China, 2025, pp. 1-6. 
+<span class="paper-info">(主要指导人)</span> 
+<a href="https://ieeexplore.ieee.org/document/11148732">DOI</a>
+</li>
+
+<li>
+Yunxiao Li, 
+<span class="author-name">Qian Zhang</span>, 
+Guanghui Luo, 
+<span class="etal">et al.</span>, 
+"Robust max-min SINR for active RIS aided multiuser MISO system with outage constraints," 
+2024 IEEE/CIC International Conference on Communications in China 
+(<span class="conference-name">ICCC Workshops</span>), 
+Hangzhou, China, 2024, pp. 401-406. 
+<span class="paper-info">(主要指导人)</span> 
+<a href="https://ieeexplore.ieee.org/document/10693724">DOI</a>
+</li>
+
+<li>
+Zhiying Peng, Ju Liu, Zheng Dong, Zhichao Gao, and 
+<span class="author-name">Qian Zhang</span>, 
+"Time and Energy optimization Scheme of Task Offloading for Single-Cell MEC-D2D Networks," 
+2022 3rd Information Communication Technologies Conference 
+(<span class="conference-name">ICTC</span>), 
+Nanjing, China, 2022. 
+<a href="https://ieeexplore.ieee.org/document/9778638">DOI</a>
+</li>
+
+<li>
+Xiangcheng Wang, Ju Liu, Zheng Dong, Ziyu Li, 
+<span class="author-name">Qian Zhang</span>, 
+<span class="etal">et al.</span>, 
+"Link State Based Routing and Scheduling Co-Design of Time-Triggered Traffic in Time-Sensitive Networking," 
+2023 IEEE/CIC International Conference on Communications in China 
+(<span class="conference-name">ICCC</span>), 
+Dalian, China, 2023, pp. 1-6. 
+<a href="https://ieeexplore.ieee.org/document/10233623">DOI</a>
+</li>
+
+</ol>
+
 
 [1] **Qian Zhang**, Mingjie Shao, Qiang Li, and Ju Liu, "An efficient algorithm for multiuser sum-rate maximization of large-scale active RIS-aided MIMO system," ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), Seoul, Korea, Republic of, 2024, pp. 9036-9040. (EI, CCF B, IEEE SPS旗舰会议) [DOI](https://ieeexplore.ieee.org/document/10446199)
 
