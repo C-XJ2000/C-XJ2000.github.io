@@ -17,14 +17,11 @@ nav_order: 2
 .journal-papers p {
   counter-increment: paper;
   position: relative;
-
-  padding-left: 3.2em;
+  padding-left: 2.2em;
   margin-top: 0;
   margin-bottom: 1.2em;
-
   line-height: 1.7;
   text-align: justify;
-
   font-family: "Times New Roman", "Songti SC", "SimSun", serif;
   font-size: 17px;
 }
@@ -34,9 +31,6 @@ nav_order: 2
   position: absolute;
   left: 0;
   top: 0;
-
-  width: 2.5em;
-  text-align: right;
 }
 </style>
   
@@ -45,14 +39,17 @@ nav_order: 2
 
 ### 📘 **Journal Papers**
 
-<p><strong>Qian Zhang</strong>, <em>et al.</em>, 
-“Hierarchical sub-array beam training for flexible intelligent metasurface-enabled hybrid near-far-field multiuser communications,” 
-<strong>IEEE Journal on Selected Areas in Communications</strong>, 2026.  (JCR Q1, IF = 16.8, **大修**) </p>
+<div class="journal-papers">
 
-<p><strong>Qian Zhang</strong>, <em>et al.</em>, 
-“RIS-assisted multiuser NOMA networks with imperfect CSI under transceiver hardware impairments,” 
-<strong>IEEE Internet of Things Journal</strong>, 2026. (JCR Q1, IF = 8.33, **在修**) </p>
+<p><strong>Qian Zhang</strong>, <em>et al.</em>, “Hierarchical sub-array beam training for flexible intelligent metasurface-enabled hybrid near-far-field multiuser communications,” <strong>IEEE Journal on Selected Areas in Communications</strong>, 2026. (JCR Q1, IF = 16.8, <strong>大修</strong>)</p>
 
+<p><strong>Qian Zhang</strong>, <em>et al.</em>, “RIS-assisted multiuser NOMA networks with imperfect CSI under transceiver hardware impairments,” <strong>IEEE Internet of Things Journal</strong>, 2026. (JCR Q1, IF = 8.33, <strong>在修</strong>)</p>
+
+<p><strong>Qian Zhang</strong>, <em>et al.</em>, “Joint precoding and phase-shift optimization algorithm for RIS-aided multiple access systems,” <strong>IEEE Transactions on Cognitive Communications and Networking</strong>, 2026. (JCR Q1, IF = 8, <strong>To be submitted</strong>)</p>
+
+</div>
+
+<div class="journal-papers">
 [1] **Qian Zhang**, _et al._, "Hierarchical sub-array beam training for flexible intelligent metasurface-enabled hybrid near-far-field multiuser communications," **IEEE Journal on Selected Areas in Communications**, 2026.  (JCR Q1, IF = 16.8, **大修**)
 
 [2] **Qian Zhang**, _et al._, "RIS-assisted multiuser NOMA networks with imperfect CSI under transceiver hardware impairments,"  **IEEE Internet of Things Journal**, 2026. (JCR Q1, IF = 8.33, **在修**)
