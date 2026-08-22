@@ -30,22 +30,9 @@ latest_posts:
 ---
 
 <style>
-.bio-justify p {
-  text-align: justify;
-  text-align-last: left;
-  text-justify: inter-character;
-  line-height: 1.8;
-  margin-top: 0;
-  margin-bottom: 1.3em;
-}
-</style>
-
-<div class="bio-justify" markdown="1">
-
-<style>
 
 /* =========================
-   正文排版（保持不变）
+正文排版（保持不变）
 ========================= */
 
 .bio-justify p {
@@ -58,69 +45,60 @@ latest_posts:
 
   margin-top:0;
   margin-bottom:1.3em;
-}
-
-
-/* =========================
-   让 Logo 相对于正文区域定位
-========================= */
-
-.bio-justify {
-
-    position: relative;
 
 }
 
 
 /* =========================
-   ICS Logo（PC端）
+PC端 Logo
 ========================= */
+
 
 .ics-logo {
 
-    position: absolute;
+    position:absolute;
 
-    top: 40px;
+    top:20px;
 
-    right: 20px;
+    right:20px;
 
-    z-index:10;
+    z-index:20;
 
 }
 
 
 .ics-logo img {
 
-    width:160px;
+    width:140px;
 
     height:auto;
 
 }
 
 
-
 /* =========================
-   手机端适配
+手机端
 ========================= */
+
 
 @media screen and (max-width:768px){
 
 
-    /* Logo恢复正常布局 */
+    /* 取消Logo悬浮 */
 
     .ics-logo {
 
-        position: relative;
+        position:relative;
 
         top:auto;
 
         right:auto;
 
-        width:90px;
-
-        margin:0 auto 20px auto;
+        width:100%;
 
         text-align:center;
+
+        margin-bottom:20px;
 
     }
 
@@ -129,36 +107,51 @@ latest_posts:
 
         width:90px;
 
-        height:auto;
+    }
+
+
+
+    /* =====================
+       al-folio 手机单列布局
+    ===================== */
+
+
+    .row {
+
+        display:block !important;
 
     }
 
 
-    /* 手机端取消左右挤压 */
+    .col-md-4,
+    .col-md-8,
+    .col-sm-4,
+    .col-sm-8 {
+
+        width:100% !important;
+
+        max-width:100% !important;
+
+        flex:none !important;
+
+    }
+
 
     .profile {
 
         width:100% !important;
 
-        float:none !important;
+        text-align:center;
 
     }
 
 
-    .profile img {
+    .profile .more-info {
 
-        max-width:220px;
-
-        height:auto;
+        text-align:left;
 
     }
 
-
-    .post-content {
-
-        width:100% !important;
-
-    }
 
 
     body {
@@ -166,6 +159,7 @@ latest_posts:
         overflow-x:hidden;
 
     }
+
 
 }
 
