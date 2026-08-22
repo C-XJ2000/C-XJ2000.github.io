@@ -27,6 +27,10 @@ nav_order: 2
 
 ### 📘 **Journal Papers**
 
+<p><strong>Qian Zhang</strong>, <em>et al.</em>, 
+“Hierarchical sub-array beam training for flexible intelligent metasurface-enabled hybrid near-far-field multiuser communications,” 
+<strong>IEEE Journal on Selected Areas in Communications</strong>, 2026.  (JCR Q1, IF = 16.8, **大修**) </p>
+
 [1] **Qian Zhang**, _et al._, "Hierarchical sub-array beam training for flexible intelligent metasurface-enabled hybrid near-far-field multiuser communications," **IEEE Journal on Selected Areas in Communications**, 2026.  (JCR Q1, IF = 16.8, **大修**)
 
 [2] **Qian Zhang**, _et al._, "RIS-assisted multiuser NOMA networks with imperfect CSI under transceiver hardware impairments,"  **IEEE Internet of Things Journal**, 2026. (JCR Q1, IF = 8.33, **在修**)
