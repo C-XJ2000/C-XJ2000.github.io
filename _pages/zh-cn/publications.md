@@ -15,25 +15,40 @@ nav_order: 2
   counter-reset: pub-counter;
   padding-left: 0;
   margin-left: 0;
+  margin-top: 0;
 }
 
 .pub-list > li {
   counter-increment: pub-counter;
   position: relative;
-  padding-left: 2.8em;
-  margin-bottom: 1.2em;
-  line-height: 1.7;
+
+  /* 给 [1]、[2] 等编号预留空间 */
+  padding-left: 3.2em;
+
+  /* 每篇论文之间的距离 */
+  margin-bottom: 1.8em;
+
+  /* 每篇论文内部的行距 */
+  line-height: 1.85;
+
   text-align: justify;
   font-family: "Times New Roman", "Songti SC", "SimSun", serif;
   font-size: 17px;
 }
 
+/* 自动生成 [1] [2] [3] ... */
 .pub-list > li::before {
   content: "[" counter(pub-counter) "]";
   position: absolute;
   left: 0;
   top: 0;
-  width: 2.4em;
+
+  width: 2.5em;
+  text-align: right;
+
+  font-family: "Times New Roman", serif;
+  font-size: 17px;
+  font-weight: normal;
 }
 </style>
   
