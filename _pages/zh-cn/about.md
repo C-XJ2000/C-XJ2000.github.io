@@ -58,9 +58,9 @@ PC端 Logo
 
     position:absolute;
 
-    top:20px;
+    top:10px;
 
-    right:20px;
+    right:50px;
 
     z-index:20;
 
