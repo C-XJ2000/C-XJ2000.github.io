@@ -24,10 +24,10 @@ nav_order: 2
   padding-left: 3.2em;
 
   /* 每篇论文之间的间距 */
-  margin-bottom: 1.8em;
+  margin-bottom: 0.7em;
 
   /* 同一篇论文内部的行距 */
-  line-height: 1.8;
+  line-height: 1.65;
 
   text-align: justify;
   font-family: "Times New Roman", "Songti SC", "SimSun", serif;
@@ -67,12 +67,13 @@ nav_order: 2
   font-weight: 400 !important;
 }
 
+/* JCR、IF、论文状态等：加粗 */
 .pub-list .paper-info {
   font-weight: 800 !important;
   font-style: normal !important;
 }
 
-  /* 会议简称：加粗 */
+/* 会议简称：加粗 */
 .pub-list .conference-name {
   font-weight: 800 !important;
   font-style: normal !important;
