@@ -31,22 +31,99 @@ latest_posts:
 ---
 
 <style>
-.ics-logo {
-    position: absolute;
-    top: 90px;
-    right: 340px;
-    z-index: 10;
+
+/* =========================
+   正文排版（保持不变）
+========================= */
+
+.bio-justify p {
+
+  text-align: justify;
+  text-align-last: left;
+  text-justify: inter-character;
+
+  line-height: 1.8;
+
+  margin-top:0;
+  margin-bottom:1.3em;
 }
 
-.ics-logo img {
-    width: 180px;
-    height: auto;
+
+/* =========================
+   ICS Logo
+========================= */
+
+.ics-logo {
+
+    position: absolute;
+
+    top: 80px;
+
+    right: 0px;
+
+    z-index: 10;
+
 }
+
+
+.ics-logo img {
+
+    width:160px;
+
+    height:auto;
+
+}
+
+
+/* =========================
+   手机端适配
+   只调整Logo，不影响正文
+========================= */
+
+@media screen and (max-width:768px){
+
+    .ics-logo {
+
+        position: relative;
+
+        top:auto;
+
+        right:auto;
+
+        width:90px;
+
+        margin-left:auto;
+
+        margin-right:auto;
+
+        margin-bottom:20px;
+
+        text-align:center;
+
+    }
+
+
+    .ics-logo img {
+
+        width:90px;
+
+        height:auto;
+
+    }
+
+}
+
 </style>
+
 
 <div class="ics-logo">
     <img src="/assets/img/ICS_LOGO.png">
 </div>
+
+<div class="ics-logo">
+    <img src="/assets/img/ICS_LOGO.png">
+</div>
+
 
 
 # **Qian Zhang**
