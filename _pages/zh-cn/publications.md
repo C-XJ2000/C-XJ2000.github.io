@@ -10,6 +10,24 @@ nav_order: 2
 ---
 
 <style>
+.ics-logo {
+    position: absolute;
+    top: 90px;
+    right: 340px;
+    z-index: 10;
+}
+
+.ics-logo img {
+    width: 180px;
+    height: auto;
+}
+</style>
+
+<div class="ics-logo">
+    <img src="/assets/img/favicon.png">
+</div>
+
+<style>
 .pub-list {
   list-style: none;
   counter-reset: pub-counter;
