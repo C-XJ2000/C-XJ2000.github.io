@@ -41,11 +41,11 @@ nav_order: 2
 
 <div class="journal-papers">
 
-<p><strong>Qian Zhang</strong>, <em>et al.</em>, “Hierarchical sub-array beam training for flexible intelligent metasurface-enabled hybrid near-far-field multiuser communications,” <strong>IEEE Journal on Selected Areas in Communications</strong>, 2026. (JCR Q1, IF = 16.8, <strong>大修</strong>)</p>
+<p><strong>**Qian Zhang**</strong>, <em>et al.</em>, “Hierarchical sub-array beam training for flexible intelligent metasurface-enabled hybrid near-far-field multiuser communications,” <strong>IEEE Journal on Selected Areas in Communications</strong>, 2026. (**JCR Q1, IF = 16.8,** <strong>**大修**</strong>)</p>
 
-<p><strong>Qian Zhang</strong>, <em>et al.</em>, “RIS-assisted multiuser NOMA networks with imperfect CSI under transceiver hardware impairments,” <strong>IEEE Internet of Things Journal</strong>, 2026. (JCR Q1, IF = 8.33, <strong>在修</strong>)</p>
+<p><strong>**Qian Zhang**</strong>, <em>et al.</em>, “RIS-assisted multiuser NOMA networks with imperfect CSI under transceiver hardware impairments,” <strong>IEEE Internet of Things Journal</strong>, 2026. (**JCR Q1, IF = 8.33,** <strong>**在修**</strong>)</p>
 
-<p><strong>Qian Zhang</strong>, <em>et al.</em>, “Joint precoding and phase-shift optimization algorithm for RIS-aided multiple access systems,” <strong>IEEE Transactions on Cognitive Communications and Networking</strong>, 2026. (JCR Q1, IF = 8, <strong>To be submitted</strong>)</p>
+<p><strong>**Qian Zhang**</strong>, <em>et al.</em>, “Joint precoding and phase-shift optimization algorithm for RIS-aided multiple access systems,” <strong>IEEE Transactions on Cognitive Communications and Networking</strong>, 2026. (**JCR Q1, IF = 8,** <strong>**To be submitted**</strong>)</p>
 
 </div>
 
