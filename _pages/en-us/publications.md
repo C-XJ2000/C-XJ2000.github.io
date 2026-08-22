@@ -10,21 +10,137 @@ nav_order: 2
 ---
 
 <style>
-.ics-logo {
-    position: absolute;
-    top: 90px;
-    right: 340px;
-    z-index: 10;
+
+/* =========================
+   正文排版（保持不变）
+========================= */
+
+.bio-justify p {
+
+  text-align: justify;
+  text-align-last: left;
+  text-justify: inter-character;
+
+  line-height: 1.8;
+
+  margin-top:0;
+  margin-bottom:1.3em;
 }
+
+
+/* =========================
+   让 Logo 相对于正文区域定位
+========================= */
+
+.bio-justify {
+
+    position: relative;
+
+}
+
+
+/* =========================
+   ICS Logo（PC端）
+========================= */
+
+.ics-logo {
+
+    position: absolute;
+
+    top: 40px;
+
+    right: 20px;
+
+    z-index:10;
+
+}
+
 
 .ics-logo img {
-    width: 180px;
-    height: auto;
+
+    width:160px;
+
+    height:auto;
+
 }
+
+
+
+/* =========================
+   手机端适配
+========================= */
+
+@media screen and (max-width:768px){
+
+
+    /* Logo恢复正常布局 */
+
+    .ics-logo {
+
+        position: relative;
+
+        top:auto;
+
+        right:auto;
+
+        width:90px;
+
+        margin:0 auto 20px auto;
+
+        text-align:center;
+
+    }
+
+
+    .ics-logo img {
+
+        width:90px;
+
+        height:auto;
+
+    }
+
+
+    /* 手机端取消左右挤压 */
+
+    .profile {
+
+        width:100% !important;
+
+        float:none !important;
+
+    }
+
+
+    .profile img {
+
+        max-width:220px;
+
+        height:auto;
+
+    }
+
+
+    .post-content {
+
+        width:100% !important;
+
+    }
+
+
+    body {
+
+        overflow-x:hidden;
+
+    }
+
+}
+
 </style>
 
+
 <div class="ics-logo">
-    <img src="/assets/img/favicon.png">
+    <img src="/assets/img/ICS_LOGO.png">
 </div>
 
 <style>
