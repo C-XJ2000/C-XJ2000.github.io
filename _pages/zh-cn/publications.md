@@ -8,19 +8,37 @@ description: Main research achievements in the fields of wireless communication 
 nav: true
 nav_order: 2
 ---
+
 <style>
+.journal-papers {
+  counter-reset: paper;
+}
+
 .journal-papers p {
-  padding-left: 1.8em;
-  text-indent: -1.8em;
+  counter-increment: paper;
+  position: relative;
+
+  padding-left: 3.2em;
   margin-top: 0;
   margin-bottom: 1.2em;
+
   line-height: 1.7;
   text-align: justify;
-  /*  font-family: "Times New Roman", "Songti SC", "SimSun", serif !important; */
+
+  font-family: "Times New Roman", "Songti SC", "SimSun", serif;
   font-size: 17px;
 }
+
+.journal-papers p::before {
+  content: "[" counter(paper) "]";
+  position: absolute;
+  left: 0;
+  top: 0;
+
+  width: 2.5em;
+  text-align: right;
+}
 </style>
-<div class="journal-papers" markdown="1">
   
 ## 📚 **Publications**  (†共同一作、*通讯作者)
 ---
