@@ -43,18 +43,42 @@ latest_posts:
 <div class="bio-justify" markdown="1">
 
 <style>
+
+.post {
+    position: relative;
+}
+
 .ics-logo {
     position: absolute;
-    top: 90px;
-    right: 340px;
+    top: 80px;
+    right: 0;
     z-index: 10;
 }
 
 .ics-logo img {
-    width: 180px;
+    width: 12vw;
+    max-width: 160px;
+    min-width: 80px;
     height: auto;
 }
+
+
+/* 手机端 */
+@media screen and (max-width: 768px) {
+
+    .ics-logo {
+        top: 20px;
+        right: 15px;
+    }
+
+    .ics-logo img {
+        width: 80px;
+    }
+
+}
+
 </style>
+
 
 <div class="ics-logo">
     <img src="/assets/img/favicon.png">
