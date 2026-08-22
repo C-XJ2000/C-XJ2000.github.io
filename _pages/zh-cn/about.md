@@ -42,6 +42,106 @@ latest_posts:
 
 <div class="bio-justify" markdown="1">
 
+<style>
+
+/* 正文排版 */
+.bio-justify p {
+
+  text-align: justify;
+  text-align-last: left;
+  text-justify: inter-character;
+
+  line-height: 1.8;
+
+  margin-top:0;
+  margin-bottom:1.3em;
+}
+
+
+/* ICS Logo */
+
+.ics-logo {
+
+    float:right;
+
+    width:160px;
+
+    margin-left:25px;
+    margin-bottom:10px;
+
+}
+
+
+.ics-logo img {
+
+    width:100%;
+
+    height:auto;
+
+}
+
+
+/* 图片自适应 */
+
+img {
+
+    max-width:100%;
+
+    height:auto;
+
+}
+
+
+/* 手机端 */
+
+@media screen and (max-width:768px){
+
+
+    .ics-logo {
+
+        float:none;
+
+        width:90px;
+
+        margin-left:auto;
+
+        margin-right:auto;
+
+        margin-bottom:20px;
+
+        text-align:center;
+
+    }
+
+
+    body {
+
+        overflow-x:hidden;
+
+        font-size:15px;
+
+        line-height:1.7;
+
+    }
+
+
+    h1 {
+
+        font-size:32px;
+
+    }
+
+
+    h2 {
+
+        font-size:24px;
+
+    }
+
+}
+
+</style>
+
 <div class="ics-logo">
     <img src="/assets/img/favicon.png">
 </div>
