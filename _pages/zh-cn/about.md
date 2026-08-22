@@ -44,21 +44,16 @@ latest_posts:
 
 <style>
 
-.post {
-    position: relative;
-}
-
 .ics-logo {
-    position: absolute;
-    top: 80px;
-    right: 0;
-    z-index: 10;
+    float: right;
+    width: 160px;
+    margin-top: -20px;
+    margin-left: 20px;
+    margin-bottom: 10px;
 }
 
 .ics-logo img {
-    width: 12vw;
-    max-width: 160px;
-    min-width: 80px;
+    width: 100%;
     height: auto;
 }
 
@@ -67,12 +62,11 @@ latest_posts:
 @media screen and (max-width: 768px) {
 
     .ics-logo {
-        top: 20px;
-        right: 15px;
-    }
-
-    .ics-logo img {
-        width: 80px;
+        float: none;
+        width: 90px;
+        margin: 0 auto 20px auto;
+        text-align: center;
+        display: block;
     }
 
 }
