@@ -76,24 +76,54 @@ PC端 Logo
 }
 
 
+
 /* =========================
-   Mobile responsive fix
-   for al-folio about page
+手机端适配
 ========================= */
 
 @media screen and (max-width:768px){
 
 
-    /* 强制about页面单列布局 */
+    /* ===== Logo ===== */
 
-    .about .row {
+    .ics-logo {
+
+        position:relative;
+
+        top:auto;
+
+        right:auto;
+
+        width:100%;
+
+        text-align:center;
+
+        margin-bottom:20px;
+
+    }
+
+
+    .ics-logo img {
+
+        width:90px;
+
+        height:auto;
+
+    }
+
+
+
+    /* ===== al-folio 手机端强制单列 ===== */
+
+
+    .container.mt-5 .row {
 
         display:block !important;
 
     }
 
 
-    .about .row > div {
+    .container.mt-5 .row > div {
 
         width:100% !important;
 
@@ -105,37 +135,34 @@ PC端 Logo
 
 
 
-    /* profile区域 */
+    /* 左侧头像 */
 
-    .about .profile {
+    .container.mt-5 .profile {
 
         width:100% !important;
 
-        text-align:center;
+        text-align:center !important;
 
     }
 
 
-
-    .about .profile img {
-
-        max-width:220px !important;
+    .container.mt-5 .profile img {
 
         width:220px !important;
 
-        height:auto;
+        max-width:80% !important;
 
-        margin:auto;
+        height:auto !important;
 
     }
 
 
 
-    /* profile文字 */
+    /* 左侧个人信息 */
 
-    .about .profile .more-info {
+    .container.mt-5 .profile .more-info {
 
-        text-align:left;
+        text-align:left !important;
 
     }
 
@@ -143,7 +170,7 @@ PC端 Logo
 
     /* 正文 */
 
-    .about .post-content {
+    .container.mt-5 .post-content {
 
         width:100% !important;
 
@@ -152,8 +179,6 @@ PC端 Logo
     }
 
 
-
-    /* 防止横向滚动 */
 
     html,body {
 
