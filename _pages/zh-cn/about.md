@@ -46,12 +46,12 @@ latest_posts:
 .ics-logo {
     position: absolute;
     top: 90px;
-    right: 180px;
+    right: 280px;
     z-index: 10;
 }
 
 .ics-logo img {
-    width: 150px;
+    width: 180px;
     height: auto;
 }
 </style>
