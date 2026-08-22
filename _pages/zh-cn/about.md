@@ -143,7 +143,7 @@ img {
 </style>
 
 <div class="ics-logo">
-    <img src="/assets/img/favicon.png">
+    <img src="/assets/img/ICS_LOGO.png">
 </div>
 
 # 张迁
