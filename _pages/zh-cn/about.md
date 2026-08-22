@@ -132,9 +132,6 @@ latest_posts:
     <img src="/assets/img/ICS_LOGO.png">
 </div>
 
-<div class="ics-logo">
-    <img src="/assets/img/ICS_LOGO.png">
-</div>
 
 # 张迁
 
