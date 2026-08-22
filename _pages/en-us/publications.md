@@ -40,7 +40,7 @@ PC端 Logo
 
     top:90px;
 
-    right:260px;
+    right:300px;
 
     z-index:20;
 
