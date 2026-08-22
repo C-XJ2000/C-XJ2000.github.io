@@ -42,38 +42,6 @@ latest_posts:
 
 <div class="bio-justify" markdown="1">
 
-<style>
-
-.ics-logo {
-    float: right;
-    width: 160px;
-    margin-top: -20px;
-    margin-left: 20px;
-    margin-bottom: 10px;
-}
-
-.ics-logo img {
-    width: 100%;
-    height: auto;
-}
-
-
-/* 手机端 */
-@media screen and (max-width: 768px) {
-
-    .ics-logo {
-        float: none;
-        width: 90px;
-        margin: 0 auto 20px auto;
-        text-align: center;
-        display: block;
-    }
-
-}
-
-</style>
-
-
 <div class="ics-logo">
     <img src="/assets/img/favicon.png">
 </div>
