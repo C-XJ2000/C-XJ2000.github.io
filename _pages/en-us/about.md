@@ -39,7 +39,7 @@ latest_posts:
 }
 
 .ics-logo img {
-    width: 150px;
+    width: 180px;
     height: auto;
 }
 </style>
