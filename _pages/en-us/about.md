@@ -30,6 +30,25 @@ latest_posts:
   enabled: false
 ---
 
+<style>
+.ics-logo {
+    position: absolute;
+    top: 90px;
+    right: 180px;
+    z-index: 10;
+}
+
+.ics-logo img {
+    width: 150px;
+    height: auto;
+}
+</style>
+
+<div class="ics-logo">
+    <img src="/assets/img/favicon.png">
+</div>
+
+
 # **Qian Zhang**
 
 Welcome to my personal homepage!
