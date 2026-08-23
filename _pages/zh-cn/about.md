@@ -289,7 +289,7 @@ PC端 Logo
 欢迎对无线通信、智能超表面、通感一体化、人工智能通信优化等方向感兴趣的本科生、硕士生及博士生联系交流。个人邮箱：zhangqian@neuq.edu.cn; zq869054246@163.com。
 
 ---
-</div>
+
 
 <div style="text-align: center; margin-top: 30px; font-size: 14px; opacity: 0.75;">
   👁️ 本站总访问量：
