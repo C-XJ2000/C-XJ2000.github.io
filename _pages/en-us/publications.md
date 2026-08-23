@@ -554,6 +554,7 @@ Yuhui Jiao†,
 "Efficient beamforming for discrete SIM-aided multiuser systems under statistical CSI," 
 <span class="conference-name">WCNC2026</span> - IEEE Wireless Communications and Networking Conference (WCNC). 
 <span class="paper-info">(Co first author, main supervisor, IEEE ComSoc Flagship Conference)</span>
+<a href="https://ieeexplore.ieee.org/document/11555646?denied=">DOI</a>
 </li>
 
 <li>
