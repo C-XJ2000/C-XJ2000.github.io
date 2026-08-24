@@ -274,10 +274,28 @@ PC端 Logo
 <li>
 <span class="author-name">Qian Zhang</span>, 
 <span class="etal">et al.</span>, 
-"Joint precoding and phase-shift optimization algorithm for RIS-aided multiple access systems," 
-<span class="journal-name">IEEE Transactions on Cognitive Communications and Networking</span>, 
+"Discrete-Phase RIS-Aided Covert Communications With Random Element-Control Failures and Residual Reflection," 
+<span class="journal-name">IEEE Transactions on Wireless Communications </span>, 
 2026. 
-<span class="paper-info">(JCR Q1, IF = 8, To be submitted)</span>
+<span class="paper-info">(JCR Q1, IF = 10.3, 准备中)</span>
+</li>
+
+<li>
+<span class="author-name">Qian Zhang</span>, 
+<span class="etal">et al.</span>, 
+"Joint precoding and phase-shift optimization algorithm for RIS-aided multiple access systems," 
+<span class="journal-name">IEEE Transactions on Mobile Computing </span>, 
+2026. 
+<span class="paper-info">(JCR Q1, IF = 8.8, 准备中)</span>
+</li>
+
+<li>
+<span class="author-name">Qian Zhang</span>, 
+<span class="etal">et al.</span>, 
+"Sum Rate Maximization for Practical RIS-Enhanced Rate-Splitting Multiple Access Systems," 
+<span class="journal-name">IEEE Internet of Things Journal</span>, 
+2026. 
+  <span class="paper-info">(JCR Q1, IF = 8.33, 审稿中)</span>
 </li>
 
 <li>
