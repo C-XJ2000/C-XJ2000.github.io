@@ -300,6 +300,15 @@ PC端 Logo
 
 <li>
 <span class="author-name">Qian Zhang</span>, 
+<span class="etal">et al.</span>, 
+"Low-Complexity Beamforming Algorithm for Sum-Rate Maximization in Intelligent Metasurface-Aided Multiuser Systems," 
+<span class="journal-name">IEEE Internet of Things Journal</span>, 
+2026. 
+  <span class="paper-info">(JCR Q1, IF = 8.33, 审稿中)</span>
+</li>
+
+<li>
+<span class="author-name">Qian Zhang</span>, 
 Zheng Dong, 
 <span class="etal">et al.</span>, 
 "Multi-resolution codebook design and multiuser interference management for discrete XL-RIS-aided near-field MIMO systems," 
