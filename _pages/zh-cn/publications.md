@@ -280,6 +280,7 @@ PC端 Logo
 <span class="paper-info">(JCR Q1, IF = 10.3, 准备中)</span>
 </li>
 
+/*
 <li>
 <span class="author-name">Qian Zhang</span>, 
 <span class="etal">et al.</span>, 
@@ -306,6 +307,7 @@ PC端 Logo
 2026. 
   <span class="paper-info">(JCR Q1, IF = 8.33, 审稿中)</span>
 </li>
+*/
 
 <li>
 <span class="author-name">Qian Zhang</span>, 
