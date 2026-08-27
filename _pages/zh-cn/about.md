@@ -241,6 +241,7 @@ PC端 Logo
 
 ## 🌐 **学术服务**
 
+- CSIG交通视频专委会委员
 - IEEE PIMRC 2026 TPC Chair
 - IEEE ICC、GLOBECOM、WCNC 等国际会议 TPC Member
 - IEEE JSAC、TWC、TCOM、WCM、TIFS、TCCN、TVT、TITS、IOTJ、WCL、CL等十余家国际期刊审稿人
