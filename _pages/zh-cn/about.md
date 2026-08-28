@@ -206,7 +206,7 @@ body {
 <div class="top-header-row">
 
   <div class="top-header-photo">
-    <img src="{{ '/assets/img/Qian_Zhang_GitHub.png' | relative_url }}" alt="Qian Zhang">
+    <img src="{{ '/assets/img/Qian_Zhang_GitHub.png' | relative_url }}" alt="Xuejun Cheng">
   </div>
 
   <div class="top-header-info">
@@ -225,7 +225,7 @@ body {
 </div>
 
 
-# 张迁
+# 程学军
 
 欢迎访问我的个人主页！
 
