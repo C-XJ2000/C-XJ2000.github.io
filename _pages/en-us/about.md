@@ -19,7 +19,7 @@ latest_posts:
 <style>
 
 /* =========================================================
-   页面整体
+   Overall Page
    ========================================================= */
 
 html,
@@ -29,8 +29,7 @@ body {
 
 
 /* =========================================================
-   顶部区域：照片 + 个人信息 + Logo
-   与中文主页保持一致
+   Top Section: Photo + Personal Information + Logo
    ========================================================= */
 
 .top-header-row {
@@ -42,22 +41,16 @@ body {
     gap: 40px;
     margin-top: 10px;
     margin-bottom: 35px;
-
-    /* Logo 使用绝对定位时必须保留 */
-    position: relative;
 }
 
 
-/* =========================================================
-   左侧照片
-   ========================================================= */
-
+/* Photo on the left */
 .top-header-photo {
     flex: 0 0 auto;
 }
 
 .top-header-photo img {
-    width: 190px;
+    width: 210px;   /* Smaller than before */
     max-width: 100%;
     height: auto;
     display: block;
@@ -65,23 +58,12 @@ body {
 }
 
 
-/* =========================================================
-   中间个人信息
-   ========================================================= */
-
+/* Personal information in the middle */
 .top-header-info {
     flex: 1;
     min-width: 0;
-
     font-size: 16px;
     line-height: 2.0;
-
-    /*
-       给右侧 Logo 预留空间，
-       避免英文较长时与 Logo 重叠
-    */
-    padding-right: 210px;
-    box-sizing: border-box;
 }
 
 .top-header-info p {
@@ -90,23 +72,25 @@ body {
 }
 
 
-/* =========================================================
-   右侧 Logo
-   可以通过 top 和 right 自定义位置
-   ========================================================= */
+/* Logo on the right */
+/* Overall top section */
+.top-header-row {
+    position: relative;
+}
 
+
+/* Right Logo: customized position */
 .top-header-logo {
     position: absolute;
 
-    top: 60px;      /* 越大越往下 */
-    right: 40px;    /* 越大越往左 */
+    top: 60px;      /* Vertical position */
+    right: 40px;    /* Horizontal position */
 
     z-index: 10;
 }
 
 
-/* Logo 大小 */
-
+/* Logo size */
 .top-header-logo img {
     width: 170px;
     height: auto;
@@ -115,7 +99,7 @@ body {
 
 
 /* =========================================================
-   姓名与欢迎语
+   Name and Welcome Message
    ========================================================= */
 
 .profile-name {
@@ -131,23 +115,21 @@ body {
 
 
 /* =========================================================
-   正文排版
+   Main Text Layout
    ========================================================= */
 
 .bio-justify p {
     text-align: justify;
     text-align-last: left;
     text-justify: inter-character;
-
     line-height: 1.8;
-
     margin-top: 0;
     margin-bottom: 1.3em;
 }
 
 
 /* =========================================================
-   手机端适配
+   Mobile Adaptation
    ========================================================= */
 
 @media screen and (max-width: 768px) {
@@ -156,30 +138,19 @@ body {
     .container.mt-5 {
         width: 100% !important;
         max-width: 100% !important;
-
         padding-left: 18px !important;
         padding-right: 18px !important;
     }
 
-
-    /* =====================================================
-       顶部区域手机端改为上下排列
-       ===================================================== */
-
+    /* Change the top section to a vertical layout on mobile devices */
     .top-header-row {
         flex-direction: column;
-
         align-items: center;
         justify-content: center;
-
         gap: 18px;
-
         margin-top: 5px;
         margin-bottom: 28px;
     }
-
-
-    /* 手机端照片 */
 
     .top-header-photo {
         width: 100%;
@@ -189,21 +160,14 @@ body {
     .top-header-photo img {
         width: 190px;
         max-width: 78%;
-
         margin-left: auto;
         margin-right: auto;
     }
 
-
-    /* 手机端个人信息 */
-
     .top-header-info {
         width: 100%;
-
         font-size: 15px;
         line-height: 1.8;
-
-        padding-right: 0;
     }
 
     .top-header-info p {
@@ -211,33 +175,20 @@ body {
         margin-bottom: 4px;
     }
 
-
-    /* =====================================================
-       手机端 Logo
-       取消电脑端绝对定位
-       ===================================================== */
-
     .top-header-logo {
-        position: static;
-
         width: 100%;
         text-align: center;
-
-        margin-top: 5px;
     }
 
     .top-header-logo img {
         width: 95px;
-
         margin-left: auto;
         margin-right: auto;
     }
 
-
     h2 {
         font-size: 24px;
     }
-
 
     html,
     body {
@@ -249,23 +200,23 @@ body {
 
 
 <!-- =====================================================
-     顶部区域：照片 + 英文个人信息 + Logo
+     Top Section: Photo + Personal Information + Logo
      ===================================================== -->
 
 <div class="top-header-row">
 
   <div class="top-header-photo">
-    <img src="{{ '/assets/img/Qian_Zhang_GitHub.png' | relative_url }}" alt="Qian Zhang">
+    <img src="{{ '/assets/img/Xuejun_Cheng_GitHub.png.jpg' | relative_url }}" alt="Xuejun Cheng">
   </div>
 
   <div class="top-header-info">
-    <p>- Institution: Northeastern University at Qinhuangdao</p>
-    <p>- School: School of Computer and Communication Engineering</p>
-    <p>- Academic Rank: Associate Professor</p>
-    <p>- Degree: Ph.D. in Engineering</p>
-    <p>- Alma Mater: Shandong University</p>
-    <p>- Email: zq869054246@163.com</p>
+    <p>- University: Shandong University–National University of Singapore (Joint Ph.D. Training)</p>
+    <p>- School: School of Information Science and Engineering</p>
+    <p>- Major: Communication Engineering</p>
+    <p>- Education: Ph.D. Student</p>
+    <p>- Email: 19854191236@163.com</p>
   </div>
+
 
   <div class="top-header-logo">
     <img src="{{ '/assets/img/ICS_LOGO.png' | relative_url }}" alt="ICS Logo">
@@ -274,28 +225,24 @@ body {
 </div>
 
 
-# **Qian Zhang**
+# Xuejun Cheng
 
 Welcome to my personal homepage!
 
 ---
 
-## 👨‍🏫 **Basic Information**
+## 👨‍🏫 **Biography**
 
 <div class="bio-justify" markdown="1">
 
-**Qian Zhang**, **Ph.D. in Engineering**, **Associate Professor**, IEEE Member, Member of the China Institute of Communications, Committee Member of the CSIG Traffic Video Special Committee.  
-In 2021, he was recommended for admission to the direct Ph.D. program at Shandong University, under the supervision of Prof. Ju Liu (Level-II Professor) and Prof. Zheng Dong.  
-In 2024, supported by the **China Scholarship Council**, he joined the School of Electrical and Electronic Engineering at Nanyang Technological University (NTU), Singapore, as a visiting Ph.D. student, under the joint supervision of Prof. Yong Liang Guan (Vice President of NTU) and Prof. Chau Yuen (IEEE Fellow).  
-He received the Ph.D. degree in Engineering from Shandong University in June 2026.
+**Xuejun Cheng** is a Ph.D. student and an IEEE Graduate Student Member.  
+In September 2023, he was admitted to Shandong University through the postgraduate recommendation program to pursue a Ph.D. degree in Communication Engineering under the successive master's-doctoral program, under the supervision of Prof. Ju Liu (Second-level Professor), with Prof. Zheng Dong as his co-supervisor.  
+In 2026, supported by the **China Scholarship Council**, he joined the National University of Singapore as a visiting Ph.D. student under the supervision of Prof. Mehul Motani (IEEE Fellow).
 
-His current research interests include intelligent metasurfaces, convex optimization theory, and artificial intelligence algorithms for wireless communications and sensing.  
-He has published nearly 30 academic papers in top-tier journals and conferences in wireless communications, including IEEE TWC, IEEE TCOM, IEEE ICC, and IEEE ICASSP, among which 15 papers were published as the first or co-first author.  
-Two of his first-authored papers were recognized as **🏆ESI Highly Cited Papers**. One of his first-authored papers was selected as one of the **Top 2 Most Popular Papers of the Year in IEEE CL**, and four papers were ranked in the **Top 50 Most Popular Papers of the Month by IEEE TVT, WCL, and CL**, respectively (1 first-authored paper, 2 co-first-authored papers, and 1 second-authored paper).  
-He has been granted three patents. He serves as a **Young Editorial Board Member of China Communications** and a **TPC Chair for IEEE PIMRC 2026**. He has also served multiple times as a TPC Member for international conferences, including IEEE ICC, IEEE GLOBECOM, and IEEE WCNC. He regularly serves as a reviewer for more than ten international journals, including IEEE JSAC, TWC, TCOM, WCM, TIFS, TCCN, TVT, TITS, IOTJ, WCL, and CL.
+His current research interests include reconfigurable intelligent surfaces (RIS), rate-splitting multiple access (RSMA), integrated sensing and communication (ISAC), stacked intelligent metasurfaces (SIM), and optimization theory. He has conducted a series of studies on beamforming, phase-shift design, and resource optimization for intelligent metasurface-aided wireless communication and sensing systems. He has published research papers in international journals and conferences, including IEEE TVT, IEEE WCL, IEEE ICC, and ICCC. Three papers have been ranked among the **TOP 50 Most Popular Articles of IEEE TVT, WCL, and CL**, respectively. He has been granted three national invention patents, with four additional patents accepted for processing. He serves as a reviewer for international journals including IEEE TVT, IOTJ, and WCL, and as a TPC Member for international conferences including GlobalCom and PIMRC.
+ 
+He has participated in research projects including the National Key Research and Development Program of China and the General Program of the National Natural Science Foundation of China, and has also led a National College Students' Innovation and Entrepreneurship Training Program project. He has received the Samsung Scholarship, First-Class Scholarship for Ph.D. Students, Excellent Award in the Ph.D. Midterm Assessment, Outstanding Graduate of Shandong Province, First-Class Undergraduate Scholarship, and more than forty national-level awards in innovation, entrepreneurship, and academic competitions. 
 
-As a core member, he has participated in several major national- and provincial-level projects, including the National Key Research and Development Program of China, the General Program of the National Natural Science Foundation of China, and the Key Research and Development Program of Shandong Province (Major Science and Technology Demonstration Project).  
-He has received the Outstanding Doctoral/Bachelor's Thesis Award, the Outstanding Graduate Awards of Shandong Province and Shandong University, **two National Scholarships for Doctoral Students**, **the National Scholarship for Undergraduate Students**, the **2026 Academic Star Award of Shandong University as the sole recipient from his school**, the **2026 Outstanding Graduate Research Achievement Award of Shandong University as the sole recipient from his school**, First-Class Scholarships throughout his four undergraduate years, and more than ten awards in national- and provincial-level innovation, entrepreneurship, and disciplinary competitions.
 
 </div>
 
@@ -303,80 +250,86 @@ He has received the Outstanding Doctoral/Bachelor's Thesis Award, the Outstandin
 
 ## 🎓 **Academic Background**
 
-- 2026.07—Present  School of Computer and Communication Engineering, Northeastern University at Qinhuangdao, **Associate Professor**
-- 2024.11—2025.11  School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore, **Visiting Ph.D. Student**, Supervisors: Yong Liang Guan (Vice President) and Chau Yuen (IEEE Fellow)
-- 2021.09—2026.06  School of Information Science and Engineering, Shandong University, **Ph.D. in Engineering**, Supervisor: Prof. Ju Liu (Level-II Professor)
+- 2026.09—Present     College of Design and Engineering, National University of Singapore, Joint Ph.D. Training, Supervisor: Mehul Motani (IEEE Fellow)
+- 2023.09—Present     School of Information Science and Engineering, Shandong University, Ph.D. in Engineering, Supervisor: Prof. Ju Liu (Second-level Professor)
 
 ---
 
 ## 🔬 **Research Interests**
 
-- Extremely Large-Scale MIMO Communications (XL-MIMO)
-- Intelligent Metasurfaces (IMS)
+- Reconfigurable Intelligent Surfaces (RIS)
+- Rate-Splitting Multiple Access (RSMA)
 - Integrated Sensing and Communication (ISAC)
-- Near-Field Wireless Communications
-- Beam Training
-- Deep Unfolding
+- Stacked Intelligent Metasurfaces (SIM)
+- Optimization Theory
 
 ---
 
 ## 🌐 **Academic Services**
 
-- Young Editorial Board Member of China Communications
-- Committee Member of the CSIG Traffic Video Special Committee
-- TPC Chair, IEEE PIMRC 2026
-- TPC Member for international conferences, including IEEE ICC, GLOBECOM, and WCNC
-- Reviewer for more than ten international journals, including IEEE JSAC, TWC, TCOM, WCM, TIFS, TCCN, TVT, TITS, IOTJ, WCL, and CL
+- TPC Member of international conferences including IEEE ICC and PIMRC
+- Reviewer for international journals including IEEE TVT, IOTJ, and WCL
 
 ---
 
-## 📖 **Representative Achievements**
+## 📖 **Selected Achievements**
 
-**-** **For details, please refer to the Publications page at the top**
+**-** **Please refer to the Publications page at the top for details**
 
-**-** **Authored 11 papers as the first author**: 10 published papers (3 in IEEE TWC, 1 in IEEE TCOM, 2 in IEEE TVT, 1 in IEEE WCL, 1 in IEEE CL, 1 in ICASSP, and 1 in VTC); 1 paper under review (1 IEEE JSAC paper under major revision). Among them, 2 papers were recognized as ESI Highly Cited Papers, 1 paper was ranked among the Top 2 Most Popular Papers of the Year in IEEE CL, and 1 paper was ranked among the Top 50 Most Popular Papers in IEEE CL.
+**-** **5 papers completed as first author**
 
-**-** **Authored 6 papers as a co-first author**: 5 published papers (1 in IEEE TVT, 1 in IEEE WCL, 1 in IEEE CL, 1 in ICC, and 1 in WCNC); 1 paper under review (1 IEEE WCL paper under review).
+**-** **5 papers completed as corresponding author**
 
 
-**-** **Patent Applications**
+**-** **Patents**
 
-[1] Fuhui Sun; Qian Zhang; Xiaoyan Wang; Mingjie Shao; Ju Liu; Sum-Rate Optimization Method and Apparatus for RIS-Assisted MIMO Systems. (Invention Patent, Grant No.: CN117176214B)
+[1] Ju Liu; Xuejun Cheng; Qian Zhang; Guanghui Luo; Yuhui Jiao; Beamforming Method for Practical Intelligent Surface-Aided RSMA Systems. (Invention Patent, Publication No.: CN120110450A)
 
-[2] Ju Liu; Xuejun Cheng; Qian Zhang; Guanghui Luo; Yuhui Jiao; A Beamforming Method for Practical Intelligent Metasurface-Assisted RSMA Systems. (Invention Patent, Publication No.: CN120110450A)
+[2] Ju Liu; Xuejun Cheng; Guanghui Luo; Qian Zhang; Zheng Dong; Beamforming Method for Beyond-Diagonal Intelligent Surface-Aided NOMA Systems. (Invention Patent, Publication No.: CN119051703A)
 
-[3] Ju Liu; Xuejun Cheng; Guanghui Luo; Qian Zhang; Zheng Dong; A Beamforming Method for Beyond-Diagonal Intelligent Metasurface-Assisted NOMA Systems. (Invention Patent, Publication No.: CN119051703A)
+[3] Ju Liu; Shiyao Guo; Xuejun Cheng; Rang Zhang; Shuai Jiang; Beamforming Method for BD-RIS-Aided ISAC Systems. (Invention Patent, Publication No.: 202611013004.2)
 
-[4] Ju Liu; Zhiying Peng; Xiangcheng Wang; Qian Zhang; Zhichao Gao; Ziyu Li; A Joint Task Offloading and Resource Allocation Method for Multi-Server MEC-D2D Systems. (Invention Patent, Publication No.: CN116456497A)
+[4] Ju Liu; Xu Cao; Jinghui Yin; Xuejun Cheng; Jing Li; Reversible Adversarial Example Generation Method Based on Self-Embedding Watermarking. (Invention Patent, Publication No.: CN118115343A)
+
+[5] Xuejun Cheng; Chunjing Wang; Niuxiao Liang; Yuan Li; Xinning Geng; Intelligent Flower-Assisted Cultivation Method and System Based on Image Recognition. (Invention Patent, Grant No.: CN114982580B)
+
+[6] Chunjing Wang; Xuejun Cheng; Longxi Liu; Yuan Li; Wanchen Hou; Intelligent Scale, System, and Weighing Method Based on Image Recognition. (Invention Patent, Grant No.: CN114543960B)
+
+[7] Chunjing Wang; Xuejun Cheng; Niuxiao Liang; Longxi Liu; Yuan Li; Wenhao Yu; Intelligent Trash Bin. (Invention Patent, Grant No.: CN114044279B)
 
 ---
 
 ## 🏆 **Honors and Awards**
 
-- Recommended Admission to Graduate Study without Entrance Examination (2020)
-- National Scholarship for Undergraduate Students (2020, ranked first in the school)
+- Recommended Admission to Postgraduate Studies without Entrance Examination (2020)
+- National Scholarship for Undergraduate Students (2020, Ranked First in the School)
 - National Encouragement Scholarship (2018, 2019)
-- National Scholarship for Doctoral Students (2024, 2025)
+- National Scholarship for Ph.D. Students (2024, 2025)
 - Outstanding Graduate of Shandong Province (2021)
 - Outstanding Graduate of Shandong University (2026)
-- Academic Star of Shandong University (2026, the sole recipient from the school)
-- Outstanding Graduate Research Achievement Award of Shandong University (2026, the sole recipient from the school)
-- Excellence Award in the Ph.D. Midterm Assessment (ranked first)
-- First-Class Undergraduate Academic Scholarship (the sole recipient in the major throughout all four years)
-- Outstanding Ph.D. Student Source Scholarship and First-Class Scholarship for New Graduate Students
+- Academic Star of Shandong University (2026, Sole Recipient in the School)
+- Outstanding Graduate Research Achievement Award of Shandong University (2026, Sole Recipient in the School)
+- Excellent Award in the Ph.D. Midterm Assessment (Ranked First)
+- First-Class Undergraduate Academic Scholarship (Sole Recipient in the Major for Four Consecutive Years)
+- Outstanding Ph.D. Student Source Scholarship and First-Class Freshman Scholarship
 
----
 
-## 🤝 **Student Recruitment and Collaboration**
-
-Undergraduate, master's, and doctoral students interested in wireless communications, intelligent metasurfaces, integrated sensing and communication, and AI-enabled communication optimization are welcome to contact me for academic exchange and collaboration.
-
-Email: zhangqian@neuq.edu.cn; zq869054246@163.com.
+- Samsung Scholarship
+- First-Class Scholarship for Ph.D. Students
+- Excellent Award in the Ph.D. Midterm Assessment
+- Outstanding Graduate of Shandong Province
+- First-Class Undergraduate Academic Scholarship
+- Outstanding Graduate Student and Outstanding Graduate Student Leader
+- Advanced Individual in Innovation and Entrepreneurship
+- Outstanding Volunteer Service Team and Advanced Individual in Social Practice (Four Consecutive Times)
+- First Prize in the 9th "Datang Cup" National College Students Mobile Communication 5G Technology Competition (National Level)
+- Third Prize in the 10th "Datang Cup" National College Students Mobile Communication 5G Technology Competition (National Level)
+- First Prize in the 11th "Datang Cup" National College Students Mobile Communication 5G Technology Competition (National Level)
 
 ---
 
 <div style="text-align: center; margin-top: 30px; font-size: 14px; opacity: 0.75;">
-  👁️ Total Visits:
+  👁️ Total Page Views:
   <span id="busuanzi_site_pv">Loading...</span>
   &nbsp;&nbsp;|&nbsp;&nbsp;
   👤 Total Visitors:
