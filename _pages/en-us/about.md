@@ -218,6 +218,7 @@ body {
     <p>- Email: 19854191236@163.com</p>
   </div>
 
+
   <div class="top-header-logo">
     <img src="{{ '/assets/img/ICS_LOGO.png' | relative_url }}" alt="ICS Logo">
   </div>
@@ -237,11 +238,11 @@ Welcome to my personal homepage!
 
 **Xuejun Cheng** is a Ph.D. student and an IEEE Graduate Student Member.  
 In September 2023, he was admitted to Shandong University through the postgraduate recommendation program to pursue a Ph.D. degree in Communication Engineering under the successive master's-doctoral program, under the supervision of Prof. Ju Liu (Second-level Professor), with Prof. Zheng Dong as his co-supervisor.  
-In 2026, supported by the **China Scholarship Council**, he joined the National University of Singapore as a visiting Ph.D. student under the supervision of Prof. Mehul Motani (IEEE Fellow).
+In 2026, supported by the **China Scholarship Council**, he joined the National University of Singapore for joint Ph.D. training under the supervision of Prof. Mehul Motani (IEEE Fellow).
 
-His current research interests include reconfigurable intelligent surfaces (RIS), rate-splitting multiple access (RSMA), integrated sensing and communication (ISAC), stacked intelligent metasurfaces (SIM), and optimization theory. He has conducted a series of studies on beamforming, phase-shift design, and resource optimization for intelligent metasurface-aided wireless communication and sensing systems. He has published research papers in international journals and conferences, including IEEE TVT, IEEE WCL, IEEE ICC, and ICCC. Three papers have been ranked among the **TOP 50 Most Popular Articles of IEEE TVT, WCL, and CL**, respectively. He has been granted three national invention patents, with four additional patents accepted for processing. He serves as a reviewer for international journals including IEEE TVT, IOTJ, and WCL, and as a TPC Member for international conferences including GlobalCom and PIMRC.
+His current research interests include reconfigurable intelligent surfaces (RIS), rate-splitting multiple access (RSMA), integrated sensing and communication (ISAC), stacked intelligent metasurfaces (SIM), and optimization theory. He has conducted a series of studies on beamforming, phase-shift design, and resource optimization for intelligent metasurface-aided wireless communication and sensing systems. He has published academic papers in international journals and conferences, including IEEE TVT, IEEE WCL, IEEE ICC, and ICCC. Three papers have respectively been ranked among the **TOP 50 Most Popular Articles of IEEE TVT, WCL, and CL**. He has been granted three national invention patents, with four additional invention patents accepted. He serves as a reviewer for international journals including IEEE TVT, IOTJ, and WCL, and as a TPC Member for international conferences including GlobalCom and PIMRC.
  
-He has participated in research projects including the National Key Research and Development Program of China and the General Program of the National Natural Science Foundation of China, and has also led a National College Students' Innovation and Entrepreneurship Training Program project. He has received the Samsung Scholarship, First-Class Scholarship for Ph.D. Students, Excellent Award in the Ph.D. Midterm Assessment, Outstanding Graduate of Shandong Province, First-Class Undergraduate Scholarship, and more than forty national-level awards in innovation, entrepreneurship, and academic competitions. 
+He has participated in research projects including the National Key Research and Development Program of China and the General Program of the National Natural Science Foundation of China, and has led a National College Students' Innovation and Entrepreneurship Training Program project. He has received the Samsung Scholarship, First-Class Scholarship for Ph.D. Students, Excellent Award in the Ph.D. Midterm Assessment, Outstanding Graduate of Shandong Province, First-Class Undergraduate Scholarship, and more than forty awards in national-level innovation, entrepreneurship, and academic competitions. 
 
 
 </div>
@@ -276,9 +277,9 @@ He has participated in research projects including the National Key Research and
 
 **-** **Please refer to the Publications page at the top for details**
 
-**-** **5 papers completed as first author**
+**-** **5 papers completed as first author**: IEEE TVT, IEEE IOTJ, IEEE WCL, IEEE ICC, IEEE ICCC
 
-**-** **5 papers completed as corresponding author**
+**-** **5 papers completed as corresponding author**: IEEE TWC, IEEE IOTJ, China Communications
 
 
 **-** **Patents**
@@ -300,19 +301,6 @@ He has participated in research projects including the National Key Research and
 ---
 
 ## 🏆 **Honors and Awards**
-
-- Recommended Admission to Postgraduate Studies without Entrance Examination (2020)
-- National Scholarship for Undergraduate Students (2020, Ranked First in the School)
-- National Encouragement Scholarship (2018, 2019)
-- National Scholarship for Ph.D. Students (2024, 2025)
-- Outstanding Graduate of Shandong Province (2021)
-- Outstanding Graduate of Shandong University (2026)
-- Academic Star of Shandong University (2026, Sole Recipient in the School)
-- Outstanding Graduate Research Achievement Award of Shandong University (2026, Sole Recipient in the School)
-- Excellent Award in the Ph.D. Midterm Assessment (Ranked First)
-- First-Class Undergraduate Academic Scholarship (Sole Recipient in the Major for Four Consecutive Years)
-- Outstanding Ph.D. Student Source Scholarship and First-Class Freshman Scholarship
-
 
 - Samsung Scholarship
 - First-Class Scholarship for Ph.D. Students
