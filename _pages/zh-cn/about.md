@@ -210,13 +210,14 @@ body {
   </div>
 
   <div class="top-header-info">
-    <p>- 学校: 东北大学秦皇岛分校</p>
-    <p>- 学院: 计算机与通信工程学院</p>
-    <p>- 职称: 副教授</p>
-    <p>- 学历: 工学博士</p>
+    <p>- 学校: 山东大学-新加坡国立大学（联合培养）</p>
+    <p>- 学院: 信息科学与工程学院</p>
+    <p>- 专业: 通信工程</p>
+    <p>- 学历: 博士研究生</p>
     <p>- 毕业院校: 山东大学</p>
-    <p>- 邮箱: zq869054246@163.com</p>
+    <p>- 邮箱: 19854191236@163.com</p>
   </div>
+
 
   <div class="top-header-logo">
     <img src="{{ '/assets/img/ICS_LOGO.png' | relative_url }}" alt="ICS Logo">
