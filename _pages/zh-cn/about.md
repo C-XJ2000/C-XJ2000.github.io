@@ -206,7 +206,7 @@ body {
 <div class="top-header-row">
 
   <div class="top-header-photo">
-    <img src="{{ '/assets/img/Qian_Zhang_GitHub.png' | relative_url }}" alt="Xuejun Cheng">
+    <img src="{{ '/assets/img/Xuejun_Cheng_GitHub.png' | relative_url }}" alt="Xuejun Cheng">
   </div>
 
   <div class="top-header-info">
