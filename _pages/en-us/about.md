@@ -210,13 +210,13 @@ body {
   </div>
 
   <div class="top-header-info">
-    <p>- University: Shandong University–National University of Singapore (Joint Ph.D. Training)</p>
+    <p>- University: Shandong University</p>
     <p>- School: School of Information Science and Engineering</p>
     <p>- Major: Communication Engineering</p>
     <p>- Education: Ph.D. Student</p>
+    <p>- Joint Training Institution: National University of Singapore</p>
     <p>- Email: 19854191236@163.com</p>
   </div>
-
 
   <div class="top-header-logo">
     <img src="{{ '/assets/img/ICS_LOGO.png' | relative_url }}" alt="ICS Logo">
