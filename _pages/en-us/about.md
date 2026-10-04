@@ -30,6 +30,7 @@ body {
 
 /* =========================================================
    Top Section: Photo + Personal Information + Logo
+   Keep the same layout as the Chinese homepage
    ========================================================= */
 
 .top-header-row {
@@ -41,16 +42,22 @@ body {
     gap: 40px;
     margin-top: 10px;
     margin-bottom: 35px;
+
+    /* Required when the Logo uses absolute positioning */
+    position: relative;
 }
 
 
-/* Photo on the left */
+/* =========================================================
+   Photo on the Left
+   ========================================================= */
+
 .top-header-photo {
     flex: 0 0 auto;
 }
 
 .top-header-photo img {
-    width: 210px;   /* Smaller than before */
+    width: 190px;
     max-width: 100%;
     height: auto;
     display: block;
@@ -58,12 +65,23 @@ body {
 }
 
 
-/* Personal information in the middle */
+/* =========================================================
+   Personal Information in the Middle
+   ========================================================= */
+
 .top-header-info {
     flex: 1;
     min-width: 0;
+
     font-size: 16px;
     line-height: 2.0;
+
+    /*
+       Reserve space for the Logo on the right
+       to avoid overlap with long English text
+    */
+    padding-right: 210px;
+    box-sizing: border-box;
 }
 
 .top-header-info p {
@@ -72,27 +90,25 @@ body {
 }
 
 
-/* Logo on the right */
-/* Overall top section */
-.top-header-row {
-    position: relative;
-}
+/* =========================================================
+   Logo on the Right
+   The position can be customized using top and right
+   ========================================================= */
 
-
-/* Right Logo: customized position */
 .top-header-logo {
     position: absolute;
 
-    top: 60px;      /* Vertical position */
-    right: 40px;    /* Horizontal position */
+    top: 60px;      /* Larger value moves the Logo downward */
+    right: 40px;    /* Larger value moves the Logo to the left */
 
     z-index: 10;
 }
 
 
-/* Logo size */
+/* Logo Size */
+
 .top-header-logo img {
-    width: 170px;
+    width: 180px;
     height: auto;
     display: block;
 }
@@ -122,7 +138,9 @@ body {
     text-align: justify;
     text-align-last: left;
     text-justify: inter-character;
+
     line-height: 1.8;
+
     margin-top: 0;
     margin-bottom: 1.3em;
 }
@@ -138,19 +156,30 @@ body {
     .container.mt-5 {
         width: 100% !important;
         max-width: 100% !important;
+
         padding-left: 18px !important;
         padding-right: 18px !important;
     }
 
-    /* Change the top section to a vertical layout on mobile devices */
+
+    /* =====================================================
+       Change the Top Section to a Vertical Layout on Mobile
+       ===================================================== */
+
     .top-header-row {
         flex-direction: column;
+
         align-items: center;
         justify-content: center;
+
         gap: 18px;
+
         margin-top: 5px;
         margin-bottom: 28px;
     }
+
+
+    /* Photo on Mobile */
 
     .top-header-photo {
         width: 100%;
@@ -160,14 +189,21 @@ body {
     .top-header-photo img {
         width: 190px;
         max-width: 78%;
+
         margin-left: auto;
         margin-right: auto;
     }
 
+
+    /* Personal Information on Mobile */
+
     .top-header-info {
         width: 100%;
+
         font-size: 15px;
         line-height: 1.8;
+
+        padding-right: 0;
     }
 
     .top-header-info p {
@@ -175,20 +211,33 @@ body {
         margin-bottom: 4px;
     }
 
+
+    /* =====================================================
+       Logo on Mobile
+       Disable the absolute positioning used on desktop
+       ===================================================== */
+
     .top-header-logo {
+        position: static;
+
         width: 100%;
         text-align: center;
+
+        margin-top: 5px;
     }
 
     .top-header-logo img {
-        width: 95px;
+        width: 0px;
+
         margin-left: auto;
         margin-right: auto;
     }
 
+
     h2 {
         font-size: 24px;
     }
+
 
     html,
     body {
@@ -197,6 +246,7 @@ body {
 }
 
 </style>
+
 
 
 <!-- =====================================================
