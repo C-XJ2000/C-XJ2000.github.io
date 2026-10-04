@@ -30,6 +30,7 @@ body {
 
 /* =========================================================
    顶部区域：照片 + 个人信息 + Logo
+   与中文主页保持一致
    ========================================================= */
 
 .top-header-row {
@@ -41,16 +42,22 @@ body {
     gap: 40px;
     margin-top: 10px;
     margin-bottom: 35px;
+
+    /* Logo 使用绝对定位时必须保留 */
+    position: relative;
 }
 
 
-/* 左侧照片 */
+/* =========================================================
+   左侧照片
+   ========================================================= */
+
 .top-header-photo {
     flex: 0 0 auto;
 }
 
 .top-header-photo img {
-    width: 210px;   /* 比之前更小 */
+    width: 190px;
     max-width: 100%;
     height: auto;
     display: block;
@@ -58,12 +65,23 @@ body {
 }
 
 
-/* 中间个人信息 */
+/* =========================================================
+   中间个人信息
+   ========================================================= */
+
 .top-header-info {
     flex: 1;
     min-width: 0;
+
     font-size: 16px;
     line-height: 2.0;
+
+    /*
+       给右侧 Logo 预留空间，
+       避免英文较长时与 Logo 重叠
+    */
+    padding-right: 210px;
+    box-sizing: border-box;
 }
 
 .top-header-info p {
@@ -72,27 +90,25 @@ body {
 }
 
 
-/* 右侧 Logo */
-/* 顶部整体区域 */
-.top-header-row {
-    position: relative;
-}
+/* =========================================================
+   右侧 Logo
+   可以通过 top 和 right 自定义位置
+   ========================================================= */
 
-
-/* 右侧 Logo：自定义位置 */
 .top-header-logo {
     position: absolute;
 
-    top: 60px;      /* 上下位置 */
-    right: 40px;    /* 左右位置 */
+    top: 60px;      /* 越大越往下 */
+    right: 40px;    /* 越大越往左 */
 
     z-index: 10;
 }
 
 
 /* Logo 大小 */
+
 .top-header-logo img {
-    width: 170px;
+    width: 180px;
     height: auto;
     display: block;
 }
@@ -122,7 +138,9 @@ body {
     text-align: justify;
     text-align-last: left;
     text-justify: inter-character;
+
     line-height: 1.8;
+
     margin-top: 0;
     margin-bottom: 1.3em;
 }
@@ -138,19 +156,30 @@ body {
     .container.mt-5 {
         width: 100% !important;
         max-width: 100% !important;
+
         padding-left: 18px !important;
         padding-right: 18px !important;
     }
 
-    /* 顶部区域手机端改为上下排列 */
+
+    /* =====================================================
+       顶部区域手机端改为上下排列
+       ===================================================== */
+
     .top-header-row {
         flex-direction: column;
+
         align-items: center;
         justify-content: center;
+
         gap: 18px;
+
         margin-top: 5px;
         margin-bottom: 28px;
     }
+
+
+    /* 手机端照片 */
 
     .top-header-photo {
         width: 100%;
@@ -160,14 +189,21 @@ body {
     .top-header-photo img {
         width: 190px;
         max-width: 78%;
+
         margin-left: auto;
         margin-right: auto;
     }
 
+
+    /* 手机端个人信息 */
+
     .top-header-info {
         width: 100%;
+
         font-size: 15px;
         line-height: 1.8;
+
+        padding-right: 0;
     }
 
     .top-header-info p {
@@ -175,20 +211,33 @@ body {
         margin-bottom: 4px;
     }
 
+
+    /* =====================================================
+       手机端 Logo
+       取消电脑端绝对定位
+       ===================================================== */
+
     .top-header-logo {
+        position: static;
+
         width: 100%;
         text-align: center;
+
+        margin-top: 5px;
     }
 
     .top-header-logo img {
-        width: 95px;
+        width: 0px;
+
         margin-left: auto;
         margin-right: auto;
     }
 
+
     h2 {
         font-size: 24px;
     }
+
 
     html,
     body {
