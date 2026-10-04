@@ -19,7 +19,7 @@ latest_posts:
 <style>
 
 /* =========================================================
-   页面整体
+   Overall Page
    ========================================================= */
 
 html,
@@ -29,8 +29,8 @@ body {
 
 
 /* =========================================================
-   顶部区域：照片 + 个人信息 + Logo
-   与中文主页保持一致
+   Top Section: Photo + Personal Information + Logo
+   Keep the same layout as the Chinese homepage
    ========================================================= */
 
 .top-header-row {
@@ -43,13 +43,13 @@ body {
     margin-top: 10px;
     margin-bottom: 35px;
 
-    /* Logo 使用绝对定位时必须保留 */
+    /* Required when the Logo uses absolute positioning */
     position: relative;
 }
 
 
 /* =========================================================
-   左侧照片
+   Photo on the Left
    ========================================================= */
 
 .top-header-photo {
@@ -66,7 +66,7 @@ body {
 
 
 /* =========================================================
-   中间个人信息
+   Personal Information in the Middle
    ========================================================= */
 
 .top-header-info {
@@ -77,8 +77,8 @@ body {
     line-height: 2.0;
 
     /*
-       给右侧 Logo 预留空间，
-       避免英文较长时与 Logo 重叠
+       Reserve space for the Logo on the right
+       to avoid overlap with long English text
     */
     padding-right: 210px;
     box-sizing: border-box;
@@ -91,21 +91,21 @@ body {
 
 
 /* =========================================================
-   右侧 Logo
-   可以通过 top 和 right 自定义位置
+   Logo on the Right
+   The position can be customized using top and right
    ========================================================= */
 
 .top-header-logo {
     position: absolute;
 
-    top: 60px;      /* 越大越往下 */
-    right: 40px;    /* 越大越往左 */
+    top: 60px;      /* Larger value moves the Logo downward */
+    right: 40px;    /* Larger value moves the Logo to the left */
 
     z-index: 10;
 }
 
 
-/* Logo 大小 */
+/* Logo Size */
 
 .top-header-logo img {
     width: 180px;
@@ -115,7 +115,7 @@ body {
 
 
 /* =========================================================
-   姓名与欢迎语
+   Name and Welcome Message
    ========================================================= */
 
 .profile-name {
@@ -131,7 +131,7 @@ body {
 
 
 /* =========================================================
-   正文排版
+   Main Text Layout
    ========================================================= */
 
 .bio-justify p {
@@ -147,7 +147,7 @@ body {
 
 
 /* =========================================================
-   手机端适配
+   Mobile Adaptation
    ========================================================= */
 
 @media screen and (max-width: 768px) {
@@ -163,7 +163,7 @@ body {
 
 
     /* =====================================================
-       顶部区域手机端改为上下排列
+       Change the Top Section to a Vertical Layout on Mobile
        ===================================================== */
 
     .top-header-row {
@@ -179,7 +179,7 @@ body {
     }
 
 
-    /* 手机端照片 */
+    /* Photo on Mobile */
 
     .top-header-photo {
         width: 100%;
@@ -195,7 +195,7 @@ body {
     }
 
 
-    /* 手机端个人信息 */
+    /* Personal Information on Mobile */
 
     .top-header-info {
         width: 100%;
@@ -213,8 +213,8 @@ body {
 
 
     /* =====================================================
-       手机端 Logo
-       取消电脑端绝对定位
+       Logo on Mobile
+       Disable the absolute positioning used on desktop
        ===================================================== */
 
     .top-header-logo {
@@ -249,7 +249,7 @@ body {
 
 
 <!-- =====================================================
-     顶部区域：照片 + 个人信息 + Logo
+     Top Section: Photo + Personal Information + Logo
      ===================================================== -->
 
 <div class="top-header-row">
@@ -259,12 +259,12 @@ body {
   </div>
 
   <div class="top-header-info">
-    <p>- 学校: 山东大学</p>
-    <p>- 学院: 信息科学与工程学院</p>
-    <p>- 专业: 通信工程</p>
-    <p>- 学历: 博士研究生</p>
-    <p>- 联培院校: 新加坡国立大学</p>
-    <p>- 邮箱: 19854191236@163.com</p>
+    <p>- University: Shandong University</p>
+    <p>- School: School of Information Science and Engineering</p>
+    <p>- Major: Communication Engineering</p>
+    <p>- Education: Ph.D. Student</p>
+    <p>- Joint Training Institution: National University of Singapore</p>
+    <p>- Email: 19854191236@163.com</p>
   </div>
 
 
@@ -275,102 +275,101 @@ body {
 </div>
 
 
-# 程学军
+# Xuejun Cheng
 
-欢迎访问我的个人主页！
+Welcome to my personal homepage!
 
 ---
 
-## 👨‍🏫 **基本信息**
+## 👨‍🏫 **Biography**
 
 <div class="bio-justify" markdown="1">
 
-**程学军**，博士研究生，IEEE Graduate Student Member。  
-2023年9月推免至山东大学攻读通信工程博士学位（硕博连读），师从刘琚教授（二级），合作导师董郑教授；  
-2026年受**国家留学基金资助**赴新加坡国立大学联合培养，师从Prof. Mehul Motani（IEEE Fellow）。
+**Xuejun Cheng** is a Ph.D. student and an IEEE Graduate Student Member.  
+In September 2023, he was admitted to Shandong University through the postgraduate recommendation program to pursue a Ph.D. degree in Communication Engineering under the successive master's-doctoral program, under the supervision of Prof. Ju Liu (Second-level Professor), with Prof. Zheng Dong as his co-supervisor.  
+In 2026, supported by the **China Scholarship Council**, he joined the National University of Singapore for joint Ph.D. training under the supervision of Prof. Mehul Motani (IEEE Fellow).
 
-目前主要从事可重构智能超表面（RIS）、速率分割多址（RSMA）、通信感知一体化（ISAC）、堆叠智能超表面（SIM）及最优化理论等方向的研究。围绕智能超表面辅助无线通信与感知系统的波束成形、相移设计及资源优化等问题开展了系列研究工作，在IEEE TVT、IEEE WCL以及IEEE ICC、ICCC等国际期刊和会议发表学术论文，3篇论文分别位列**IEEE TVT、WCL、CL月度最受欢迎论文TOP 50**。国家发明专利授权3项、受理4项。担任IEEE TVT、IOTJ、WCL等国际期刊审稿人，并担任GlobalCom、PIMRC等国际会议TPC Member。
+His current research interests include reconfigurable intelligent surfaces (RIS), rate-splitting multiple access (RSMA), integrated sensing and communication (ISAC), stacked intelligent metasurfaces (SIM), and optimization theory. He has conducted a series of studies on beamforming, phase-shift design, and resource optimization for intelligent metasurface-aided wireless communication and sensing systems. He has published academic papers in international journals and conferences, including IEEE TVT, IEEE WCL, IEEE ICC, and ICCC. Three papers have respectively been ranked among the **TOP 50 Most Popular Articles of IEEE TVT, WCL, and CL**. He has been granted three national invention patents, with four additional invention patents accepted. He serves as a reviewer for international journals including IEEE TVT, IOTJ, and WCL, and as a TPC Member for international conferences including GlobalCom and PIMRC.
  
-参与国家重点研发计划项目、国家自然科学基金面上项目等科研项目，并主持国家级大学生创新创业训练计划项目。曾获三星奖学金、博士研究生一等奖学金、博士中期考核优秀奖、山东省优秀毕业生、本科一等奖学金以及国家级创新创业类及学科类竞赛奖项四十余项。 
-
+He has participated in research projects including the National Key Research and Development Program of China and the General Program of the National Natural Science Foundation of China, and has led a National College Students' Innovation and Entrepreneurship Training Program project. He has received the Samsung Scholarship, First-Class Scholarship for Ph.D. Students, Excellent Award in the Ph.D. Midterm Assessment, Outstanding Graduate of Shandong Province, First-Class Undergraduate Scholarship, and more than forty awards in national-level innovation, entrepreneurship, and academic competitions. 
 
 </div>
 
 ---
 
-## 🎓 **学术背景**
+## 🎓 **Academic Background**
 
-- 2026.09—至今     新加坡国立大学工学院，            联合培养博士，   导师：Mehul Motani（IEEE Fellow）
-- 2023.09—至今     山东大学信息科学与工程学院，        工学博士，      导师: 刘琚教授（二级）
-
----
-
-## 🔬 **研究方向**
-
-- 可重构智能超表面（RIS）
-- 速率分割多址（RSMA）
-- 通信感知一体化（ISAC）
-- 堆叠智能超表面（SIM）
-- 最优化理论
+- 2026.09—Present     College of Design and Engineering, National University of Singapore, Joint Ph.D. Training, Supervisor: Mehul Motani (IEEE Fellow)
+- 2023.09—Present     School of Information Science and Engineering, Shandong University, Ph.D. in Engineering, Supervisor: Prof. Ju Liu (Second-level Professor)
 
 ---
 
-## 🌐 **学术服务**
+## 🔬 **Research Interests**
 
-- IEEE ICC、PIMRC等国际会议 TPC Member
-- IEEE TVT、IOTJ、WCL等国际期刊审稿人
-
----
-
-## 📖 **代表性成果**
-
-**-** **详情见顶部Publications页面**
-
-**-** **以第一作者完成论文5篇**：IEEE TVT、 IEEE IOTJ、 IEEE WCL、 IEEE ICC、 IEEE ICCC
-
-**-** **以通讯完成论文5篇**：IEEE TWC、 IEEE IOTJ、 China Communications
-
-
-**-** **申请专利**
-
-[1] 刘琚; 程学军; 张迁; 罗广惠; 焦钰辉; 一种实际智能超表面辅助RSMA系统波束成形方法. (发明专利，公开号：CN120110450A)
-
-[2] 刘琚; 程学军; 罗广惠; 张迁; 董郑; 一种超对角智能超表面辅助NOMA系统波束成形方法. (发明专利，公开号：CN119051703A)
-
-[3] 刘琚; 郭士耀; 程学军; 张壤; 江帅; 一种BD-RIS辅助ISAC系统的波束成形方法. (发明专利，公开号：202611013004.2)
-
-[4] 刘琚; 曹旭; 尹景辉; 程学军; 李静; 一种基于自嵌入水印的可逆对抗样本生成方法. (发明专利，公开号：CN118115343A)
-
-[5] 程学军; 王春静; 梁牛晓; 李缘; 耿鑫宁; 一种基于图像识别的智能花卉辅助栽培方法及系统. (发明专利，授权号：CN114982580B)
-
-[6] 王春静; 程学军; 柳龙玺; 李缘; 侯宛辰; 一种基于图像识别的智能秤、系统及称重方法. (发明专利，授权号：CN114543960B)
-
-[7] 王春静; 程学军; 梁牛晓; 柳龙玺; 李缘; 于文浩; 智能垃圾桶. (发明专利，授权号：CN114044279B)
+- Reconfigurable Intelligent Surfaces (RIS)
+- Rate-Splitting Multiple Access (RSMA)
+- Integrated Sensing and Communication (ISAC)
+- Stacked Intelligent Metasurfaces (SIM)
+- Optimization Theory
 
 ---
 
-## 🏆 **荣誉奖励**
+## 🌐 **Academic Services**
 
-- 三星奖学金
-- 博士研究生一等奖学金
-- 博士中期考核优秀奖
-- 山东省优秀毕业生
-- 本科一等学业奖学金
-- 优秀研究生、优秀研究生干部
-- 创新创业先进个人
-- 级优秀志愿服务队、社会实践先进个人（连续四次）
-- 第九届“大唐杯”全国大学生移动通信5G技术大赛一等奖（国家级）
-- 第十届“大唐杯”全国大学生移动通信5G技术大赛三等奖（国家级）
-- 第十一届“大唐杯”全国大学生移动通信5G技术大赛一等奖（国家级）
+- TPC Member of international conferences including IEEE ICC and PIMRC
+- Reviewer for international journals including IEEE TVT, IOTJ, and WCL
+
+---
+
+## 📖 **Selected Achievements**
+
+**-** **Please refer to the Publications page at the top for details**
+
+**-** **5 papers completed as first author**: IEEE TVT, IEEE IOTJ, IEEE WCL, IEEE ICC, IEEE ICCC
+
+**-** **5 papers completed as corresponding author**: IEEE TWC, IEEE IOTJ, China Communications
+
+
+**-** **Patents**
+
+[1] Ju Liu; Xuejun Cheng; Qian Zhang; Guanghui Luo; Yuhui Jiao; Beamforming Method for Practical Intelligent Surface-Aided RSMA Systems. (Invention Patent, Publication No.: CN120110450A)
+
+[2] Ju Liu; Xuejun Cheng; Guanghui Luo; Qian Zhang; Zheng Dong; Beamforming Method for Beyond-Diagonal Intelligent Surface-Aided NOMA Systems. (Invention Patent, Publication No.: CN119051703A)
+
+[3] Ju Liu; Shiyao Guo; Xuejun Cheng; Rang Zhang; Shuai Jiang; Beamforming Method for BD-RIS-Aided ISAC Systems. (Invention Patent, Publication No.: 202611013004.2)
+
+[4] Ju Liu; Xu Cao; Jinghui Yin; Xuejun Cheng; Jing Li; Reversible Adversarial Example Generation Method Based on Self-Embedding Watermarking. (Invention Patent, Publication No.: CN118115343A)
+
+[5] Xuejun Cheng; Chunjing Wang; Niuxiao Liang; Yuan Li; Xinning Geng; Intelligent Flower-Assisted Cultivation Method and System Based on Image Recognition. (Invention Patent, Grant No.: CN114982580B)
+
+[6] Chunjing Wang; Xuejun Cheng; Longxi Liu; Yuan Li; Wanchen Hou; Intelligent Scale, System, and Weighing Method Based on Image Recognition. (Invention Patent, Grant No.: CN114543960B)
+
+[7] Chunjing Wang; Xuejun Cheng; Niuxiao Liang; Longxi Liu; Yuan Li; Wenhao Yu; Intelligent Trash Bin. (Invention Patent, Grant No.: CN114044279B)
+
+---
+
+## 🏆 **Honors and Awards**
+
+- Samsung Scholarship
+- First-Class Scholarship for Ph.D. Students
+- Excellent Award in the Ph.D. Midterm Assessment
+- Outstanding Graduate of Shandong Province
+- First-Class Undergraduate Academic Scholarship
+- Outstanding Graduate Student and Outstanding Graduate Student Leader
+- Advanced Individual in Innovation and Entrepreneurship
+- Outstanding Volunteer Service Team and Advanced Individual in Social Practice (Four Consecutive Times)
+- First Prize in the 9th "Datang Cup" National College Students Mobile Communication 5G Technology Competition (National Level)
+- Third Prize in the 10th "Datang Cup" National College Students Mobile Communication 5G Technology Competition (National Level)
+- First Prize in the 11th "Datang Cup" National College Students Mobile Communication 5G Technology Competition (National Level)
 
 ---
 
 <div style="text-align: center; margin-top: 30px; font-size: 14px; opacity: 0.75;">
-  👁️ 本站总访问量：
-  <span id="busuanzi_site_pv">加载中...</span> 次
+  👁️ Total Page Views:
+  <span id="busuanzi_site_pv">Loading...</span>
   &nbsp;&nbsp;|&nbsp;&nbsp;
-  👤 本站总访客数：
-  <span id="busuanzi_site_uv">加载中...</span> 人
+  👤 Total Visitors:
+  <span id="busuanzi_site_uv">Loading...</span>
 </div>
 
 <script src="https://cdn.busuanzi.cc/busuanzi/3.6.9/busuanzi.min.js" defer></script>
