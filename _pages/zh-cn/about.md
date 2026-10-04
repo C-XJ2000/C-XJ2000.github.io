@@ -366,10 +366,10 @@ body {
 ---
 
 <div style="text-align: center; margin-top: 30px; font-size: 14px; opacity: 0.75;">
-  👁️ 本站总访问量：
+  👁️ 本站总访问量:
   <span id="busuanzi_site_pv">加载中...</span> 次
   &nbsp;&nbsp;|&nbsp;&nbsp;
-  👤 本站总访客数：
+  👤 本站总访客数:
   <span id="busuanzi_site_uv">加载中...</span> 人
 </div>
 
