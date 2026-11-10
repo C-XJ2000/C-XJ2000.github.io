@@ -20,7 +20,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "post-a-post-with-plotly-js",
+  },{id: "nav-publications",
+          title: "Publications",
+          description: "Main research achievements in the fields of wireless communication and sensing",
+          section: "",
+          handler: () => {
+            window.location.href = "/Publications/";
+          },
+        },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
