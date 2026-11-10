@@ -365,12 +365,15 @@ body {
 
 ---
 
+
+<!-- Website Visitor Statistics -->
 <div style="text-align: center; margin-top: 30px; font-size: 14px; opacity: 0.75;">
   👁️ 本站总访问量:
-  <span id="busuanzi_site_pv">加载中...</span> 次
+  <span id="vercount_value_site_pv">加载中...</span> 次
   &nbsp;&nbsp;|&nbsp;&nbsp;
   👤 本站总访客数:
-  <span id="busuanzi_site_uv">加载中...</span> 人
+  <span id="vercount_value_site_uv">加载中...</span> 人
 </div>
 
-<script src="https://cdn.busuanzi.cc/busuanzi/3.6.9/busuanzi.min.js" defer></script>
+<script defer src="https://events.vercount.one/js"></script>
+
