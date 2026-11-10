@@ -364,12 +364,15 @@ He has participated in projects funded by the National Key Research and Developm
 
 ---
 
+
+<!-- Website Visitor Statistics -->
 <div style="text-align: center; margin-top: 30px; font-size: 14px; opacity: 0.75;">
   👁️ Total Page Views:
-  <span id="busuanzi_site_pv">Loading...</span>
+  <span id="vercount_value_site_pv">Loading...</span>
   &nbsp;&nbsp;|&nbsp;&nbsp;
   👤 Total Visitors:
-  <span id="busuanzi_site_uv">Loading...</span>
+  <span id="vercount_value_site_uv">Loading...</span>
 </div>
 
-<script src="https://cdn.busuanzi.cc/busuanzi/3.6.9/busuanzi.min.js" defer></script>
+<script defer src="https://events.vercount.one/js"></script>
+
