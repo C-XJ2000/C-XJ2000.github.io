@@ -1,14 +1,11 @@
 ---
 page_id: Publications
 layout: page
-title:
 permalink: /Publications/
 title: Publications
 description: Main research achievements in the fields of wireless communication and sensing
 nav: true
 nav_order: 2
----
-
 <style>
 
 /* =========================================================
@@ -79,8 +76,6 @@ nav_order: 2
         width: 90px;
     }
 }
-
-</style>
 
 
 <style>
@@ -163,37 +158,24 @@ nav_order: 2
     font-style: normal !important;
 }
 
-</style>
-
 
 <div class="publications-header">
-
-  <div class="publications-header-title">
+<div class="publications-header-title">
     <h2>📚 <strong>Publications</strong></h2>
-
     <div style="margin-top: 6px;">
       (*通讯作者)
     </div>
 
-  </div>
-
-  <div class="publications-header-logo">
+</div>
+<div class="publications-header-logo">
     <img src="{{ '/assets/img/ICS_LOGO.png' | relative_url }}" alt="ICS Logo">
   </div>
-
 </div>
-
 ---
-
-### 📘 **Journal Papers**
-
+📘 Journal Papers
 <ol class="pub-list">
-
-
 <!-- =========================
      第一作者论文
-     ========================= -->
-
 <li>
 <span class="author-name">Xuejun Cheng</span>,
 Qian Zhang,
@@ -205,8 +187,6 @@ Bruno Clerckx,
 vol. 75, no. 8, pp. 18703–18708, Aug. 2026.
 <span class="paper-info">(JCR Q1, IF = 7.5)</span>
 </li>
-
-
 <li>
 <span class="author-name">Xuejun Cheng</span>,
 Qian Zhang,
@@ -216,11 +196,9 @@ Zheng Dong,
 Ju Liu,
 "Joint Beamforming and Phase Shifts Design for RIS-Enabled RSMA-ISAC Systems,"
 <span class="journal-name">IEEE Wireless Communications Letters</span>.
-<span class="paper-info">(Accepted, JCR Q1, IF = 5.5)</span>
+<span class="paper-info">(Accepted, JCR Q1, IF = 5.1)</span>
 <a href="https://doi.org/10.1109/LWC.2026.3725182">DOI</a>
 </li>
-
-
 <li>
 <span class="author-name">Xuejun Cheng</span>,
 Yuhui Jiao,
@@ -228,10 +206,18 @@ Qian Zhang,
 <span class="etal">et al.</span>,
 "Cramer-Rao Bound Minimization for Stacked Intelligent Metasurfaces-Aided ISAC Systems,"
 <span class="journal-name">IEEE Internet of Things Journal</span>.
+<span class="paper-info">(Accepted, JCR Q1, IF = 8.7)</span>
+</li>
+<li>
+<span class="author-name">Xuejun Cheng</span>,
+Qian Zhang,
+Jiaming Shi,
+Yufei Zhao,
+Rugui Yao,
+"Sum Rate Maximization for Practical RIS-Enhanced Rate-Splitting Multiple-Access Systems,"
+<span class="journal-name">IEEE Internet of Things Journal</span>.
 <span class="paper-info">(Major Revision, JCR Q1, IF = 8.7)</span>
 </li>
-
-
 <li>
 <span class="author-name">Xuejun Cheng</span>,
 Qian Zhang,
@@ -241,49 +227,28 @@ Ju Liu,
 <span class="journal-name">IEEE Transactions on Wireless Communications</span>.
 <span class="paper-info">(To Be Submitted, JCR Q1, IF = 10.3)</span>
 </li>
-
-
 <!-- =========================
      通讯作者论文
-     ========================= -->
-
 <li>
 Qian Zhang,
+Maoyuan Wang,
 <span class="author-name">Xuejun Cheng</span>*,
 Yufei Zhao,
-Maoyuan Wang,
-Guanghui Luo,
-Shiyao Guo,
+<span class="etal">et al.</span>,
 "RIS-Assisted Multiuser NOMA Networks With Imperfect CSI Under Transceiver Hardware Impairments,"
 <span class="journal-name">IEEE Internet of Things Journal</span>.
-<span class="paper-info">(学生一作, Major Revision, JCR Q1, IF = 8.7)</span>
+<span class="paper-info">(Accepted, JCR Q1, IF = 8.7)</span>
 </li>
-
-
 <li>
 Qian Zhang,
 Lingchen Gu,
 Yao Ge,
 <span class="author-name">Xuejun Cheng</span>*,
-Maoyuan Wang,
+<span class="etal">et al.</span>,
 "Joint Beamforming and Antenna Position Optimization for Fluid Antenna-Aided ISAC Systems,"
 <span class="journal-name">China Communications</span>.
-<span class="paper-info">(学生一作, Major Revision, JCR Q2, IF = 3.0)</span>
+<span class="paper-info">(学生一作, Accepted, JCR Q2, IF = 3.0)</span>
 </li>
-
-
-<li>
-Qian Zhang,
-<span class="author-name">Xuejun Cheng</span>*,
-Jiaming Shi,
-Yufei Zhao,
-Rugui Yao,
-"Sum Rate Maximization for Practical RIS-Enhanced Rate-Splitting Multiple-Access Systems,"
-<span class="journal-name">IEEE Internet of Things Journal</span>.
-<span class="paper-info">(学生一作, Under Review, JCR Q1, IF = 8.7)</span>
-</li>
-
-
 <li>
 Qian Zhang,
 Rugui Yao,
@@ -292,11 +257,9 @@ Ye Fan,
 Maoyuan Wang,
 <span class="author-name">Xuejun Cheng</span>*,
 "Low-Complexity Beamforming Algorithm for Sum-Rate Maximization in Intelligent Metasurface-Aided Multiuser Systems,"
-<span class="journal-name">IEEE Internet of Things Journal</span>.
-<span class="paper-info">(Under Review, JCR Q1, IF = 8.7)</span>
+<span class="journal-name">IEEE Transactions on Vehicular Technology</span>.
+<span class="paper-info">(Under Review, JCR Q1, IF = 7.5)</span>
 </li>
-
-
 <li>
 Qian Zhang,
 Shiyao Guo,
@@ -307,12 +270,8 @@ Maoyuan Wang,
 <span class="journal-name">IEEE Transactions on Wireless Communications</span>.
 <span class="paper-info">(Under Review, JCR Q1, IF = 10.3)</span>
 </li>
-
-
 <!-- =========================
      合作作者论文
-     ========================= -->
-
 <li>
 Yunxiao Li,
 Qian Zhang,
@@ -321,11 +280,9 @@ Zhiguo Wang,
 Ju Liu,
 "Secure Transmission for Fluid Antenna-Aided ISAC Systems,"
 <span class="journal-name">IEEE Wireless Communications Letters</span>.
-<span class="paper-info">(Accepted, JCR Q1, IF = 5.5)</span>
+<span class="paper-info">(Accepted, JCR Q1, IF = 5.1)</span>
 <a href="https://doi.org/10.1109/LWC.2026.3672225">DOI</a>
 </li>
-
-
 <li>
 Yuhui Jiao,
 Qian Zhang,
@@ -333,11 +290,9 @@ Qian Zhang,
 Ju Liu,
 "Beyond-Diagonal Stacked Intelligent Metasurface Aided ISAC: Joint Power Allocation and Phase-Shift Design,"
 <span class="journal-name">IEEE Wireless Communications Letters</span>.
-<span class="paper-info">(Accepted, JCR Q1, IF = 5.5)</span>
+<span class="paper-info">(Accepted, JCR Q1, IF = 5.1)</span>
 <a href="https://ieeexplore.ieee.org/abstract/document/11614485">DOI</a>
 </li>
-
-
 <li>
 Maoyuan Wang,
 Qian Zhang,
@@ -348,11 +303,9 @@ Deqiang Wang,
 "DRL-Based Joint Beamforming and Surface Shape Optimization for Flexible Intelligent Metasurface-Aided ISAC Systems,"
 <span class="journal-name">IEEE Wireless Communications Letters</span>,
 vol. 15, pp. 4090–4094, 2026.
-<span class="paper-info">(JCR Q1, IF = 5.5)</span>
+<span class="paper-info">(JCR Q1, IF = 5.1)</span>
 <a href="https://doi.org/10.1109/LWC.2026.3709756">DOI</a>
 </li>
-
-
 <li>
 Maoyuan Wang,
 Qian Zhang,
@@ -367,8 +320,6 @@ vol. 30, pp. 1905–1909, 2026.
 <span class="paper-info">(JCR Q2, IF = 4.5)</span>
 <a href="https://doi.org/10.1109/LCOMM.2026.3688633">DOI</a>
 </li>
-
-
 <li>
 Xiaoxi Liu,
 Ju Liu,
@@ -380,21 +331,33 @@ Wenbo Wan,
 vol. 24, no. 9, pp. 14855–14868, May 2024.
 <span class="paper-info">(JCR Q2, IF = 4.5)</span>
 </li>
-
-
+<li>
+Qian Zhang,
+Peilin Ren,
+Zheng Dong,
+Rugui Yao,
+<span class="author-name">Xuejun Cheng</span>,
+<span class="etal">et al.</span>,
+"RIS-Aided Covert Communications With Discrete Phase Control, Element Control Failures, and Element Activation States,"
+<span class="journal-name">IEEE Transactions on Wireless Communications</span>.
+<span class="paper-info">(Under Review, JCR Q1, IF = 10.3)</span>
+</li>
+<li>
+Qian Zhang,
+Peilin Ren,
+Rugui Yao,
+<span class="author-name">Xuejun Cheng</span>,
+<span class="etal">et al.</span>,
+"Near-Field Discrete-Phase XL-RIS-Assisted Covert ISAC: A Unified Statistical Characterization,"
+<span class="journal-name">IEEE Transactions on Vehicular Technology</span>.
+<span class="paper-info">(JCR Q1, IF = 7.5)</span>
+</li>
 </ol>
-
 ---
-
-### 🧑‍🏫 **Conference Papers**
-
+🧑‍🏫 Conference Papers
 <ol class="pub-list">
-
-
 <!-- =========================
      第一作者会议论文
-     ========================= -->
-
 <li>
 <span class="author-name">Xuejun Cheng</span>,
 Qian Zhang,
@@ -409,13 +372,12 @@ Shanghai, China, 2025, pp. 1–6.
 <span class="paper-info">(EI, 通信领域重要国际会议)</span>
 <a href="https://ieeexplore.ieee.org/document/11148732">DOI</a>
 </li>
-
-
 <li>
 <span class="author-name">Xuejun Cheng</span>,
 Qian Zhang,
 Yuhui Jiao,
 Shiyao Guo,
+Guanghui Luo,
 Ju Liu,
 "Joint Precoding and Phase-Shift Optimization for Beyond-Diagonal RIS-Aided ISAC System,"
 2026 IEEE International Conference on Communications
@@ -424,12 +386,8 @@ Glasgow, United Kingdom, 2026, pp. 1–6.
 <span class="paper-info">(EI, IEEE旗舰会议)</span>
 <a href="https://ieeexplore.ieee.org/abstract/document/11586512">DOI</a>
 </li>
-
-
 <!-- =========================
      合作作者会议论文
-     ========================= -->
-
 <li>
 Yuhui Jiao,
 Qian Zhang,
@@ -444,8 +402,6 @@ IEEE Wireless Communications and Networking Conference
 <span class="paper-info">(EI, IEEE旗舰会议)</span>
 <a href="https://ieeexplore.ieee.org/document/11555646">DOI</a>
 </li>
-
-
 <li>
 Xiaotong Xu,
 Qian Zhang,
@@ -457,8 +413,6 @@ Ju Liu,
 International Conference on Signal and Information Processing, Networking and Computers
 (<span class="conference-name">ICSINC</span>).
 </li>
-
-
 <li>
 Xu Cao,
 Ju Liu,
@@ -472,8 +426,6 @@ Guanghui Luo,
 (<span class="conference-name">IJCNN</span>),
 Yokohama, Japan, 2024, pp. 1–8.
 </li>
-
-
 <li>
 Meihui Liu,
 Qian Zhang,
@@ -484,6 +436,4 @@ Qian Zhang,
 (<span class="conference-name">ISCIT</span>).
 <span class="paper-info">(Accepted)</span>
 </li>
-
-
 </ol>
