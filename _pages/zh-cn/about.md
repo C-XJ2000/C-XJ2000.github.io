@@ -326,9 +326,9 @@ body {
 
 **-** **详情见顶部Publications页面**
 
-**-** **以第一作者完成论文5篇**：IEEE TVT、 IEEE IOTJ、 IEEE WCL、 IEEE ICC、 IEEE ICCC
+**-** **以第一作者完成论文7篇**：IEEE TVT、 IEEE IOTJ、 IEEE WCL、 IEEE ICC、 IEEE ICCC
 
-**-** **以通讯完成论文5篇**：IEEE TWC、 IEEE IOTJ、 China Communications
+**-** **以通讯完成论文4篇**：IEEE TWC、 IEEE IOTJ、 China Communications
 
 
 **-** **申请专利**
@@ -351,7 +351,7 @@ body {
 
 ## 🏆 **荣誉奖励**
 
-- 三星奖学金
+- 三星奖学金、科汇奖学金
 - 博士研究生一等奖学金
 - 博士中期考核优秀奖
 - 山东省优秀毕业生
