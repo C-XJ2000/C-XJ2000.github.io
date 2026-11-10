@@ -263,7 +263,7 @@ body {
     <p>- University: Shandong University</p>
     <p>- School: School of Information Science and Engineering</p>
     <p>- Major: Communication Engineering</p>
-    <p>- Education: Ph.D. Student</p>
+    <p>- Academic Status: Ph.D. Student</p>
     <p>- Joint Training Institution: National University of Singapore</p>
     <p>- Email: 19854191236@163.com</p>
   </div>
@@ -287,13 +287,12 @@ Welcome to my personal homepage!
 <div class="bio-justify" markdown="1">
 
 **Xuejun Cheng** is a Ph.D. student and an IEEE Graduate Student Member.  
-In September 2023, he was admitted to Shandong University through the postgraduate recommendation program to pursue a Ph.D. degree in Communication Engineering under the successive master's-doctoral program, under the supervision of Prof. Ju Liu (Second-level Professor), with Prof. Zheng Dong as his co-supervisor.  
-In 2026, supported by the **China Scholarship Council**, he joined the National University of Singapore for joint Ph.D. training under the supervision of Prof. Mehul Motani (IEEE Fellow).
+In September 2023, he was recommended for admission to the successive master's–doctoral program in Communication Engineering at Shandong University. He is supervised by Prof. Ju Liu (Second-Level Professor), with Prof. Zheng Dong as his co-supervisor.  
+In 2026, supported by the **China Scholarship Council (CSC)**, he undertook joint Ph.D. training at the National University of Singapore under the supervision of Prof. Mehul Motani (IEEE Fellow).
 
-His current research interests include reconfigurable intelligent surfaces (RIS), rate-splitting multiple access (RSMA), integrated sensing and communication (ISAC), stacked intelligent metasurfaces (SIM), and optimization theory. He has conducted a series of studies on beamforming, phase-shift design, and resource optimization for intelligent metasurface-aided wireless communication and sensing systems. He has published academic papers in international journals and conferences, including IEEE TVT, IEEE WCL, IEEE ICC, and ICCC. Three papers have respectively been ranked among the **TOP 50 Most Popular Articles of IEEE TVT, WCL, and CL**. He has been granted three national invention patents, with four additional invention patents accepted. He serves as a reviewer for international journals including IEEE TVT, IOTJ, and WCL, and as a TPC Member for international conferences including GlobalCom and PIMRC.
- 
-He has participated in research projects including the National Key Research and Development Program of China and the General Program of the National Natural Science Foundation of China, and has led a National College Students' Innovation and Entrepreneurship Training Program project. He has received the Samsung Scholarship, First-Class Scholarship for Ph.D. Students, Excellent Award in the Ph.D. Midterm Assessment, Outstanding Graduate of Shandong Province, First-Class Undergraduate Scholarship, and more than forty awards in national-level innovation, entrepreneurship, and academic competitions. 
+His research interests include reconfigurable intelligent surfaces (RIS), rate-splitting multiple access (RSMA), integrated sensing and communication (ISAC), stacked intelligent metasurfaces (SIM), and optimization theory. His research focuses on beamforming, phase-shift design, and resource optimization for intelligent metasurface-aided wireless communication and sensing systems. He has published papers in international journals and conferences, including IEEE Transactions on Vehicular Technology (TVT), IEEE Wireless Communications Letters (WCL), IEEE International Conference on Communications (ICC), and IEEE/CIC International Conference on Communications in China (ICCC). Three of his papers have been ranked among the **Monthly Top 50 Most Popular Articles** in IEEE TVT, IEEE WCL, and IEEE Communications Letters (CL), respectively. He has been granted **three Chinese invention patents**, with **four additional invention patent applications accepted for processing**. He serves as a reviewer for journals including IEEE TVT, IEEE Internet of Things Journal (IoTJ), and IEEE WCL, and as a Technical Program Committee (TPC) member for conferences including IEEE GLOBECOM and PIMRC.
 
+He has participated in projects funded by the National Key Research and Development Program of China and the General Program of the National Natural Science Foundation of China, and has led a project under the National College Students' Innovation and Entrepreneurship Training Program. His honors include the Samsung Scholarship, the Kehui Scholarship, the First-Class Scholarship for Ph.D. Students, the Outstanding Award in the Ph.D. Midterm Assessment, the Outstanding Graduate of Shandong Province, and the First-Class Undergraduate Scholarship. He has received more than 40 honors and awards, including awards in national-level innovation, entrepreneurship, and academic competitions.
 
 </div>
 
@@ -301,8 +300,8 @@ He has participated in research projects including the National Key Research and
 
 ## 🎓 **Academic Background**
 
-- 2026.09—Present     College of Design and Engineering, National University of Singapore, Joint Ph.D. Training, Supervisor: Mehul Motani (IEEE Fellow)
-- 2023.09—Present     School of Information Science and Engineering, Shandong University, Ph.D. in Engineering, Supervisor: Prof. Ju Liu (Second-level Professor)
+- **Sep. 2026 – Present** | National University of Singapore, College of Design and Engineering | Joint Ph.D. Training | Supervisor: Prof. Mehul Motani (IEEE Fellow)
+- **Sep. 2023 – Present** | Shandong University, School of Information Science and Engineering | Ph.D. in Engineering (in progress) | Supervisor: Prof. Ju Liu (Second-Level Professor)
 
 ---
 
@@ -316,53 +315,52 @@ He has participated in research projects including the National Key Research and
 
 ---
 
-## 🌐 **Academic Services**
+## 🌐 **Academic Service**
 
-- TPC Member of international conferences including IEEE ICC and PIMRC
-- Reviewer for international journals including IEEE TVT, IOTJ, and WCL
+- Technical Program Committee (TPC) Member for international conferences, including IEEE ICC and PIMRC
+- Reviewer for international journals, including IEEE TVT, IEEE IoTJ, and IEEE WCL
 
 ---
 
-## 📖 **Selected Achievements**
+## 📖 **Selected Research Achievements**
 
-**-** **Please refer to the Publications page at the top for details**
+**-** **For details, please see the Publications page in the top navigation bar.**
 
-**-** **5 papers completed as first author**: IEEE TVT, IEEE IOTJ, IEEE WCL, IEEE ICC, IEEE ICCC
+**-** **7 first-author papers**: IEEE TVT, IEEE IoTJ, IEEE WCL, IEEE ICC, and IEEE ICCC
 
-**-** **5 papers completed as corresponding author**: IEEE TWC, IEEE IOTJ, China Communications
-
+**-** **4 corresponding-author papers**: IEEE TWC, IEEE IoTJ, and China Communications
 
 **-** **Patents**
 
-[1] Ju Liu; Xuejun Cheng; Qian Zhang; Guanghui Luo; Yuhui Jiao; Beamforming Method for Practical Intelligent Surface-Aided RSMA Systems. (Invention Patent, Publication No.: CN120110450A)
+[1] Ju Liu; Xuejun Cheng; Qian Zhang; Guanghui Luo; Yuhui Jiao; "A Beamforming Method for Practical RIS-Aided RSMA Systems." (Chinese Invention Patent, Publication No.: CN120110450A)
 
-[2] Ju Liu; Xuejun Cheng; Guanghui Luo; Qian Zhang; Zheng Dong; Beamforming Method for Beyond-Diagonal Intelligent Surface-Aided NOMA Systems. (Invention Patent, Publication No.: CN119051703A)
+[2] Ju Liu; Xuejun Cheng; Guanghui Luo; Qian Zhang; Zheng Dong; "A Beamforming Method for Beyond-Diagonal RIS-Aided NOMA Systems." (Chinese Invention Patent, Publication No.: CN119051703A)
 
-[3] Ju Liu; Shiyao Guo; Xuejun Cheng; Rang Zhang; Shuai Jiang; Beamforming Method for BD-RIS-Aided ISAC Systems. (Invention Patent, Publication No.: 202611013004.2)
+[3] Ju Liu; Shiyao Guo; Xuejun Cheng; Rang Zhang; Shuai Jiang; "A Beamforming Method for BD-RIS-Aided ISAC Systems." (Chinese Invention Patent, Application No.: 202611013004.2)
 
-[4] Ju Liu; Xu Cao; Jinghui Yin; Xuejun Cheng; Jing Li; Reversible Adversarial Example Generation Method Based on Self-Embedding Watermarking. (Invention Patent, Publication No.: CN118115343A)
+[4] Ju Liu; Xu Cao; Jinghui Yin; Xuejun Cheng; Jing Li; "A Method for Generating Reversible Adversarial Examples Based on Self-Embedding Watermarking." (Chinese Invention Patent, Publication No.: CN118115343A)
 
-[5] Xuejun Cheng; Chunjing Wang; Niuxiao Liang; Yuan Li; Xinning Geng; Intelligent Flower-Assisted Cultivation Method and System Based on Image Recognition. (Invention Patent, Grant No.: CN114982580B)
+[5] Xuejun Cheng; Chunjing Wang; Niuxiao Liang; Yuan Li; Xinning Geng; "An Image Recognition-Based Intelligent Flower Cultivation Assistance Method and System." (Chinese Invention Patent, Grant No.: CN114982580B)
 
-[6] Chunjing Wang; Xuejun Cheng; Longxi Liu; Yuan Li; Wanchen Hou; Intelligent Scale, System, and Weighing Method Based on Image Recognition. (Invention Patent, Grant No.: CN114543960B)
+[6] Chunjing Wang; Xuejun Cheng; Longxi Liu; Yuan Li; Wanchen Hou; "An Image Recognition-Based Smart Scale, System, and Weighing Method." (Chinese Invention Patent, Grant No.: CN114543960B)
 
-[7] Chunjing Wang; Xuejun Cheng; Niuxiao Liang; Longxi Liu; Yuan Li; Wenhao Yu; Intelligent Trash Bin. (Invention Patent, Grant No.: CN114044279B)
+[7] Chunjing Wang; Xuejun Cheng; Niuxiao Liang; Longxi Liu; Yuan Li; Wenhao Yu; "A Smart Trash Bin." (Chinese Invention Patent, Grant No.: CN114044279B)
 
 ---
 
 ## 🏆 **Honors and Awards**
 
-- Samsung Scholarship
+- Samsung Scholarship and Kehui Scholarship
 - First-Class Scholarship for Ph.D. Students
-- Excellent Award in the Ph.D. Midterm Assessment
+- Outstanding Award in the Ph.D. Midterm Assessment
 - Outstanding Graduate of Shandong Province
 - First-Class Undergraduate Academic Scholarship
 - Outstanding Graduate Student and Outstanding Graduate Student Leader
-- Advanced Individual in Innovation and Entrepreneurship
-- Outstanding Volunteer Service Team and Advanced Individual in Social Practice (Four Consecutive Times)
-- First Prize in the 9th "Datang Cup" National College Students Mobile Communication 5G Technology Competition (National Level)
-- Third Prize in the 10th "Datang Cup" National College Students Mobile Communication 5G Technology Competition (National Level)
-- First Prize in the 11th "Datang Cup" National College Students Mobile Communication 5G Technology Competition (National Level)
+- Outstanding Individual in Innovation and Entrepreneurship
+- Outstanding Volunteer Service Team and Outstanding Individual in Social Practice (Four Consecutive Times)
+- First Prize, 9th “Datang Cup” National College Students' 5G Mobile Communication Technology Competition (National Level)
+- Third Prize, 10th “Datang Cup” National College Students' 5G Mobile Communication Technology Competition (National Level)
+- First Prize, 11th “Datang Cup” National College Students' 5G Mobile Communication Technology Competition (National Level)
 
 ---
 
